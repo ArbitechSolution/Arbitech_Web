@@ -11,14 +11,15 @@ export default function Marketplace_ownNFT() {
                     <div class="section-heading-line"></div>
                     <p>Our NFT marketplace platform offers attractive characteristics that attract investors to kick start their dream business now.</p>
                 </div>
-                
-                    <div class=" ">
-                        <div class="">
+
+                <div class=" ">
+                    <div class="">
                         <div class="row ">
                             <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                <div class="column centered blurb tan"> <span class="icon-container icon-big">
-                                    <img class="" data-src="microchip.png" src="microchip.png" />
-                                </span>
+                                <div class="column centered blurb tan">
+                                    <span class="icon-container icon-big">
+                                        <img class="" data-src="microchip.png" src="microchip.png" />
+                                    </span>
                                     <h3>Trading all kinds of Digital items</h3>
                                     <p>The NFT marketplace development platform allows the users to trade and list any kind of digital collectibles like art, music, video, etc., in the form of non-fungible tokens. </p>
                                 </div>
@@ -73,10 +74,10 @@ export default function Marketplace_ownNFT() {
                         <div className="row">
 
 
-                        <div class="col-lg-2 col-sm-12 col-md-2 col-xs-12">
-                        </div>
+                            <div class="col-lg-2 col-sm-12 col-md-12 col-xs-12">
+                            </div>
 
-                            
+
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                                 <div class="column centered blurb tan"> <span class="icon-container icon-big">
                                     <img class="" data-src="multiple-options.png" src="multiple-options.png" />
@@ -94,7 +95,7 @@ export default function Marketplace_ownNFT() {
                                 </div>
                             </div>
                             <div class="col-lg-2  col-xs-12">
-                        </div>
+                            </div>
                         </div>
                     </div>
                 </div>

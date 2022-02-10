@@ -28,7 +28,7 @@ export const Homepage = () => {
                     <p>Our clientele is highly diverse and boasts of everything from small startups to some of the largest conglomerates in the market space. Enabled by a team of in-house specialists including expert developers, marketing professionals, business analysts, SEO analysts, and more, we have the capability to take on any project and deliver a successful result.</p>
                 </div>
                 <div className="mt-25 text-center">
-                    <a target="_blank" href="https://api.whatsapp.com/send?l=en&amp;text=Hi!%20I%27m%20interested%20in%20one%20of%20your%20products%20at%20INFINITE%20BLOCK%20TECH&amp;phone=916382665366" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+                    <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
                 </div>
             </div>
         </div>

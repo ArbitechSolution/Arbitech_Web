@@ -54,7 +54,7 @@
 
 .column.centered.blurb {
     border-radius: 5px;
-    min-height: 350px;
+    min-height: 380px !important;
     margin-top: 25px;
     padding: 10px;
     width: auto;
@@ -64,7 +64,8 @@
     box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%);
 }
 .tan {
-    border: 1px solid #0000ff4f;
+    border: 3px #f42f54;
+    border-style: dashed;
 }
 
 
@@ -103,4 +104,11 @@
 }
 h1, h2, h3, h4 {
     font-weight: 700;
+}
+
+@media screen and (max-width:768px) {
+    .card{
+        height: auto !important;
+    }
+    
 }

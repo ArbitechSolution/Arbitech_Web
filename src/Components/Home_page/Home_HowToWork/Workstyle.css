@@ -105,6 +105,10 @@
 .work-inner-box h4 {
     font-size: 20px;
 }
+
+.innerheadinPsetion{
+    color: #666 !important;
+}
 .work-icon img {
     width: 60px;
     max-width: 100%;
@@ -169,9 +173,9 @@ img {
     color: #fff;
 }
 
-.section-heading h2 {
+.headinginreal {
     font-size: 37px;
-    /* color: #111; */
+    color: #111 !important;
     font-weight: 400;
     margin-bottom: 10px;
     line-height: 1.2;

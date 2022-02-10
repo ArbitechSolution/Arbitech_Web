@@ -3,7 +3,7 @@
 
 .section-block {
     padding: 90px 0;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
 .section-heading {
@@ -90,8 +90,8 @@
     font-weight: 500;
     line-height: 170%;
 }
-.feature-box p {
-    color: #666;
+.innerfaturehere p {
+    color: #666 !important;
     font-size: 14px;
     font-weight: 400;
 }

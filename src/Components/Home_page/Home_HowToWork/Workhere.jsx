@@ -18,7 +18,7 @@ export default function Workhere() {
                                     <img className="" data-src="product.svg" src="product.svg" />
                                 </div>
                                 <h4>Requirement Analysis</h4>
-                                <p>Our team will gather all your requirements and start creating the perfect strategy to meet those needs.</p>
+                                <p className='innerheadinPsetion'>Our team will gather all your requirements and start creating the perfect strategy to meet those needs.</p>
                                 <ul>
                                     <li>Understanding project requirements</li>
                                     <li>Conceptualizing design</li>
@@ -34,7 +34,7 @@ export default function Workhere() {
                                     <img className="" data-src="project.svg" src="project.svg" />
                                 </div>
                                 <h4>Technical Design</h4>
-                                <p>Once we have a good idea of what you are looking for, we will work out the technical design aspect of the project.</p>
+                                <p className='innerheadinPsetion'>Once we have a good idea of what you are looking for, we will work out the technical design aspect of the project.</p>
                                 <ul>
                                     <li>Choosing the appropriate infrastructure</li>
                                     <li>Assigning working to the relevant tech personnel</li>
@@ -51,7 +51,7 @@ export default function Workhere() {
                                     <img className="" data-src="implement.svg" src="implement.svg" />
                                 </div>
                                 <h4>Design Implementation</h4>
-                                <p>Taking your requirements into consideration and the plan put forth by our team, our designers will get on the job.</p>
+                                <p className='innerheadinPsetion'>Taking your requirements into consideration and the plan put forth by our team, our designers will get on the job.</p>
                                 <ul>
                                     <li>Attractive UI/UX design</li>
                                     <li>Tailor-made platform architecture</li>
@@ -69,7 +69,7 @@ export default function Workhere() {
                                     <img className="" data-src="development.svg" src="development.svg" />
                                 </div>
                                 <h4>Development</h4>
-                                <p>Once we are satisfied with the design elements, the backend development phase of the project begins.</p>
+                                <p className='innerheadinPsetion'>Once we are satisfied with the design elements, the backend development phase of the project begins.</p>
                                 <ul>
                                     <li>Back end development (coding and implementation)</li>
                                     <li>Updating clients at every step of the development phase</li>
@@ -85,7 +85,7 @@ export default function Workhere() {
                                     <img className="" data-src="quality-assurance.svg" src="quality-assurance.svg" />
                                 </div>
                                 <h4>Quality Assurance</h4>
-                                <p>Post-development, all our products go through a litany of tests to ensure that they are ready to launch and are free from bugs.</p>
+                                <p className='innerheadinPsetion'>Post-development, all our products go through a litany of tests to ensure that they are ready to launch and are free from bugs.</p>
                                 <ul>
                                     <li>Testing &amp; auditing</li>
                                     <li>Fixing any bugs</li>
@@ -102,7 +102,7 @@ export default function Workhere() {
                                     <img className="" data-src="gear.svg" src="gear.svg" />
                                 </div>
                                 <h4>Launch and Maintenance</h4>
-                                <p>Once we’ve got the client’s approval, we launch the product with a carefully laid out roll out plan. Post-launch, we also offer expert maintenance and support services.</p>
+                                <p className='innerheadinPsetion'>Once we’ve got the client’s approval, we launch the product with a carefully laid out roll out plan. Post-launch, we also offer expert maintenance and support services.</p>
                                 <ul>
                                     <li>Periodic maintenance</li>
                                     <li>Upgrade at anytime</li>
@@ -133,7 +133,7 @@ export default function Workhere() {
         <div className="section-clients-grey" id="industry-uses">
             <div className="container">
                 <div className="section-heading center-holder">
-                    <h2>Real-World Applications of our Blockchain development services</h2>
+                    <h2 className='headinginreal'>Real-World Applications of our Blockchain development services</h2>
                     <div className="section-heading-line"></div>
                     <div className="row mt-5">
                         <div className="col-md-6 col-sm-6 col-xs-12">

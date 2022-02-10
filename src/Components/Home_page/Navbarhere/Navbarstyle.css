@@ -3,6 +3,8 @@
 
 .navbgher{
     background-color: #0f1932!important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 
 }
 .navtexthere{
@@ -17,6 +19,9 @@
     background-color: #fff;
 
 
+}
+.TextdecorationNFT{
+    text-decoration: none !important;
 }
 
 .dropdown-item{

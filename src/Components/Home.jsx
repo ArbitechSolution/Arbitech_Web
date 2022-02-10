@@ -16,6 +16,6 @@ export default function Home() {
     <Workhere/>
     <Blockchain/>
     <SliderWork/>
-    <ContactUs/>
+    {/* <ContactUs/> */}
   </div>;
 }
