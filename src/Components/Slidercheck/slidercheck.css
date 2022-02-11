@@ -1,0 +1,75 @@
+
+
+:root {
+    --dark: #333;
+    --highlight: #ff6666;
+    --light: #f6f6f6;
+  }
+  
+
+  
+  .scroll-toggle {
+    /* align-items: center; */
+    background-color: transparent;
+  
+    /* display: flex; */
+    max-width: 100%;
+    /* justify-content: center; */
+    width: 120%;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .scroll-toggle::-webkit-scrollbar {
+      display: none; 
+      /* for Chrome, Safari, and Opera */
+    }
+.scroll-toggle__list::-webkit-scrollbar {
+    display: none; 
+    /* for Chrome, Safari, and Opera */
+  }
+    
+  .scroll-toggle__button {
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+
+   
+    flex: 0 0 100px;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    transition: all 0.1s ease;
+  }
+  .scroll-toggle__button:active, .scroll-toggle__button:hover {
+    background-color: transparent;
+  }
+  .scroll-toggle__button:focus {
+    /* outline: 2px solid var(--highlight); */
+  }
+  .scroll-toggle__list {
+    /* border-left: 2px solid var(--dark);
+    border-right: 2px solid var(--dark); */
+    display: flex;
+    flex: 1 1 auto;
+    overflow-x: scroll;
+
+    
+  }
+  .scroll-toggle__list-item {
+    flex: 0 0 auto;
+    padding: 10px;
+    
+    
+  }
+
+
+  .react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+  }
+  
+  .react-horizontal-scrolling-menu--scroll-container {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  

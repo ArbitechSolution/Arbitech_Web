@@ -1,0 +1,455 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+
+.MVPAPPS{
+    margin-top: 10rem !important;
+}
+
+
+.headingdivPsection{
+    color: #97afd5;
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    text-align: center !important;
+    line-height: 1.6;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 2rem;
+}
+
+.imgcol1divherMVP{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: start; */
+    /* position: relative; */
+}
+
+.circledivimg{
+  animation: animatecircle 2s linear infinite;
+  z-index: 0;
+ 
+
+}
+
+@keyframes animatecircle {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  .secondimgmedi{
+      margin-top: -5rem !important;
+      z-index: 1000;
+  }
+
+
+  .maindivcol1imgsdiv{
+      position: absolute;
+      margin-top: -2rem;
+  }
+
+  .innerdivoneing{
+    /* position: absolute; */
+
+    position: absolute;
+    height: 200px;
+    width: 200px;
+   left: -3rem;
+   top: 5rem;
+
+  }
+
+  .secondivhereimgs{
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    top: 15rem;
+    left: 0rem;
+
+  }
+
+  .smalimgdivmovb{
+      position:absolute;
+      height: 200px;
+      width: 200px;
+      top: 13rem;
+      left:-3rem;
+  }
+
+  .rotationimgdivimgs{
+    position:absolute;
+    height: 150px;
+    width: 150px;
+    top: 25rem;
+    left:4rem;
+  }
+
+  .polygonimgrotation{
+  animation: animatecircle 10s linear infinite;
+
+  }
+
+  @keyframes animatecircle {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .triangledivimgdiv{
+
+    position:absolute;
+    height: 150px;
+    width: 150px;
+    top: 25rem;
+    left:23rem;
+
+  }
+
+  /* -------------------------------------------UL------------------------------------------ */
+
+  .ulmvpsection,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 1.5rem;
+  font-size: 16px;
+  color: #97afd5;
+  text-align: left;
+}
+
+.ulmvpsection {
+margin-left: 2rem;
+}
+
+.ulmvpsection li {
+  margin: 1em;
+  margin-left: 1.5em;
+  margin-top: 2rem;
+}
+
+.ulmvpsection li:before {
+  content: '\f00c ' ;
+  font-family: 'FontAwesome' !important;
+  float: left;
+  margin-left: -3em;
+
+  
+  font-size: 20px;
+  border: 2px solid ;
+  border-image-slice: 10;
+
+  border-radius: 5rem !important;
+  padding:5px;
+
+  border-image-source: linear-gradient(
+    -45deg, #f42f54 0%, #1b2d59 80%, #1b2d59 100%);
+
+}
+
+
+@media (min-width:280px) and (max-width:480px) {
+
+ 
+}
+
+
+@media (min-width:280px) and (max-width:380px) {
+    .MVPAPPS{
+        margin-top: 25rem !important;
+    }
+    .maindivcol1imgsdiv{
+      margin-top: 42rem;
+      /* display: none; */
+   }
+
+
+
+    
+  .innerdivoneing{
+    /* position: absolute; */
+
+    position: absolute;
+    height: 100px;
+    width: 100px;
+   left: 1rem;
+   top: 5rem;
+   /* border: 1px solid red; */
+
+  }
+
+  .secondivhereimgs{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 12rem;
+    left: 2.5rem;
+   /* border: 1px solid green; */
+
+
+  }
+
+  .smalimgdivmovb{
+      position:absolute;
+      height: 100px;
+      width: 100px;
+      top: 8rem;
+      left:1rem;
+      padding: 0;
+   /* border: 1px solid pink; */
+
+  }
+
+  .rotationimgdivimgs{
+    position:absolute;
+    height: 90px;
+    width: 90px;
+    top: 13rem;
+    left:3rem;
+  }
+
+
+
+  .triangledivimgdiv{
+
+    position:absolute;
+    height: 90px;
+    width: 90px;
+    top: 13rem;
+    left:12rem;
+
+  }
+}
+
+
+
+
+@media (min-width:380px) and (max-width:480px) {
+
+
+    .MVPAPPS{
+        margin-top: 25rem !important;
+    }
+    .maindivcol1imgsdiv{
+      margin-top: 33rem;
+      /* display: none; */
+   }
+    
+ 
+ 
+     
+   .innerdivoneing{
+     /* position: absolute; */
+ 
+     position: absolute;
+     height: 100px;
+     width: 100px;
+    left: 1rem;
+    top: 5rem;
+    /* border: 1px solid red; */
+ 
+   }
+ 
+   .secondivhereimgs{
+     position: absolute;
+     height: 250px;
+     width: 335px;
+     top: 12rem;
+     left: 2.5rem;
+    /* border: 1px solid green; */
+ 
+ 
+   }
+ 
+   .smalimgdivmovb{
+       position:absolute;
+       height: 150px;
+       width: 150px;
+       top: 8rem;
+       left:1rem;
+       padding: 0;
+    /* border: 1px solid pink; */
+ 
+   }
+ 
+   .rotationimgdivimgs{
+     position:absolute;
+     height: 110px;
+     width: 110px;
+     top: 15rem;
+     left:6rem;
+   }
+ 
+ 
+ 
+   .triangledivimgdiv{
+ 
+     position:absolute;
+     height: 110px;
+     width: 110px;
+     top: 15rem;
+     left:16rem;
+ 
+   }
+
+
+}
+
+
+
+
+
+
+@media (min-width:480px) and (max-width:768px) {
+
+
+    .MVPAPPS{
+        margin-top: 37rem !important;
+    }
+
+    .maindivcol1imgsdiv{
+        margin-top: 20rem;
+        /* display: none; */
+     }
+ 
+ 
+     
+   .innerdivoneing{
+     /* position: absolute; */
+ 
+     position: absolute;
+     height: 150px;
+     width: 150px;
+    left: 1rem;
+    top: 5rem;
+    /* border: 1px solid red; */
+ 
+   }
+ 
+   .secondivhereimgs{
+     position: absolute;
+     height: 250px;
+     width: 500px;
+     top: 14rem;
+     left: 5rem;
+    /* border: 1px solid green; */
+ 
+ 
+   }
+ 
+   .smalimgdivmovb{
+       position:absolute;
+       height: 200px;
+       width: 200px;
+       top: 12rem;
+       left:1rem;
+       padding: 0;
+    /* border: 1px solid pink; */
+ 
+   }
+ 
+   .rotationimgdivimgs{
+     position:absolute;
+     height: 150px;
+     width: 150px;
+     top: 22rem;
+     left:9rem;
+   }
+ 
+ 
+ 
+   .triangledivimgdiv{
+ 
+     position:absolute;
+     height: 110px;
+     width: 110px;
+     top: 24rem;
+     left:30rem;
+ 
+   }
+
+
+}
+
+
+
+@media (min-width:769px) and (max-width:1024px) {
+
+
+    .MVPAPPS{
+        margin-top: 10rem !important;
+    }
+
+    .maindivcol1imgsdiv{
+        margin-top: -3rem;
+        /* display: none; */
+     }
+ 
+ 
+     
+   .innerdivoneing{
+     /* position: absolute; */
+ 
+     position: absolute;
+     height: 100px;
+     width: 100px;
+    left: 1rem;
+    top: 5rem;
+    /* border: 1px solid red; */
+ 
+   }
+ 
+   .secondivhereimgs{
+     position: absolute;
+     height: 250px;
+     width: 335px;
+     top: 12rem;
+     left: 2.5rem;
+    /* border: 1px solid green; */
+ 
+ 
+   }
+ 
+   .smalimgdivmovb{
+       position:absolute;
+       height: 150px;
+       width: 150px;
+       top: 8rem;
+       left:1rem;
+       padding: 0;
+    /* border: 1px solid pink; */
+ 
+   }
+ 
+   .rotationimgdivimgs{
+     position:absolute;
+     height: 110px;
+     width: 110px;
+     top: 15rem;
+     left:6rem;
+   }
+ 
+ 
+ 
+   .triangledivimgdiv{
+ 
+     position:absolute;
+     height: 110px;
+     width: 110px;
+     top: 15rem;
+     left:16rem;
+ 
+   }
+
+
+}

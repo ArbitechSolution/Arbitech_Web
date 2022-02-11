@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.footerroew{
+    margin-top: 10rem;
+    /* margin-bottom: 5rem; */
+}
+
+.footertextsecond{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+    
+    /* justify-self: end; */
+    justify-content: end;
+}
+.Copytext{
+    color: #97afd5 !important;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+}
+
+.Copytext a{
+    color: #97afd5 !important;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+}
+
+.footertextsecond a{
+    color: #97afd5 !important;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+
+}
+
+/* .footer-nav {
+    margin: 0 -15px;
+} */
+.footer-nav li {
+    display: inline-block;
+    padding: 0 15px;
+}
+.tc-light .footer-nav li a {
+}
+.footer-nav li a {
+    /* color: #305082; */
+    
+}
+
+
+.tc-base-white, .tc-light, .tc-light a:not(.btn):not([class*="link-"]) {
+    color: #97afd5;
+}
+
+
+@media (min-width:280px) and (max-width:7680px) {
+    .footertextsecond{
+        display: flex;
+        flex-direction: row !important;
+        justify-content: space-evenly;
+        
+        /* justify-self: end; */
+        justify-content: center;
+    }
+    .Copytext{
+        color: #97afd5 !important;
+        text-transform: uppercase;
+        font-size: 12px;
+        text-align: center !important;
+        letter-spacing: 0.1em;
+    }
+    .footerroew{
+        margin-top: 5rem;
+        /* margin-bottom: 5rem; */
+    }
+}

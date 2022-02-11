@@ -1,0 +1,638 @@
+
+
+
+
+
+.maindivfirstcol{
+    background-image: url('../../Assets/dot-c-azalea.png');
+    background-size: cover;
+    margin-top: 10rem;
+    height: 75%;
+    width: 80%;
+    margin-left: -2rem;
+    /* background-position: center; */
+    
+   
+
+    
+}
+
+.contact-list{
+    position:absolute;
+    top: 50%;
+    left: 18%;
+  
+    
+}
+
+ .contact-icon {
+    color: #97afd5;
+    background: rgba(151,175,213,0.15);
+    box-shadow: none;
+}
+.contact-text{
+    margin-top: 0.5rem;
+    margin-left: 0.1rem;
+    text-align: left !important;
+}
+
+.numberhere{
+    /* margin-left: -1rem; */
+}
+
+.contact-icon {
+    height: 38px;
+    width: 38px;
+    font-size: 16px;
+    line-height: 38px;
+    text-align: center;
+    /* margin-top: 1rem; */
+    /* color: #fff; */
+    /* background: #f8aa38; */
+    /* box-shadow: 0px 2px 15px 0px rgb(248 170 56 / 50%); */
+    border-radius: 50%;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+.fa, .fas, .far, .fal, .fab {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    /* line-height: 1; */
+}
+.fa, .fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+.iconandtext{
+    display: flex;
+    /* margin-left: 2rem; */
+    margin-top: 1rem;
+    justify-content: space-evenly;
+}
+
+
+.circle01{
+    position: relative;
+    top: 10%;
+    left: 0%;
+    /* transform: translate(-50%, -50%); */
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    margin-left: 4rem;
+    margin-top: 2rem;
+    z-index: 0 !important;
+    /* border: 2px solid red; */
+  }
+  .circle101{
+  
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgba(151,175,213,0.3) rgba(151,175,213,0.3) #fff
+    #fff;
+    box-sizing: border-box;
+    animation: animatecircle 10s linear infinite;
+    z-index: -1 !important;
+    /* border: 2px solid red; */
+  }
+  .circle201{
+    position: absolute;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    top: 25px;
+    left: 25px;
+    width: calc(100% - 50px);
+    height: calc(100% - 50px);
+    border-color: #fff rgba(151,175,213,0.3) #fff
+      rgb(68, 75, 86);
+    box-sizing: border-box;
+    animation: animatecircle101 linear infinite;
+    z-index: -1 !important;
+    /* border: 2px solid red; */
+  }
+  @keyframes animatecircle {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes animatecircle101{
+    0% {
+      transform: rotate(-360deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  
+  /* .-----------------------------------------------Input here---------------------------- */
+
+  .nk-block-text-head {
+    padding-bottom: 35px;
+    margin-top: 10rem;
+}
+
+.tc-light h1, .tc-light h2, .tc-light h3, .tc-light h4, .tc-light h5, .tc-light h6, .tc-light .h1, .tc-light .h2, .tc-light .h3, .tc-light .h4, .tc-light .h5, .tc-light .h6 {
+    color: #fff;
+text-align: left !important;
+}
+
+@media (min-width: 576px){
+.title-lg {
+    font-size: 1.75rem;
+}
+}
+
+.tc-light p, .tc-light .list {
+    color: #97afd5 !important;
+}
+.Psectionhere{
+    color: #97afd5 !important;
+    text-align: left;
+
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+  
+
+.field-label {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-align: left !important;
+
+}
+
+.ttu {
+    text-transform: uppercase !important;
+    text-align: left !important;
+}
+label {
+    display: inline-block;
+    color: #97afd5 !important;
+    text-align: left !important;
+    margin-top: 1rem;
+
+
+    margin-bottom: 0.5rem;
+}
+
+
+.tc-light .input-bordered {
+    color: #eef3fc;
+    background: rgba(15,25,50,0.3) !important;
+    border-color: rgba(219,228,247,0.25);
+}
+.input-bordered {
+    border-radius: 6px;
+    border: 1px solid #dbe4f7;
+    width: 100%;
+    padding: 10px 15px;
+    line-height: 21px;
+    font-size: .9em;
+    /* color: #305082; */
+    transition: all .4s;
+    background-color: transparent;
+}
+button, input {
+    overflow: visible;
+}
+
+.input-textarea {
+    height: 105px;
+    resize: none;
+    outline: none;
+}
+textarea {
+    overflow: auto;
+    /* resize: vertical; */
+}
+
+
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+    cursor: pointer;
+}
+
+@media (min-width: 576px){
+.btn {
+    font-size: 13px;
+    line-height: 25px;
+    padding: 12px 30px;
+    letter-spacing: 0.1em;
+    min-width: 120px;
+}}
+.btn-round {
+    border-radius: 40px;
+    margin-top: 2rem;
+    
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 24px; */
+    font-weight: 500;
+    /* padding: 8px 15px; */
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    /* min-width: 120px; */
+    max-width: 100%;
+    border: 2px solid #f42f54;
+    box-sizing: border-box;
+    transition: all 0.5s;
+    position: relative;
+    /* border-radius: 5px; */
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    /* cursor: pointer; */
+}
+.btn-primary {
+    background-color: #f42f54;
+    border-color: #f42f54;
+}
+.btn {
+}
+  
+  
+
+@media (min-width:280px) and (max-width:391px) {
+  
+  .maindivfirstcol{
+    background-image: url('../../Assets/dot-c-azalea.png');
+    background-size: cover;
+    margin-top: 10rem;
+    height: 60%;
+    width: 80%;
+    margin-left: 1rem;
+    display: none;
+    /* background-position: center; */
+}
+
+
+    
+    .circle01{
+      position: relative;
+      top: 0%;
+      left: 0%;
+      /* transform: translate(-50%, -50%); */
+      width:200px;
+      height: 200px;
+      box-sizing: border-box;
+      margin-left: 0rem;
+      margin-top: 1rem;
+      z-index: 0 !important;
+      /* border: 2px solid red; */
+      display: none;
+    }
+
+    .contact-list{
+      position:absolute;
+      top: 43%;
+      left: 18%;
+    
+      
+  }
+
+  .nk-block-text-head {
+    padding-bottom: 35px;
+    margin-top: 5rem;
+}
+
+  
+.contact-list{
+position:absolute;
+top: 43%;
+left: 20%;
+
+
+
+}
+
+.contact-icon {
+/* color: #97afd5; */
+background: transparent;
+box-shadow: none;
+}
+.contact-text{
+margin-top: 0.5rem;
+margin-left: 0rem;
+text-align: left !important;
+font-size: 10px;
+margin-left: -1rem;
+}
+
+.numberhere{
+/* margin-left: -1rem; */
+}
+
+.contact-icon {
+height: 30px;
+width: 30px;
+font-size: 10px;
+line-height: 38px;
+text-align: center;
+/* margin-top: 1rem; */
+/* color: #fff; */
+/* background: #f8aa38; */
+/* box-shadow: 0px 2px 15px 0px rgb(248 170 56 / 50%); */
+border-radius: 50%;
+margin-right: 15px;
+/* margin-top: -1rem; */
+flex-shrink: 0;
+}
+.fa, .fas, .far, .fal, .fab {
+-moz-osx-font-smoothing: grayscale;
+-webkit-font-smoothing: antialiased;
+display: inline-block;
+font-style: normal;
+font-variant: normal;
+text-rendering: auto;
+/* line-height: 1; */
+}
+.fa, .fas {
+font-family: 'Font Awesome 5 Free';
+font-weight: 900;
+}
+
+.iconandtext{
+display: flex;
+/* margin-left: 2rem; */
+margin-top: 1rem;
+justify-content: space-evenly;
+}
+
+
+
+    
+}
+
+
+  
+  
+  @media (min-width:350px) and (max-width:380px) {
+  
+    .maindivfirstcol{
+      background-image: url('../../Assets/dot-c-azalea.png');
+      background-size: cover;
+      margin-top: 10rem;
+      height: 60%;
+      width: 80%;
+      margin-left: 1rem;
+      /* background-position: center; */
+  }
+  
+  
+      
+      .circle01{
+        position: relative;
+        top: 0%;
+        left: 10%;
+        /* transform: translate(-50%, -50%); */
+        width: 260px;
+        height: 260px;
+        box-sizing: border-box;
+        margin-left: 0rem;
+        margin-top: 1rem;
+        z-index: 0 !important;
+        /* border: 2px solid red; */
+      }
+  
+      .contact-list{
+        position:absolute;
+        top: 43%;
+        left: 18%;
+      
+        
+    }
+
+    .nk-block-text-head {
+      padding-bottom: 35px;
+      margin-top: 5rem;
+  }
+
+    
+.contact-list{
+  position:absolute;
+  top: 45%;
+  left: 20%;
+
+  
+}
+
+.contact-icon {
+  /* color: #97afd5; */
+  background: transparent;
+  box-shadow: none;
+}
+.contact-text{
+  margin-top: 0.5rem;
+  margin-left: 0.1rem;
+  text-align: left !important;
+  font-size: 12px;
+}
+
+.numberhere{
+  /* margin-left: -1rem; */
+}
+
+.contact-icon {
+  height: 30px;
+  width: 30px;
+  font-size: 12px;
+  line-height: 38px;
+  text-align: center;
+  /* margin-top: 1rem; */
+  /* color: #fff; */
+  /* background: #f8aa38; */
+  /* box-shadow: 0px 2px 15px 0px rgb(248 170 56 / 50%); */
+  border-radius: 50%;
+  margin-right: 15px;
+  /* margin-top: -1rem; */
+  flex-shrink: 0;
+}
+.fa, .fas, .far, .fal, .fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  /* line-height: 1; */
+}
+.fa, .fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
+
+.iconandtext{
+  display: flex;
+  /* margin-left: 2rem; */
+  margin-top: 1rem;
+  justify-content: space-evenly;
+}
+
+
+
+      
+  }
+  
+  
+  @media (min-width:380px) and (max-width:480px) {
+     
+    .maindivfirstcol{
+      background-image: url('../../Assets/dot-c-azalea.png');
+      background-size: cover;
+      margin-top: 10rem;
+      height: 70%;
+      width: 90%;
+      margin-left: 1rem;
+      /* background-position: center; */
+  }
+  
+      
+      .circle01{
+        position: relative;
+        top: 0%;
+        left: 5%;
+        /* transform: translate(-50%, -50%); */
+        width: 315px;
+        height: 315px;
+        box-sizing: border-box;
+        margin-left: 0rem;
+        margin-top: 1rem;
+        z-index: 0 !important;
+        /* border: 2px solid red; */
+      }
+
+      .contact-list{
+        position:absolute;
+        top: 43%;
+        left: 18%;
+      
+        
+    }
+  
+    
+   
+  
+  
+  
+  }
+  
+  
+  
+  @media (min-width:769px) and (max-width:1024px) {
+     
+  
+      
+
+.maindivfirstcol{
+    background-image: url('../../Assets/dot-c-azalea.png');
+    background-size: cover;
+    margin-top: 10rem;
+    height: 55%;
+    width: 90%;
+    margin-left: 1rem;
+    /* background-position: center; */
+}
+  
+  
+      
+      .circle01{
+        position: relative;
+        top: 7%;
+        left: 0%;
+        /* transform: translate(-50%, -50%); */
+        width:350px;
+        height:350px;
+        box-sizing: border-box;
+        margin-left: 0rem;
+        margin-top:1rem;
+        z-index: 0 !important;
+        /* border: 2px solid red; */
+      }
+
+      .contact-list{
+        position:absolute;
+        top: 43%;
+        left: 18%;
+      
+        
+    }
+  
+    
+   
+  
+  
+  
+  }
+  
+
+  
+  
+  @media (min-width:480px) and (max-width:768px) {
+     
+  
+      
+
+    .maindivfirstcol{
+        background-image: url('../../Assets/dot-c-azalea.png');
+        background-size: cover;
+        margin-top: 10rem;
+        height:80%;
+        width: 70%;
+        margin-left: 5rem;
+        /* background-position: center; */
+        
+       
+    
+        
+    }
+      
+      
+          
+          .circle01{
+            position: relative;
+            top: 7%;
+            left: 8%;
+            /* transform: translate(-50%, -50%); */
+            width:420px;
+            height:420px;
+            box-sizing: border-box;
+            margin-left: 0rem;
+            margin-top:1rem;
+            z-index: 0 !important;
+            /* border: 2px solid red; */
+          }
+    
+          .contact-list{
+            position:absolute;
+            top: 51%;
+            left: 30%;
+          
+            
+        }
+      
+        
+       
+      
+      
+      
+      }
+      
+  
+  

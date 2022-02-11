@@ -1,0 +1,609 @@
+@import url(//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.landingheadingH1{
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;  
+    line-height: 1.3;
+    text-transform: uppercase !important;
+    color: #fff;
+    font-size: 1.7rem;
+    text-align: left;
+}
+
+.containan{
+ 
+        padding-right: 15px;
+        padding-left: 15px;
+    
+
+}
+.LandingpagePP{
+    color: #97afd5;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    text-align: left !important;
+    line-height: 1.6;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.landingbtn{
+    font-size: 13px;
+    line-height: 25px;
+    padding: 12px 30px;
+    letter-spacing: 0.1em;
+    min-width: 120px;
+    background-color: #f42f54;
+    border-color: #f42f54;
+    border-radius: 40px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    max-width: 100%;
+    border: 2px solid #f42f54;
+    box-sizing: border-box;
+    transition: all 0.5s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 1000;
+}
+.btnhere{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.landingbtn:hover{
+    background-color: #fff;
+    color: #f42f54;
+    border: 2px solid #fff;
+}
+
+/* .landingpageimge{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+} */
+
+.containlandung{
+    margin-top: 5rem;
+}
+
+
+@media (min-width:200px) and (max-width:480px) {
+    .landingpageimge{
+margin-top: 2rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .landingheadingH1{
+       
+        text-align: center;
+    }
+    .LandingpagePP{
+    
+        text-align: center !important;
+     
+    }
+    .btnhere{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .landingpageimge img{
+        width: 100% !important;
+    }
+}
+
+
+/* ------------------------------------------------------------------Progressbar here------------------------------------------------------- */
+
+.progress-info{
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 0 0 17px;
+    color: #97afd5;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.progress-info li span{
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+}
+
+.progress-barcolorhere{
+    height: 6px;
+    border-radius: 2px;
+    position: relative;
+    width: 100%;
+    /* height: 20px; */
+    /* border-radius: 4px; */
+    background: rgba(151,175,213,0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    /* background-color: #007bff; */
+    transition: width 0.6s ease;
+}
+
+
+.progress-percent{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-size: 12px; */
+    background: #f42f54;
+    width: 30%;
+}
+
+.progress-percent::after{
+    position: absolute;
+    content: '';
+    top: 50%;
+    right: 0;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: #f42f54;
+    transform: translate(50%, -50%);
+}
+
+.progress-point{
+
+
+    color: #97afd5;
+    font-size: 11px;
+    line-height: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    position: absolute;
+    top: 30px;
+    transform: translateX(-50%);
+    padding: 3px 0;
+}
+
+.progress-point:after {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -1px;
+    content: '';
+    width: 2px;
+    height: 40px;
+    background: rgba(193,206,241,0.5);
+}
+
+
+/* ------------------------------------------------------------------------------Bonus Here--------------------------------------------------- */
+
+
+.bonusH6{
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase !important;
+    color: #97afd5 !important;
+    line-height: 1.3;
+    font-weight: 700;
+    font-family: "Quicksand", sans-serif;
+    text-align: left !important;
+
+}
+.Bonushere h3{
+    color: #fff;
+    font-weight: 300 !important;
+    font-size: 1.87rem;
+    line-height: 1.3;
+    font-family: "Quicksand", sans-serif;
+    margin-bottom: 0.5rem;
+    text-align: left !important;
+}
+.bonusTexthere{
+    font-size: 0.75rem;
+    text-align: left !important;
+    color: #97afd5;
+    line-height: 1.6;
+    font-weight: 400;
+}
+.mainbonushere{
+    display: flex;
+    /* border: solid red 1px; */
+    flex-direction: row;
+    justify-content: center;
+}
+/* ----------------------------------------------------------------Count Down Timer ---------------------------------------------------- */
+
+.countdownhere h6{
+    margin-bottom: 1rem;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase !important;
+    color: #97afd5 !important;
+    line-height: 1.3;
+    font-weight: 700;
+    font-family: "Quicksand", sans-serif;
+    text-align: left !important;
+
+
+
+
+}
+
+.Countdownstyling{
+    color: #97afd5 !important;
+    font-size: 5rem;
+    font-family: "Quicksand", sans-serif;
+    /* width: 20rem !important; */
+    /* border: #fff solid 1px; */
+    /* margin-left: 5rem; */
+
+
+}
+.countdownhere{
+    /* border: solid red 1px; */
+    /* margin-left: 5rem; */
+}
+
+.countdownul{
+    display: flex;
+    justify-content: space-between;
+    color: #97afd5 !important;
+    font-size: 5rem;
+    font-family: "Quicksand", sans-serif;
+    width: 23rem !important;
+    /* border: #fff solid 1px; */
+    list-style: none;
+    margin-left: -2rem;
+}
+
+.countdownul li h6{
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform:capitalize !important;
+    color: #97afd5 !important;
+    line-height: 1.3;
+    font-weight: 700;
+    font-family: "Quicksand", sans-serif;
+    text-align: left !important;
+
+}
+
+.countdownul li h5{
+    font-size: 25px;
+    letter-spacing: 0.1em;
+    /* text-transform: uppercase !important; */
+    color: #fff !important;
+    line-height: 1.3;
+    /* font-weight: 700; */
+    font-family: "Quicksand", sans-serif;
+    text-align: left !important;
+    margin-bottom: 1rem;
+
+
+}
+
+
+
+
+/* ---------------------------------------------------------Social Links and Video------------------------------------------------- */
+
+
+
+.btn-grp{
+    /* display: inline-flex; */
+    /* flex-wrap: wrap; */
+    /* align-items: center; */
+    /* margin-top: -10px !important;
+    margin-bottom: -10px !important; */
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    list-style: none;
+    margin-top: 2rem;
+}
+
+.btn-grp li a{
+    color: #97afd5 !important;
+    text-decoration: none;
+   
+
+    font-weight: 500;
+    letter-spacing: 0.005rem;
+    white-space: nowrap;
+ 
+    outline: 0 none;
+}
+
+.btn-grp li a span{
+
+    color: #97afd5 !important;
+    font-size: 12px;
+}
+
+
+.btn-grp li a i{
+
+    font-size: inherit;
+        margin-right: 12px;
+        /* font-size: 50px; */
+        border: 1px solid #eef3fc;
+        display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    color: #97afd5 !important;
+    letter-spacing: 0.005rem;
+    white-space: nowrap;
+}
+    
+
+.youtubelinkhere{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: -2rem;
+}
+
+
+
+
+
+
+
+
+/* // Declare variables
+$iconDimensions: 120px;
+$innerIconDimensions: 60px;
+$iconColor: rgba(137,25,67, 1);
+$easing: ease-out;
+
+// Init CSS */
+
+
+
+/* ------------------------------------------  Animation Her -------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+.radiation {
+
+  width: 12px;
+  height: 12px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  border: 1px solid rgba(137,25,67, 1);
+  border-radius: 50%;
+  margin: auto;
+  text-align: center;
+  animation: radiating 1.5s ease-out infinite;
+  
+}
+
+.radiation-icon {
+  
+    margin :auto;
+    border-radius: 50%;
+    background: rgba(137,25,67, 1);
+    width: 60px;
+    height: 60px;
+  
+}
+
+/* // The animation */
+@-webkit-keyframes radiating /* Safari and Chrome */ {
+  from {
+    width: 12px;
+    height: 12px;
+    border-color: rgba(242,74,79, 1);
+    border-width: 2px;
+    
+  }
+  to {
+    width: 3 * 12px;
+    height: 3 * 12px;
+    border-color: rgba(242,74,79, 0);
+    border-width: 2px;
+  }
+}
+
+@keyframes radiating {
+  from {
+    width: 12px;
+    height: 12px;
+    border-color: rgba(242,74,79, 1);
+    border-width: 2px;
+  }
+  to {
+   /* transform: rotate(360deg); */
+    width: 3 * 12px;
+    height: 3 * 12px;
+    border-color: rgba(242,74,79, 0);
+    border-width: 2px;
+  }
+}
+
+/* ----------------------------------------------------------------------------------- */
+
+
+
+
+.socialmeidalisthere{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-left: -1rem !important;
+}
+
+.socialmeidalisthere li i{
+    color: #97afd5 !important;
+
+
+}
+.socialmeidalisthere li i:hover{
+    color: #f42f54 !important;
+    border: 1px solid #eef3fc;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 15px;
+
+}
+
+
+.check{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:576px) and (max-width:991px) {
+
+    .countdownhere{
+        margin-top: 7rem;
+    }
+    .mainbonushere{
+        margin-top: 7rem;
+        display: flex;
+        /* border: solid red 1px; */
+        flex-direction: row;
+        justify-content: start;
+    }
+
+  
+    .countdownul{
+        display: flex;
+        justify-content: space-between;
+        color: #97afd5 !important;
+        font-size: 5rem;
+        font-family: "Quicksand", sans-serif;
+        /* border: #fff solid 1px; */
+        list-style: none;
+    margin-left: -2rem;
+
+    }
+    
+}
+
+@media (min-width:200px) and (max-width:575px) {
+
+    .countdownhere{
+        margin-top: 3rem;
+        
+        
+
+    }
+
+    .countdownhere h6{
+    
+        text-align: center !important;
+    
+    
+    
+    
+    }
+    .countdowndigts{
+        display: flex;
+        flex-direction: row;
+        justify-self: center;
+        /* border: #fff solid 1px; */
+
+    }
+    .mainbonushere{
+        margin-top: 7rem;
+        
+    }
+
+    .countdownul{
+        display: flex;
+        justify-content: space-evenly;
+        color: #97afd5 !important;
+        font-size: 5rem;
+        font-family: "Quicksand", sans-serif;
+        width: 20rem !important;
+        /* border: #fff solid 1px; */
+        list-style: none;
+        margin-left: 0rem;
+    }
+    .Bonushere h3{
+     
+        text-align: center !important;
+    }
+
+    .progress-info{
+        /* margin-bottom: 1rem; */
+    }
+}
+
+
+
+@media (min-width:200px) and (max-width:480px) {
+    .check{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+@media (min-width:200px) and (max-width:400px) {
+
+    .youtubelinkhere{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* justify-content: space-between; */
+        margin-left: 0rem ;
+    }
+    
+.btn-grp li a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -1.5rem;
+}
+.btn-grp li a span{
+  margin-top: 1rem;
+}
+
+}
