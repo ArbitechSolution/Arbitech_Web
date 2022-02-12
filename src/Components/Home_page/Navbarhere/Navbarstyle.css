@@ -1,0 +1,54 @@
+
+
+
+.navbgher{
+    background-color: #0f1932!important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+.navtexthere{
+    color: #fff !important;
+   
+}
+.navbar-toggler-icon{
+    color:#fff !important;
+    background-color: #fff;
+}
+.navbuttonere{
+    background-color: #fff;
+
+
+}
+.TextdecorationNFT{
+    text-decoration: none !important;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}
+
+.navbar-brand{
+    /* border:  1px solid red; */
+    margin-left: -1rem;
+    color: #fff !important;
+}
+
+
+@media all and (min-width: 280px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+
+
+@media screen and (max-width: 767px){
+    .navbar-brand{
+        /* border:  1px solid red; */
+        margin-left: 0rem;
+    }
+    .dropdown-item{
+       font-size: 14px !important;
+    }
+}
