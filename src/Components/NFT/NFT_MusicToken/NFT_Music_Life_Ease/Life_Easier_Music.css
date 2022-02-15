@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+.Life_Descrition p{
+    color: #97afd5;
+    font-size: 14px;
+
+}
+.Life_Descrition p a{
+    color: #f42f54;
+
+}
+
+.PsectionNFT a{
+    color: #f42f54;
+
+
+}
+
+@media screen and (max-width:480px) {
+
+    .whatsaapherebg{
+        width: 100% !important;
+    }
+    
+}
