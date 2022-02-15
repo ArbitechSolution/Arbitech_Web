@@ -66,9 +66,9 @@ export default function Home_Defi_dev() {
 
         {/* -------------------------------------------------------------------------------------------- */}
 
-        <div class="section-block cta_wrapper">
-        <div class="container">
-            <div class="section-heading center-holder semi_text_here">
+        <div className="section-block cta_wrapper">
+        <div className="container">
+            <div className="section-heading center-holder semi_text_here">
                  <h2>DeFi Development</h2><br/>
                  <p>
                  The new norm and the future that is full of promise for the financial sector
@@ -76,8 +76,8 @@ export default function Home_Defi_dev() {
                  </p> 
                
             </div>
-            <div class="mt-25 text-center">
-                 <a href="#contact" class="button-md dark-button two-btn js-scroll-trigger">Talk To Our Experts</a>
+            <div className="mt-25 text-center">
+                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk To Our Experts</a>
             </div>
         </div>
     </div>

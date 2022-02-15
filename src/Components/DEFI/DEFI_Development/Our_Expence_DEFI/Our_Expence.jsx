@@ -268,14 +268,14 @@ export default function Our_Expence() {
 
         {/* ---------------------------------------------------------------------------/ */}
 
-        <div class="section-block cta_wrapper">
-            <div class="container">
-                <div class="section-heading center-holder">
-                    <span class="l_prop_DEFI">Looking to change the course of your business with credible DeFi solutions? Schedule a meeting and get in touch with our seasoned DeFi experts NOW!</span>
+        <div className="section-block cta_wrapper">
+            <div className="container">
+                <div className="section-heading center-holder">
+                    <span className="l_prop_DEFI">Looking to change the course of your business with credible DeFi solutions? Schedule a meeting and get in touch with our seasoned DeFi experts NOW!</span>
 
                 </div>
-                <div class="mt-25 text-center">
-                    <a href="#contact" class="button-md dark-button two-btn js-scroll-trigger">Talk To Our Experts</a>
+                <div className="mt-25 text-center">
+                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk To Our Experts</a>
                 </div>
             </div>
         </div>
@@ -283,27 +283,27 @@ export default function Our_Expence() {
 
         {/* ----------------------------------------------------------------------------- */}
 
-        <div class="section-block section-block-grey">
-            <div class="container">
-                <div class="section-heading center-holder">
+        <div className="section-block section-block-grey">
+            <div className="container">
+                <div className="section-heading center-holder">
                     <h3>The Benefits Offered By DeFi Development Agency</h3>
 
-                    <div class="section-heading-line"></div>
+                    <div className="section-heading-line"></div>
                 </div>
-                <div class="row mt-50">
-                    <div class="col-md-7">
-                        <ul class="primary-list">
-                            <li><i class="fa fa-check-square"></i> It works seamlessly across different DApps and tokens proving its immense interoperability as it runs on an open-source permissionless blockchain network. </li>
-                            <li><i class="fa fa-check-square"></i> There is no involvement of any central entity owing to 100% decentralization. </li>
-                            <li><i class="fa fa-check-square"></i> The users are not asked to undergo KYC verification or submit their credit score</li>
-                            <li><i class="fa fa-check-square"></i> Anyone with internet access can use DeFi ensuring borderless availability. </li>
-                            <li><i class="fa fa-check-square"></i> It is non-custodial and users have full control of their assets.</li>
-                            <li><i class="fa fa-check-square"></i> DeFi systems cannot be hacked and supreme security measures are available to safeguard the users’ assets. </li>
+                <div className="row mt-50">
+                    <div className="col-md-7">
+                        <ul className="primary-list">
+                            <li><i className="fa fa-check-square"></i> It works seamlessly across different DApps and tokens proving its immense interoperability as it runs on an open-source permissionless blockchain network. </li>
+                            <li><i className="fa fa-check-square"></i> There is no involvement of any central entity owing to 100% decentralization. </li>
+                            <li><i className="fa fa-check-square"></i> The users are not asked to undergo KYC verification or submit their credit score</li>
+                            <li><i className="fa fa-check-square"></i> Anyone with internet access can use DeFi ensuring borderless availability. </li>
+                            <li><i className="fa fa-check-square"></i> It is non-custodial and users have full control of their assets.</li>
+                            <li><i className="fa fa-check-square"></i> DeFi systems cannot be hacked and supreme security measures are available to safeguard the users’ assets. </li>
 
                         </ul>
                     </div>
-                    <div class="col-md-5">
-                        <img class="mb-10 rounded-border shadow-primary Our_Defi_img_Here" data-src="defi-benifit.jpg" src="defi-benifit.jpg" width="110%" />
+                    <div className="col-md-5">
+                        <img className="mb-10 rounded-border shadow-primary Our_Defi_img_Here" data-src="defi-benifit.jpg" src="defi-benifit.jpg" width="110%" />
                     </div>
 
                 </div>
@@ -317,27 +317,27 @@ export default function Our_Expence() {
 
         {/* --------------------------------------------------------------- */}
 
-        <div class="section-block ">
-            <div class="container">
-                <div class="section-heading center-holder">
+        <div className="section-block ">
+            <div className="container">
+                <div className="section-heading center-holder">
                     <h3>The Opportunities To Make Use Of In DeFi</h3>
 
-                    <div class="section-heading-line"></div>
+                    <div className="section-heading-line"></div>
                 </div>
-                <div class="row mt-50">
-                    <div class="col-md-7 pull-right">
-                        <ul class="primary-list">
-                            <li><i class="fa fa-check-square"></i> It can make the entire financial system open and permissionless. </li>
-                            <li><i class="fa fa-check-square"></i> It boosts the market usage of Stablecoins reducing chances of volatility.  </li>
-                            <li><i class="fa fa-check-square"></i> Fast transactions can be executed in an immutable manner across borders without any hassles.</li>
-                            <li><i class="fa fa-check-square"></i>It helps in the growth of the booming Fintech industry. </li>
-                            <li><i class="fa fa-check-square"></i> It can streamline the process of lending and borrowing loans from financial institutions.</li>
-                            <li><i class="fa fa-check-square"></i>Governments can handle all their financial data safely and effortlessly through DeFi.  </li>
+                <div className="row mt-50">
+                    <div className="col-md-7 pull-right">
+                        <ul className="primary-list">
+                            <li><i className="fa fa-check-square"></i> It can make the entire financial system open and permissionless. </li>
+                            <li><i className="fa fa-check-square"></i> It boosts the market usage of Stablecoins reducing chances of volatility.  </li>
+                            <li><i className="fa fa-check-square"></i> Fast transactions can be executed in an immutable manner across borders without any hassles.</li>
+                            <li><i className="fa fa-check-square"></i>It helps in the growth of the booming Fintech industry. </li>
+                            <li><i className="fa fa-check-square"></i> It can streamline the process of lending and borrowing loans from financial institutions.</li>
+                            <li><i className="fa fa-check-square"></i>Governments can handle all their financial data safely and effortlessly through DeFi.  </li>
 
                         </ul>
                     </div>
-                    <div class="col-md-5 pull-left">
-                        <img class="mb-10 rounded-border shadow-primary Our_Defi_img_Here" data-src="opport-defi.jpg" style={{ height: '70%' }} src="opport-defi.jpg" width="100%" />
+                    <div className="col-md-5 pull-left">
+                        <img className="mb-10 rounded-border shadow-primary Our_Defi_img_Here" data-src="opport-defi.jpg" style={{ height: '70%' }} src="opport-defi.jpg" width="100%" />
                     </div>
 
                 </div>
@@ -348,13 +348,13 @@ export default function Our_Expence() {
 
         {/* -------------------------------------------------------------------------------------------/ */}
 
-        <div class="section-block section-block-grey">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-6">
-                        <div class="section-heading left_tti text-left">
+        <div className="section-block section-block-grey">
+            <div className="container">
+                <div className="row">
+                    <div className="col-xs-12 col-sm-12 col-md-6">
+                        <div className="section-heading left_tti text-left">
                             <h3 className='fs-3'>How Did DeFi Transform The World?</h3>
-                            <div class="section-heading-line"></div>
+                            <div className="section-heading-line"></div>
                             <p>During the pre-DeFi era, users had to go through a complicated process to avail loans and suffered from poor liquidity, data theft, hefty charges by third parties, and were influenced by external factors. </p>
                             <p>
                                 Post the introduction of the DeFi era, flash loans can be availed quickly. The system is unhackable, has adequate liquidity, low processing fees due to the presence of smart contracts, and highly immutable.
@@ -362,8 +362,8 @@ export default function Our_Expence() {
                         </div>
                     </div>
 
-                    <div class="col-xs-12 col-sm-12 col-md-6 text-center">
-                        <img class="rounded-border shadow-primary img_defi_here_T" data-src="transform-defi.jpg" src="transform-defi.jpg" width="100%" />
+                    <div className="col-xs-12 col-sm-12 col-md-6 text-center">
+                        <img className="rounded-border shadow-primary img_defi_here_T" data-src="transform-defi.jpg" src="transform-defi.jpg" width="100%" />
                     </div>
 
                 </div>

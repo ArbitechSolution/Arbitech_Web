@@ -6,48 +6,48 @@ import ReactWhatsapp from 'react-whatsapp';
 export default function Yield_DEFI() {
     return <div>
 
-        <div id="top" class="section-block sto-marketing-offer">
-            <div class="container">
+        <div id="top" className="section-block sto-marketing-offer">
+            <div className="container">
 
-                <div class="pre-Token-sec eto-Token-mar">
-                    <div class="row mt-50">
-                        <div class="col-xs-12 col-sm-6 col-md-6">
-                            <div class="center-holder section-heading">
-                                <p class="off-col-tit tit-sty">What is DeFi Yield Farming?</p>
-                                <div class="section-heading-line"></div>
+                <div className="pre-Token-sec eto-Token-mar">
+                    <div className="row mt-50">
+                        <div className="col-xs-12 col-sm-6 col-md-6">
+                            <div className="center-holder section-heading">
+                                <p className="off-col-tit tit-sty">What is DeFi Yield Farming?</p>
+                                <div className="section-heading-line"></div>
 
                             </div>
-                            <div class="feature-box55 pre-feature-box55">
-                                <div><img class="" data-src="defi-yeild.jpg" src="defi-yeild.jpg" /></div>
+                            <div className="feature-box55 pre-feature-box55">
+                                <div><img className="" data-src="defi-yeild.jpg" src="defi-yeild.jpg" /></div>
 
                                 <p>It involves the distribution of rewards by investing in cryptos in the DeFi market. Digital assets will be held by users and fixed or variable interest will be received as rewards. It is also popularly known as Liquidity mining where the liquidity providers add the invested funds of the users to the liquidity pools.  </p>
 
                             </div>
                         </div>
 
-                        <div class="col-xs-12 col-sm-6 col-md-6 ">
-                            <div class="center-holder section-heading">
-                                <p class="off-col-tit tit-sty">How Does Yield Farming Work?</p>
-                                <div class="section-heading-line"></div>
+                        <div className="col-xs-12 col-sm-6 col-md-6 ">
+                            <div className="center-holder section-heading">
+                                <p className="off-col-tit tit-sty">How Does Yield Farming Work?</p>
+                                <div className="section-heading-line"></div>
 
                             </div>
-                            <div class="feature-box55 pre-feature-box55">
-                                <div><img class="" data-src="farming-yeild.jpg" src="farming-yeild.jpg" /></div>
+                            <div className="feature-box55 pre-feature-box55">
+                                <div><img className="" data-src="farming-yeild.jpg" src="farming-yeild.jpg" /></div>
 
                                 <p>The liquidity providers will deposit or send their assets to the liquidity pool. This pool acts as a marketplace for users where they can borrow, lend or exchange their assets. These platforms charge fees paid back to the liquidity providers based on their respective share of the liquidity pool. The funds deposited will be pegged to stablecoins like USDT, DAI, and BUSD. </p>
 
 
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 "></div>
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-md-offset-3">
-                            <div class="center-holder section-heading">
-                                <p class="off-col-tit tit-sty">Decentralized Finance (DeFi) Yield Farming Development Services</p>
-                                <div class="section-heading-line"></div>
+                        <div className="col-xs-12 col-sm-3 col-md-3 col-lg-3 "></div>
+                        <div className="col-xs-12 col-sm-6 col-md-6 col-md-offset-3">
+                            <div className="center-holder section-heading">
+                                <p className="off-col-tit tit-sty">Decentralized Finance (DeFi) Yield Farming Development Services</p>
+                                <div className="section-heading-line"></div>
 
                             </div>
-                            <div class="feature-box55 pre-feature-box55">
-                                <div><img class="" data-src="defi-development.jpg" src="defi-development.jpg" /></div>
+                            <div className="feature-box55 pre-feature-box55">
+                                <div><img className="" data-src="defi-development.jpg" src="defi-development.jpg" /></div>
 
                                 <p>The common Yield Farming services are borrowing, lending,  and staking software solutions. It is a good source for generating passive income.  They are mostly used by entrepreneurs and startups. They operate without any order book and 24x7 automated liquidity is provided on all the protocols. The source of earnings is through incentivized tokens, multiple interests from DeFi protocols, and a rise in the capital value of their investments. </p>
 
@@ -61,31 +61,31 @@ export default function Yield_DEFI() {
         </div>
         {/* -------------------------------------------------------------------------------------- */}
 
-        <div id="sto-marketing-research" class="section-block-grey">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-6 ">
-                        <div class="center-holder section-heading">
-                            <p class="off-col-tit tit-sty">What is DeFi Lending and Borrowing?</p>
-                            <div class="section-heading-line"></div>
+        <div id="sto-marketing-research" className="section-block-grey">
+            <div className="container">
+                <div className="row">
+                    <div className="col-xs-12 col-sm-6 col-md-6 ">
+                        <div className="center-holder section-heading">
+                            <p className="off-col-tit tit-sty">What is DeFi Lending and Borrowing?</p>
+                            <div className="section-heading-line"></div>
 
                         </div>
-                        <div class="feature-box55 pre-feature-box55">
-                            <div><img class="" data-src="lendin-browsing.jpg" src="lendin-browsing.jpg" /></div>
+                        <div className="feature-box55 pre-feature-box55">
+                            <div><img className="" data-src="lendin-browsing.jpg" src="lendin-browsing.jpg" /></div>
 
                             <p>It acts as a permissionless and transparent ecosystem for borrowing and lending cryptocurrency assets with the help of decentralized smart contracts ensuring no middlemen in the process. It fills up the deficiencies witnessed in traditional banking services. Fiat currency can be deposited by users through a distributed system.  </p>
 
 
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 ">
-                        <div class="center-holder section-heading">
-                            <p class="off-col-tit tit-sty">DeFi Lending &amp; Borrowing Platform Development</p>
-                            <div class="section-heading-line"></div>
+                    <div className="col-xs-12 col-sm-6 col-md-6 ">
+                        <div className="center-holder section-heading">
+                            <p className="off-col-tit tit-sty">DeFi Lending &amp; Borrowing Platform Development</p>
+                            <div className="section-heading-line"></div>
 
                         </div>
-                        <div class="feature-box55 pre-feature-box55">
-                            <div><img class="" data-src="browsing-platform.jpg" src="browsing-platform.jpg" /></div>
+                        <div className="feature-box55 pre-feature-box55">
+                            <div><img className="" data-src="browsing-platform.jpg" src="browsing-platform.jpg" /></div>
 
                             <p>
                                 DeFi Lending and Borrowing platforms like Aave and Compound help debtors and creditors to obtain and provide loans through an open-source mechanism.  There is no central party involved in the process. It is accomplished by a combination of DApps and smart contracts.  Users can control their assets all by themselves. DeFi is flexible and can be integrated according to your business needs.
@@ -96,15 +96,15 @@ export default function Yield_DEFI() {
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="section-heading center-holder">
+            <div className="container">
+                <div className="section-heading center-holder">
                     <h3>How Does a DeFi Lending and Borrowing Works? </h3>
-                    <div class="section-heading-line"></div>
+                    <div className="section-heading-line"></div>
 
                 </div>
-                <div class="row  sto-mark-gen mobile-image">
-                    <div class="col-md-6 mob-left">
-                        <div class="section-heading">
+                <div className="row  sto-mark-gen mobile-image">
+                    <div className="col-md-6 mob-left">
+                        <div className="section-heading">
 
                             <ul>
                                 <li>The users deposit their assets and will earn interest whenever someone borrows their digital assets in the system. </li>
@@ -120,8 +120,8 @@ export default function Yield_DEFI() {
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6  mob-right">
-                        <img data-src="defi-lending.jpg" class="height_img_DEFI" alt="Security Token Marketing " src="defi-lending.jpg" width="100%" />
+                    <div className="col-md-6  mob-right">
+                        <img data-src="defi-lending.jpg" className="height_img_DEFI" alt="Security Token Marketing " src="defi-lending.jpg" width="100%" />
                     </div>
                 </div>
             </div>
@@ -129,22 +129,22 @@ export default function Yield_DEFI() {
 
         {/* -------------------------------------------------------------------------------- */}
 
-        <div class="section-block  section-block" style={{ paddingBottom: "30px" }}>
-            <div class="container">
-                <div class="section-heading">
+        <div className="section-block  section-block" style={{ paddingBottom: "30px" }}>
+            <div className="container">
+                <div className="section-heading">
 
-                    <div class="row align-items-center md-flex">
-                        <div class="col-md-7 text-left">
+                    <div className="row align-items-center md-flex">
+                        <div className="col-md-7 text-left">
                             <h4>What Is DeFi Staking?</h4>
                             <div className="Line_DEFI_here">
 
-                                <div class="section-heading-line-left"></div>
+                                <div className="section-heading-line-left"></div>
                             </div>
                             <p>Crypto assets will be staked on a wallet or on an exchange for earning passive income. It works under the proof of stake (PoS) consensus mechanism where the validators will create, propose or vote on the blockchain blocks based on the assets they stake or hold.  The interest rate would be given to the stakers based on the quantity of staked assets and other terms and conditions. </p>
                         </div>
-                        <div class="col-md-5 mt-5">
-                            <div class="wel-img mt-20">
-                                <img class="" data-src="staking.jpg" src="staking.jpg" width="100%" />
+                        <div className="col-md-5 mt-5">
+                            <div className="wel-img mt-20">
+                                <img className="" data-src="staking.jpg" src="staking.jpg" width="100%" />
                             </div>
                         </div>
                     </div>
@@ -155,28 +155,28 @@ export default function Yield_DEFI() {
 
         {/* ------------------------------------------------------------------------------------ */}
 
-        <div class="section-block  section-block" style={{ padding: "30px" }}>
-            <div class="container">
-                <div class="section-heading">
+        <div className="section-block  section-block" style={{ padding: "30px" }}>
+            <div className="container">
+                <div className="section-heading">
 
-                    <div class="row align-items-center md-flex">
-                        <div class="col-md-5 pull-left">
-                            <div class="wel-img mt-20">
-                                <img class="" data-src="platform-development.jpg" src="platform-development.jpg" width="100%" />
+                    <div className="row align-items-center md-flex">
+                        <div className="col-md-5 pull-left">
+                            <div className="wel-img mt-20">
+                                <img className="" data-src="platform-development.jpg" src="platform-development.jpg" width="100%" />
                             </div>
                         </div>
-                        <div class="col-md-7 text-left pull-right">
+                        <div className="col-md-7 text-left pull-right">
                             <h4>DeFi Staking Platform Development</h4>
                             <div className="Line_DEFI_here">
 
-                                <div class="section-heading-line-left"></div>
+                                <div className="section-heading-line-left"></div>
                             </div>
                             <p>DeFi staking platforms are built with high-end security measures and minimum risks for benefitting the end-user. There will be separate tokens available for staking and can be performed on DeFi supported non-custodial wallets. The rewards depend on the quantity of the staked assets, the staking duration, the inflation rate, and the network issuance rate. The benefits include a good source for earning passive income, low entry fees, easy to use, and sufficient liquidity.  </p>
 
 
                         </div>
                     </div>
-                    <div class="row">
+                    <div className="row">
 
                     </div>
                 </div>
@@ -185,34 +185,34 @@ export default function Yield_DEFI() {
 
         {/* ------------------------------------------------------------------------- */}
 
-        <div class="section-block  section-block" style={{ padding: "30px" }} >
-            <div class="container">
-                <div class="section-heading">
+        <div className="section-block  section-block" style={{ padding: "30px" }} >
+            <div className="container">
+                <div className="section-heading">
 
-                    <div class="row align-items-center md-flex">
-                        <div class="col-md-7 text-left">
+                    <div className="row align-items-center md-flex">
+                        <div className="col-md-7 text-left">
                             <h4>How Does DeFi Staking Platform Development work?</h4>
                             <div className="Line_DEFI_here">
 
-                                <div class="section-heading-line-left"></div>
+                                <div className="section-heading-line-left"></div>
                             </div>
                             <p>The staking process will vary from one platform to another. Some DeFi protocols will issue their separate tokens for staking or provide two tokens where the second token would be distributed as a reward for staking the native token. </p>
 
                             <p>Staking can be done on non-custodial wallets or exchanges.  The popular exchanges that support DeFi staking are Binance, Bitfinex, Kucoin, Coinbase, Poloniex, Gemini, and Huobi.
                             </p>
                         </div>
-                        <div class="col-md-5">
-                            <div class="wel-img mt-20">
-                                <img class="" data-src="staking-development.jpg" src="staking-development.jpg" width="100%" />
+                        <div className="col-md-5">
+                            <div className="wel-img mt-20">
+                                <img className="" data-src="staking-development.jpg" src="staking-development.jpg" width="100%" />
                             </div>
                         </div>
                     </div>
-                    <div class="row">
+                    <div className="row">
 
                     </div>
                 </div>
-                <div class="row">
-                    <div class="mt-25 text-center">
+                <div className="row">
+                    <div className="mt-25 text-center">
                         <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>

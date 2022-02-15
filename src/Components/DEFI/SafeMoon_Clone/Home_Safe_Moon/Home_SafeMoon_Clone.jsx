@@ -7,17 +7,17 @@ export default function Home_SafeMoon_Clone() {
     return (
         <div>
 
-            <div class="swiper_slide_SafeMoon" >
-                <div class="sec-overlay"></div>
-                <div class="container">
-                    <div class="slider-content text-left">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-12 text-center">
-                                <div class="animated fadeInDown banner_tit"><h1>SafeMoon Clone Script </h1></div>
-                                <p class="animated fadeInDown">Launch your crypto token like SafeMoon by availing our SafeMoon Clone </p>
-                                <div class="animated fadeInUp mt-30 btnRow">
-                                    <a href="#contact" class="button-md dark-button two-btn js-scroll-trigger mt-4">Talk to Our Experts</a>
-                                    <a href="#contact" class="button-md dark-button two-btn js-scroll-trigger mt-4">Get Quote</a>
+            <div className="swiper_slide_SafeMoon" >
+                <div className="sec-overlay"></div>
+                <div className="container">
+                    <div className="slider-content text-left">
+                        <div className="row">
+                            <div className="col-xs-12 col-md-12 text-center">
+                                <div className="animated fadeInDown banner_tit"><h1>SafeMoon Clone Script </h1></div>
+                                <p className="animated fadeInDown">Launch your crypto token like SafeMoon by availing our SafeMoon Clone </p>
+                                <div className="animated fadeInUp mt-30 btnRow">
+                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger mt-4">Talk to Our Experts</a>
+                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger mt-4">Get Quote</a>
                                 </div>
                             </div>
 
@@ -28,15 +28,15 @@ export default function Home_SafeMoon_Clone() {
             </div>
 
 
-            <div class="section-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 text-center">
-                            <div class="section-heading">
+            <div className="section-block">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-xs-12 col-sm-12 text-center">
+                            <div className="section-heading">
                                 <h2>SafeMoon Clone Development Company</h2>
-                                <div class="section-heading-line"></div>
+                                <div className="section-heading-line"></div>
                             </div>
-                            <div class="mt-40 intro_cnt">
+                            <div className="mt-40 intro_cnt">
                                 <p>The rise of new introductions of cryptocurrencies has increased tremendously in the past several years. New opportunities have been arisen for investors and for business entities to invest and gain profit.</p>
                                 <p>Many crypto companies have decided to create their cryptocurrencies and deploy them in the digital market. SafeMoon is the latest inductee in the cryptocurrency world, it was first introduced to the market in March 2021. From that period of time, till now, it has been a huge fundraiser. It has cemented itself as the fastest growing cryptocurrencies of the present time with desired forecasts and an extremely beneficial window of opportunity. Along with profits produced by the Bitcoin crypto, SafeMoon is raising more profits and empowering interests among the public audiences. </p>
                                 <p>  SafeMoon is a decentralized finance (DeFi) token. It is a combination of auto-liquidity generating protocol and RFI tokenomics. Due to its immense popularity and its success rate, the majority of the business entities are switching towards SafeMoon as an alternative. We at Infinite Block Tech have the expertise to create a token like SafeMoon for our customers and push their business forward.</p>
@@ -49,17 +49,17 @@ export default function Home_SafeMoon_Clone() {
             </div>
 
 
-            <div class="section-block section-block-grey">
+            <div className="section-block section-block-grey">
 
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-6">
-                            <div class="section-heading left_tti mt-5">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-xs-12 col-sm-12 col-md-6">
+                            <div className="section-heading left_tti mt-5">
                                 <h3>What is SafeMoon Clone ?</h3>
-                                <div class="section-heading-line"></div>
+                                <div className="section-heading-line"></div>
                                 <p className='text-left mt-5'>SafeMoon clone is a complete community-driven decentralized token that is created for exchanges that operate similar to SafeMoon. It is a customizable DeFi token protocol that executes functionalities that are similar to the original token. SafeMoon can also be categorized as a whitelabel solution. The users will receive the freedom to customize their SafeMoon token clone’s tokenomics plans based on their business requirements.</p>
                             </div>
-                            <div class="mt-25 mt-5">
+                            <div className="mt-25 mt-5">
                             <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
@@ -70,10 +70,10 @@ export default function Home_SafeMoon_Clone() {
                             </div>
                         </div>
 
-                        <div class="col-xs-12 col-sm-12 col-md-6 text-center">
+                        <div className="col-xs-12 col-sm-12 col-md-6 text-center">
                             <div itemscope="" itemtype="https://schema.org/ImageObject"/>
                                 <meta itemprop="name" content="Infinite Block Tech"/>
-                                    <img data-src="token2.png" class="img-responsive rounded-border shadow-primary Safe_img_mood" alt="SafeMoon Clone Script" itemprop="contentUrl" src="token2.png"/>
+                                    <img data-src="token2.png" className="img-responsive rounded-border shadow-primary Safe_img_mood" alt="SafeMoon Clone Script" itemprop="contentUrl" src="token2.png"/>
                                         <meta itemprop="description" content="SafeMoon Clone Script is the ready-made solution that helps to launch your own Crowdfunding Protocol. Get it now." />
                                         </div>
 

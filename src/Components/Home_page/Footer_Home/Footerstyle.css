@@ -14,6 +14,11 @@ ul {
     padding-left: 0;
     margin-bottom: 0;
 }
+.bgherefooter{
+    background: transparent !important;
+    outline: none;
+    border: none;
+}
 
 ol, ul {
     margin-top: 0;

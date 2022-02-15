@@ -213,24 +213,24 @@ export default function Service() {
             </div>
         </section>
 
-        <section class="idea-segment">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="life-segment">
-                            <div class="section-heading  text-left">
+        <section className="idea-segment">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-6 col-md-12">
+                        <div className="life-segment">
+                            <div className="section-heading  text-left">
                                 <h2>We Bring Your Ideas To Life </h2>
-                                {/* <div class="section-heading-line"></div> */}
+                                {/* <div className="section-heading-line"></div> */}
                                 <p>At ArbiTech Solutions, our big goal is to provide you with the tools you need to succeed. Whether that’s guiding you with our expertise or offering end-to-end solutions, we are here to help you overcome the challenges you face in this competitive digital space. We believe in building lasting relationships with our clients. Come be a part of the ArbiTech Solutions family and enjoy everything we have to offer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="idea-img">
-                            {/* <!-- <img class="lazy" data-src="img/home/idea-segment.png"> --> */}
+                    <div className="col-lg-6 col-md-12">
+                        <div className="idea-img">
+                            {/* <!-- <img className="lazy" data-src="img/home/idea-segment.png"> --> */}
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
                                 <meta itemprop="name" content="ArbiTech Solutions" />
-                                <img data-src="https://www.infiniteblocktech.com/img/home/idea-segment.png" class="img-responsive" alt="Blockchain Solutions" itemprop="contentUrl" src="https://www.infiniteblocktech.com/img/home/idea-segment.png" />
+                                <img data-src="https://www.infiniteblocktech.com/img/home/idea-segment.png" className="img-responsive" alt="Blockchain Solutions" itemprop="contentUrl" src="https://www.infiniteblocktech.com/img/home/idea-segment.png" />
                                 <meta itemprop="description" content="At ArbiTech Solutions, we provide you with the blockchain tools and solutions you need to succeed. Get it now." />
                             </div>
 

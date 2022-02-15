@@ -98,28 +98,28 @@ export default function Exchange_Pancake() {
 
 
 
-            <div class="mini-feature__style-2 gray_bg rarible">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-12">
-                            <div class="section-heading center-holder">
+            <div className="mini-feature__style-2 gray_bg rarible">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-xs-12 col-sm-12 col-md-12">
+                            <div className="section-heading center-holder">
                                 <h2>Benefits of PancakeSwap Clone Script</h2>
-                                <div class="section-heading-line"></div>
+                                <div className="section-heading-line"></div>
                             </div>
 
 
                         </div>
                     </div>
-                    <div class="row mt-20">
+                    <div className="row mt-20">
 
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="marketing.png" src="marketing.png" />
-                                    <img class="" data-src="marketing.png" src="marketing.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="marketing.png" src="marketing.png" />
+                                    <img className="" data-src="marketing.png" src="marketing.png" />
                                 </div>
-                                <div class="datas-box text-left">
-                                    <strong class="tit-prop">Effortless Pairing</strong>
+                                <div className="datas-box text-left">
+                                    <strong className="tit-prop">Effortless Pairing</strong>
 
                                     <p>
                                         Since our PancakeSwap clone script platform uses Automated Marketing Maker (AMM). The pairing process is smooth and effortless.
@@ -128,15 +128,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="smart-contracts.png" src="smart-contracts.png" />
-                                    <img class="" data-src="smart-contracts.png" src="smart-contracts.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="smart-contracts.png" src="smart-contracts.png" />
+                                    <img className="" data-src="smart-contracts.png" src="smart-contracts.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">Efficient Smart Contracts</strong>
+                                    <strong className="tit-prop">Efficient Smart Contracts</strong>
                                     <p>
                                         Our clone script platform is built on efficient smart contracts that enable the users to trust the process and execute transactions automatically.
 
@@ -144,15 +144,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="digital-wallet.png" src="digital-wallet.png" />
-                                    <img class="" data-src="digital-wallet.png" src="digital-wallet.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="digital-wallet.png" src="digital-wallet.png" />
+                                    <img className="" data-src="digital-wallet.png" src="digital-wallet.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">Multiple Wallet Integration</strong>
+                                    <strong className="tit-prop">Multiple Wallet Integration</strong>
                                     <p>
                                         Our clone script platform allows the user to choose their desired digital wallet to be integrated with the clone platform.
 
@@ -161,15 +161,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="kyc.png" src="kyc.png" />
-                                    <img class="" data-src="kyc.png" src="kyc.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="kyc.png" src="kyc.png" />
+                                    <img className="" data-src="kyc.png" src="kyc.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">Removal Of KYC</strong>
+                                    <strong className="tit-prop">Removal Of KYC</strong>
                                     <p>
                                         Since our platform is built on Binance Smart Chain technology, the requirement for Know Your Customer (KYC) verification is removed.
 
@@ -177,15 +177,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="trading.png" src="trading.png" />
-                                    <img class="" data-src="trading.png" src="trading.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="trading.png" src="trading.png" />
+                                    <img className="" data-src="trading.png" src="trading.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">Optimized Trading</strong>
+                                    <strong className="tit-prop">Optimized Trading</strong>
                                     <p>
                                         Our PancakeSwap clone script platform allows users to trade BEP-20 tokens by using the liquidity pools at ease.
 
@@ -193,15 +193,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="transaction.png" src="transaction.png" />
-                                    <img class="" data-src="transaction.png" src="transaction.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="transaction.png" src="transaction.png" />
+                                    <img className="" data-src="transaction.png" src="transaction.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">Low transaction cost</strong>
+                                    <strong className="tit-prop">Low transaction cost</strong>
                                     <p>
                                         Since our PancakeSwap clone script is built on the Binance Smart Chain platform, the transaction cost is low.
 
@@ -211,15 +211,15 @@ export default function Exchange_Pancake() {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
-                            <div class="mini-feature-box">
-                                <div class="icon-box">
-                                    <img class="" data-src="rewards.png" src="rewards.png" />
-                                    <img class="" data-src="rewards.png" src="rewards.png" />
+                        <div className="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" >
+                            <div className="mini-feature-box">
+                                <div className="icon-box">
+                                    <img className="" data-src="rewards.png" src="rewards.png" />
+                                    <img className="" data-src="rewards.png" src="rewards.png" />
                                 </div>
-                                <div class="datas-box text-left">
+                                <div className="datas-box text-left">
 
-                                    <strong class="tit-prop">High Rewards</strong>
+                                    <strong className="tit-prop">High Rewards</strong>
                                     <p>
                                         Our clone script platform is built on many-core functionalities that enable the user to enjoy high rewards in the form of their native token.
 
@@ -245,70 +245,70 @@ export default function Exchange_Pancake() {
 
 
 
-            <div class="section-grey solid section-block">
+            <div className="section-grey solid section-block">
 
 
-                <div class="container">
+                <div className="container">
 
-                    <div class="section-heading center-holder">
+                    <div className="section-heading center-holder">
                         <h2>Wallets Supported for PancakeSwap Clone</h2>
-                        <div class="section-heading-line"></div>
+                        <div className="section-heading-line"></div>
                         <p>A digital wallet is a very essential tool in the crypto world. It allows the users to trade and store cryptocurrencies. Our PancakeSwap clone platform has the potential to support multiple digital wallets.</p>
 
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="metamask.png" alt="Metamask" src="metamask.png"/>
-                                    <h4> MetaMask</h4>
+                    <div className="row">
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="metamask.png" alt="Metamask" src="metamask.png" />
+                                <h4> MetaMask</h4>
                             </div>
                         </div>
 
 
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="trustwallet.png" alt="Trust Wallet" src="trustwallet.png"/>
-                                    <h4> TrustWallet</h4>
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="trustwallet.png" alt="Trust Wallet" src="trustwallet.png" />
+                                <h4> TrustWallet</h4>
                             </div>
                         </div>
 
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="binance.png" alt="Binance" src="binance.png"/>
-                                    <h4>Binance  Wallet</h4>
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="binance.png" alt="Binance" src="binance.png" />
+                                <h4>Binance  Wallet</h4>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="walletconnect.png" alt="Wallet Connect" src="walletconnect.png"/>
-                                    <h4> WalletConnect</h4>
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="walletconnect.png" alt="Wallet Connect" src="walletconnect.png" />
+                                <h4> WalletConnect</h4>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="safepal.png" alt="Safepal" src="safepal.png"/>
-                                    <h4> SafePal Wallet</h4>
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="safepal.png" alt="Safepal" src="safepal.png" />
+                                <h4> SafePal Wallet</h4>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="features-box">
-                                <img class="" data-src="mathwallet.png" alt="Math Wallet" src="mathwallet.png"/>
-                                    <h4>MathWallet</h4>
+                        <div className="col-md-2 col-sm-4 col-xs-6">
+                            <div className="features-box">
+                                <img className="" data-src="mathwallet.png" alt="Math Wallet" src="mathwallet.png" />
+                                <h4>MathWallet</h4>
                             </div>
                         </div>
 
 
                     </div>
 
-                    <div class="row extra mt-20">
+                    <div className="row extra mt-20">
 
-                        <div class="animated fadeInUp text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <div className="animated fadeInUp text-center">
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
 
-<a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+                                <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
-</ReactWhatsapp>
+                            </ReactWhatsapp>
                         </div>
                     </div>
 

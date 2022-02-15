@@ -30,6 +30,30 @@ import MLM_Double_Way from './Components/Main_MLM_Clone/MLM_Double_Way';
 import MLM_Tron_Smart_Contract from './Components/Main_MLM_Clone/MLM_Tron_Smart_Contract';
 import MLM_Million_Menoy from './Components/Main_MLM_Clone/MLM_Million_Menoy';
 import MLM_Lions_Share from './Components/Main_MLM_Clone/MLM_Lions_Share';
+import Cryptocurrency_Development from './Components/Main_Cryptocurrency/Cryptocurrency_Development';
+import Wallet_Develoment from './Components/Main_Cryptocurrency/Wallet_Develoment';
+import Crypto_Wallet_Trust from './Components/Main_Cryptocurrency/Crypto_Wallet_Trust';
+import Cryptocurrency_MLM from './Components/Main_Cryptocurrency/Cryptocurrency_MLM';
+import Cryptocurrency_ATM_Software from './Components/Main_Cryptocurrency/Cryptocurrency_ATM_Software';
+import Cryptocurrency_Creation_Service from './Components/Main_Cryptocurrency/Cryptocurrency_Creation_Service';
+import MetaMask_Clone from './Components/Main_Cryptocurrency/MetaMask_Clone';
+import Binance_Smart_Chain_Development from './Components/Main_Cryptocurrency/Binance_Smart_Chain_Development';
+import Cryptocurrenc_Exchange_Software from './Components/Main_Exchange/Cryptocurrenc_Exchange_Software';
+import P2p_Exchange from './Components/Main_Exchange/P2p_Exchange';
+import White_Label from './Components/Main_Exchange/White_Label';
+import Legal_Crypto_Exchange from './Components/Main_Exchange/Legal_Crypto_Exchange';
+import Exchange_Marketing from './Components/Main_Exchange/Exchange_Marketing';
+import Decentralized_Exchange from './Components/Main_Exchange/Decentralized_Exchange';
+import Hybrid_crypto_Exchange from './Components/Main_Exchange/Hybrid_crypto_Exchange';
+import About_US_MAin from './Components/Main_Contact_Us/About_US_MAin';
+import Main_Privacy_Policy from './Components/Main_Contact_Us/Main_Privacy_Policy';
+import Main_Terms_and_Conditions from './Components/Main_Contact_Us/Main_Terms_and_Conditions';
+import Main_Contact_Us_here from './Components/Main_Contact_Us/Main_Contact_Us_here';
+import BlockChain_Development from './Components/Main_BlockChain/BlockChain_Development';
+import Palkadot_Deve from './Components/Main_BlockChain/Palkadot_Deve';
+import Blockchain_consultin from './Components/Main_BlockChain/Blockchain_consultin';
+import Blockchain_IOT from './Components/Main_BlockChain/Blockchain_IOT';
+import Crowdfunding_Platform from './Components/Main_BlockChain/Crowdfunding_Platform';
 
 function App() {
   return (
@@ -74,6 +98,68 @@ function App() {
   <Route exact path="/MLM_Tron_Smart_Contract" component={MLM_Tron_Smart_Contract}></Route>
   <Route exact path="/MLM_Million_Menoy_Clone" component={MLM_Million_Menoy}></Route>
   <Route exact path="/MLM_Lions_Share_Clone" component={MLM_Lions_Share}></Route>
+
+
+
+
+
+  <Route exact path="/Crpto_Dev" component={Cryptocurrency_Development}></Route>
+  <Route exact path="/Wallet_Deve" component={Wallet_Develoment}></Route>
+  <Route exact path="/Crpto_Wallet_Trust" component={Crypto_Wallet_Trust}></Route>
+  <Route exact path="/Cryptocurrency_MLM" component={Cryptocurrency_MLM}></Route>
+
+  <Route exact path="/Cryptocurrency_ATM_Software" component={Cryptocurrency_ATM_Software}></Route>
+  <Route exact path="/Cryptocurrency_Creation_Service" component={Cryptocurrency_Creation_Service}></Route>
+  <Route exact path="/MetaMask_Clone" component={MetaMask_Clone}></Route>
+  <Route exact path="/Binance_Smart_Chain_Development" component={Binance_Smart_Chain_Development}></Route>
+
+
+
+
+  <Route exact path="/Cryptocurrenc_Exchange_Software" component={Cryptocurrenc_Exchange_Software}></Route>
+  <Route exact path="/P2p_Exchange" component={P2p_Exchange}></Route>
+  <Route exact path="/White_Label" component={White_Label}></Route>
+  <Route exact path="/Legal_Crypto_Exchange" component={Legal_Crypto_Exchange}></Route>
+  <Route exact path="/Exchange_Marketing" component={Exchange_Marketing}></Route>
+  <Route exact path="/Decentralized_Exchange" component={Decentralized_Exchange}></Route>
+  <Route exact path="/Hybrid_crypto_Exchange" component={Hybrid_crypto_Exchange}></Route>
+
+
+
+
+
+
+  <Route exact path="/BlockChain_Development" component={BlockChain_Development}></Route>
+  <Route exact path="/Palkadot_Deve" component={Palkadot_Deve}></Route>
+  <Route exact path="/Blockchain_consultin" component={Blockchain_consultin}></Route>
+  <Route exact path="/Blockchain_IOT" component={Blockchain_IOT}></Route>
+  <Route exact path="/Crowdfunding_Platform" component={Crowdfunding_Platform}></Route>
+
+
+
+
+
+
+
+
+
+  <Route exact path="/About_US_MAin" component={About_US_MAin}></Route>
+  <Route exact path="/Main_Privacy_Policy" component={Main_Privacy_Policy}></Route>
+  <Route exact path="/Main_Terms_and_Conditions" component={Main_Terms_and_Conditions}></Route>
+  <Route exact path="/Main_Contact_Us_here" component={Main_Contact_Us_here}></Route>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
