@@ -1,46 +1,78 @@
 
 
 
-.navbgher{
+.navbgher12{
     background-color: #0f1932!important;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    padding: 10px 30px 5px 30px;
+    
 
 }
-.navtexthere{
-    color: #fff !important;
+.First_Col{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    margin-top: rem;
+    
+}
+.seond_col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.name_first{
+    font-weight: 700;
+    font-size:25px;
+ 
+}
+.name_second{
+   /* font-size: 18px; */
+  
+  
+}
+
+
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
    
+    /* justify-content: space-between; */
 }
-.navbar-toggler-icon{
-    color:#fff !important;
-    background-color: #fff;
-}
-.navbuttonere{
-    background-color: #fff;
 
-
-}
-.TextdecorationNFT{
+.TextdecorationNFT145{
     text-decoration: none !important;
 }
 
-.dropdown-item{
-    text-decoration: none !important;
+.navbtn_and_Toggle{
+  
 }
+
 
 .navbar-brand{
-    /* border:  1px solid red; */
-    margin-left: -1rem;
+     line-height: 10px !important;
     color: #fff !important;
 }
 
+.textNavher_white {
+    color: #fff !important;
+    margin-top: -2rem;
 
-@media all and (min-width: 280px) {
-	.navbar .nav-item .dropdown-menu{ display: none; }
-	.navbar .nav-item:hover .nav-link{   }
-	.navbar .nav-item:hover .dropdown-menu{ display: block; }
-	.navbar .nav-item .dropdown-menu{ margin-top:0; }
 }
+#collasible-nav-dropdown{
+    color: #fff !important;
+    font-size: 18px;
+
+}
+.bnt_nav_color{
+    background-color: #fff;
+    color: #000;
+    margin-left: 10%;
+    margin-top: -2rem;
+}
+
+
 
 
 @media screen and (max-width: 767px){
@@ -50,5 +82,9 @@
     }
     .dropdown-item{
        font-size: 14px !important;
+    }
+
+    .textNavher_white{
+        margin-left: auto !important;
     }
 }

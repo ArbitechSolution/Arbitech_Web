@@ -4,7 +4,9 @@
 
 
 
-
+.mt_check_here{
+    /* margin-top: -4rem; */
+}
 
 
 .Life_Descrition p{
@@ -29,4 +31,14 @@
         width: 100% !important;
     }
     
+}
+
+
+
+@media screen and (max-width:800px) {
+
+    .mt_check_here{
+        margin-top: 10rem;
+    }
+
 }

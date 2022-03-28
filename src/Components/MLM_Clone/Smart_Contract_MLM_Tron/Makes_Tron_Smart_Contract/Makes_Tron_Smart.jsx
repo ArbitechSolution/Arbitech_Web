@@ -249,7 +249,7 @@ export default function Makes_Tron_Smart() {
     <div className="section-block">
         <div className="container">
             <div className="section-heading center-holder">
-                <h2>Why Choose Infinite Block Tech ?</h2>
+                <h2>Why ChooseArbiTech Soultions ?</h2>
                 <div className="section-heading-line"></div>
             </div>
             <div className="row mt-50">

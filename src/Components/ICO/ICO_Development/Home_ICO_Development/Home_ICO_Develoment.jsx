@@ -63,7 +63,7 @@ export default function Home_ICO_Develoment() {
                         <h2>ICO Development Service Company</h2>
                         <div className="section-heading-line"></div>
                         <p>ICO, abbreviated from Initial Coin Offering, is one of the profitable and preferred fundraising mechanisms in the cryptosphere. ICO development refers to the creation of crypto tokens that the users sell in exchange for other cryptos to raise substantial funds for their start-ups. </p>
-                        <p>Our dedicated developers from Infinite Block Tech , strive to bring your vision to life by offering well planned, optimized, tailor-made solutions for your ICO development that fit the current business model and match your requirements. We make sure your ICO business is profitable and drive 100% positive outcomes.</p>
+                        <p>Our dedicated developers fromArbiTech Soultions , strive to bring your vision to life by offering well planned, optimized, tailor-made solutions for your ICO development that fit the current business model and match your requirements. We make sure your ICO business is profitable and drive 100% positive outcomes.</p>
                     </div>
                     <div className="row mt-20">
 
@@ -237,7 +237,7 @@ export default function Home_ICO_Develoment() {
                                 </div>
                                 <div className="mt-20 text-content text-left">
                                     <p>ICOs have been growing so evidently in recent years that every investor in the cryptoverse either wants to run an ICO or take part in one. Chances are highly likely that you might be one of them. Launching an ICO might be a time-consuming, tedious process if you run a campaign on your own, all the way from scratch. It will also probably cost you a lot of money. To indulge yourself with a smooth, successful running ICO launch campaign, all you need is a reliable ICO launching platform. </p>
-                                    <p>At Infinite Block Tech, we have the finest set of ICO developers with prodigious experience in the field, who offer all-inclusive services right from ICO token development, to ICO Marketing, Pre and Post Launch services etc. Our ICO launch services assure a solid base for your ICO and huge traction from potential investors around the world. </p>
+                                    <p>AtArbiTech Soultions, we have the finest set of ICO developers with prodigious experience in the field, who offer all-inclusive services right from ICO token development, to ICO Marketing, Pre and Post Launch services etc. Our ICO launch services assure a solid base for your ICO and huge traction from potential investors around the world. </p>
                                 </div>
                             </div>
                         </div>

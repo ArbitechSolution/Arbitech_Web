@@ -17,7 +17,7 @@ export default function Conspire_Creation() {
                                 <div className="section-heading-line"></div>
 
                                 <div className="mt-40 intro_cnt">
-                                    <p className="text-center">The term altcoin was termed from “alternative coin” as it was created as an alternative to Bitcoin. Altcoin is basically a modified version of Bitcoin with similar features with low processing time and fees. Some of the most popular altcoins are Ripple, Litecoin, Tether etc. As a premier altcoin creator, Infinite Block Tech has the ability to offer custom altcoin creation solutions at a cost-effective price for entrepreneurs all around the world. We diligently work with you to understand your specific requirements, and carefully analyze and implement a robust codebase for your altcoin. We also integrate the most progressive, immutable, and secure blockchain technology into your altcoin that ensures smooth operations and increases your profitability over the competition. </p>
+                                    <p className="text-center">The term altcoin was termed from “alternative coin” as it was created as an alternative to Bitcoin. Altcoin is basically a modified version of Bitcoin with similar features with low processing time and fees. Some of the most popular altcoins are Ripple, Litecoin, Tether etc. As a premier altcoin creator,ArbiTech Soultions has the ability to offer custom altcoin creation solutions at a cost-effective price for entrepreneurs all around the world. We diligently work with you to understand your specific requirements, and carefully analyze and implement a robust codebase for your altcoin. We also integrate the most progressive, immutable, and secure blockchain technology into your altcoin that ensures smooth operations and increases your profitability over the competition. </p>
 
                                 </div>
                                 <div className="mt-25">
@@ -163,11 +163,11 @@ export default function Conspire_Creation() {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6">
                             <div className="section-heading left_tti">
-                                <h2>Why choose Infinite Block Tech for Cryptocurrency creation? </h2>
+                                <h2>Why chooseArbiTech Soultions for Cryptocurrency creation? </h2>
                                 <div className="section-heading-line"></div>
                             </div>
                             <div className="mt-40 intro_cnt">
-                                <p>With thorough knowledge and understanding of cryptocurrency creation services, Our experts from Infinite Block Tech offer comprehensive solutions in the most effective way, to meet your objectives. We are one of the primary cryptocurrency creation companies, and we have a team of skilled professionals, domain experts and blockchain experts who will craft the perfect solution for your business that will help you thrive in the market over your competitors. We constantly strive to upgrade ourselves and be well-versed with the latest technologies to provide you the most innovative solutions. Our support team is within easy reach ensuring round- the-clock assistance and answers for any queries.</p>
+                                <p>With thorough knowledge and understanding of cryptocurrency creation services, Our experts fromArbiTech Soultions offer comprehensive solutions in the most effective way, to meet your objectives. We are one of the primary cryptocurrency creation companies, and we have a team of skilled professionals, domain experts and blockchain experts who will craft the perfect solution for your business that will help you thrive in the market over your competitors. We constantly strive to upgrade ourselves and be well-versed with the latest technologies to provide you the most innovative solutions. Our support team is within easy reach ensuring round- the-clock assistance and answers for any queries.</p>
 
 
                             </div>

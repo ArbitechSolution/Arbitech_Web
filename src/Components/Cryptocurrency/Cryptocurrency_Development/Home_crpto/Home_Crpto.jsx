@@ -39,7 +39,7 @@ export default function Home_Crpto() {
                     <div className="section-heading center-holder">
                         <h2>Cryptocurrency Development Services</h2>
                         <div className="section-heading-line"></div>
-                        <p>We are in the business of helping clients develop robust Cryptocurrencies that are tailor-made to their specific needs and geared towards success. With a comprehensive team that comprises experts in development, design, and marketing, Infinite Block Tech is the one-stop-solution for all your cryptocurrency development needs.</p>
+                        <p>We are in the business of helping clients develop robust Cryptocurrencies that are tailor-made to their specific needs and geared towards success. With a comprehensive team that comprises experts in development, design, and marketing,ArbiTech Soultions is the one-stop-solution for all your cryptocurrency development needs.</p>
                     </div>
                     <div className="timeline mt-50 mt-5">
                         <div className="timeline-row row">
@@ -112,14 +112,14 @@ export default function Home_Crpto() {
 
                                 <div className="mt-20 text-content text-left">
                                     <p>Having launched numerous successful cryptocurrencies for clients around the world, with each one attaining success and recognition, we have the ability to guide you on this journey. Get a tailor-made cryptocurrency that suits your business requirements in the shortest time possible without compromising on quality and security.</p>
-                                    <p>At Infinite Block Tech, we utilize the latest technology that’s available in the market to craft world quality solutions at an exceptional price. With a litany of services at our disposal, we have had the pleasure of working with clients from all over the world and from all walks of life. From small startups to some of the biggest names in the industry, we have worked with them all</p>
+                                    <p>AtArbiTech Soultions, we utilize the latest technology that’s available in the market to craft world quality solutions at an exceptional price. With a litany of services at our disposal, we have had the pleasure of working with clients from all over the world and from all walks of life. From small startups to some of the biggest names in the industry, we have worked with them all</p>
                                     <p>We boast of a highly experienced team of professionals that can take care of all your cryptocurrency development needs, start to finish. Armed with the necessary knowledge and skill to adapt to changing circumstances, our team is built to take on challenges head-on and provide our clients with innovative solutions.</p>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-5">
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img src="fullrange.jpg" className="img-responsive mb-10 rounded-border shadow-primary img_mg_top" alt="Cryptocurrency Development Services" itemprop="contentUrl" />
                                 <meta itemprop="description" content="We are a blockchain development company that also provides cryptocurrency development services. Get it now" />
                             </div>
@@ -161,7 +161,7 @@ export default function Home_Crpto() {
                                         Having witnessed the success that Bitcoin has had over the recent past, many new cryptocurrencies have emerged as an alternate. Some of the more notable examples include Etherium, Dogecoin, Ripple, Litecoin, and more. Although they are all derivatives of the original Bitcoin, they have been able to fruitfully emulate the same success to varying degrees.</p>
                                     <p>The world today is increasingly digitized. The need for safe, secure, and transparent methods of digital transactions is higher than ever before. Cryptocurrencies, being built with blockchain technology, provide all the answers and fill the gaps that have been unable to be filled by both fiat and traditional digital currencies. </p>
                                     <p>Due to the many advantages that cryptocurrencies provide including security, transparency, accountability, privacy, immutability, and more, they are the gold standard among digital currencies at the current point in time. This trend is only set to grow even stronger as the years progress. </p>
-                                    <p>With this robust industry set to experience massive growth, now is a great time to invest in cryptocurrencies. By partnering up with Infinite Block Tech, you are getting an experienced partner who can guide you through unfamiliar territory and make sure your road leads to success.</p>
+                                    <p>With this robust industry set to experience massive growth, now is a great time to invest in cryptocurrencies. By partnering up withArbiTech Soultions, you are getting an experienced partner who can guide you through unfamiliar territory and make sure your road leads to success.</p>
                                 </div>
                             </div>
                         </div>
@@ -239,7 +239,7 @@ export default function Home_Crpto() {
             </div>
             <div className="section-heading-line"></div>
             <div className="mt-20 text-content text-center">
-                <p>Infinite Block Tech takes pride in ourselves that we have the resources to create a flawless Cryptocurrency development company with an unmatched reputation.</p>
+                <p>ArbiTech Soultions takes pride in ourselves that we have the resources to create a flawless Cryptocurrency development company with an unmatched reputation.</p>
             </div>
             <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-7">
@@ -252,11 +252,11 @@ export default function Home_Crpto() {
                                 </li>
                                 <li>
                                     <h4 className='text-white'><i className="fa fa-caret-right"></i>Swift Response</h4>
-                                    <p className="port-txt">Blockchain as a basis has its own set of security rules and features to start with. At Infinite Block Tech, we aid you to develop a secure code for your Virtual Currency development service that will promise to be reliable and transparent Virtual Currency development services from us.</p>
+                                    <p className="port-txt">Blockchain as a basis has its own set of security rules and features to start with. AtArbiTech Soultions, we aid you to develop a secure code for your Virtual Currency development service that will promise to be reliable and transparent Virtual Currency development services from us.</p>
                                 </li>
                                 <li>
                                     <h4 className='text-white'><i className="fa fa-caret-right"></i>Secured, Reliable and Transparent</h4>
-                                    <p className="port-txt">Blockchain as a basis has its own set of security rules and features to start with. At Infinite Block Tech, we aid you to develop a secure code for your Cryptocurrency  development service that will promise to be a reliable and transparent Cryptocurrency  development service from us.</p>
+                                    <p className="port-txt">Blockchain as a basis has its own set of security rules and features to start with. AtArbiTech Soultions, we aid you to develop a secure code for your Cryptocurrency  development service that will promise to be a reliable and transparent Cryptocurrency  development service from us.</p>
                                 </li>
                             </ul>
                         </div>

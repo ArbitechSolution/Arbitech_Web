@@ -31,7 +31,7 @@ export default function Home_Exchange_Marketing() {
           </div>
           <div className="center-holder mt-40">
             <p className=" mb-20 p_Safe_Mood">Launching a Cryptocurrency exchange is just the first step in a successful exchange. There are a lot of challenges one has to face post-launch that dictate the success of the exchange. One monumental challenge is getting the word out about your business to potential customers. This is where the concept of ‘marketing’ comes into play.</p>
-            <p className="mb-20 p_Safe_Mood">At Infinite Block Tech, we help you get over this hump by providing robust, effective Cryptocurrency Exchange Marketing. Our marketing strategies are proven to be highly successful time and time again and have helped numerous companies reach the pinnacle of their respective industries. </p>
+            <p className="mb-20 p_Safe_Mood">AtArbiTech Soultions, we help you get over this hump by providing robust, effective Cryptocurrency Exchange Marketing. Our marketing strategies are proven to be highly successful time and time again and have helped numerous companies reach the pinnacle of their respective industries. </p>
             <p className='p_Safe_Mood'>Through a long history of launching successful cryptocurrency exchanges, we have perfected the art of development and marketing. With an illustrious, highly experienced marketing team that comprises talented writers, business strategists, SEO professionals, and more, we have all the tools you need to take your exchange to the next level.</p>
           </div>
 
@@ -282,9 +282,9 @@ export default function Home_Exchange_Marketing() {
               <div className="col-md-6 col-xs-12 col-sm-12 text-center">
 
                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                  <meta itemprop="name" content="Infinite Block Tech" />
+                  <meta itemprop="name" content="ArbiTech Soultions" />
                   <img data-src="aboutImg-01.png" className="img-responsive" alt="Cryptocurrency Exchange Marketing" itemprop="contentUrl" src="aboutImg-01.png" />
-                  <meta itemprop="description" content="Cryptocurrency exchanges simplify the buying and selling of digital currencies. Infinite block tech is an expert in developing and marketing cryptocurrency." />
+                  <meta itemprop="description" content="Cryptocurrency exchanges simplify the buying and selling of digital currencies. Arbitech block tech is an expert in developing and marketing cryptocurrency." />
                 </div>
 
               </div>
@@ -298,7 +298,7 @@ export default function Home_Exchange_Marketing() {
               <div className="col-md-6 col-xs-12 col-sm-12 pull-right mt-5">
                 <div className="contentBox">
                   <h3 className="mb-10 mt-10 text-white">A Dedicated Cryptocurrency Exchange Marketing firm</h3>
-                  <p className="mb-10  text-justify p_Safe_Mood">At Infinite Block Tech, every one of our clients is given preference and priority. Whether you’re a small start-up or an industry giant, we guarantee the utmost dedication to your project and go above and beyond to yield the best results.</p>
+                  <p className="mb-10  text-justify p_Safe_Mood">AtArbiTech Soultions, every one of our clients is given preference and priority. Whether you’re a small start-up or an industry giant, we guarantee the utmost dedication to your project and go above and beyond to yield the best results.</p>
                   <div className="animated banner_btn fadeInUp mt-30">
                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
                   </div>

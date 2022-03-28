@@ -124,7 +124,7 @@ export default function Our_Cosulting() {
 
 
 
-
+{/*
             <div className="section-block-grey">
                 <div className="container">
                     <div className="center-holder section-heading">
@@ -132,11 +132,11 @@ export default function Our_Cosulting() {
                         <div className="section-heading-line"></div>
 
                     </div>
-                    <div className="row top_ico_process">
+                    <div className="row ">
                         <div className="col-lg-3 col-md-6 col-sm-3 col-xs-12">
                             <div className="proces_step">
                                 <div className="icon text-center">
-                                    <img data-src="link.svg" className="" src="link.svg" />
+                                    <img data-src="link.svg" className="" src="link.svg" width="100%" />
                                 </div>
                                 <div className="content1233 text-center">
                                     <h3>Connect with Us </h3>
@@ -147,7 +147,7 @@ export default function Our_Cosulting() {
                         <div className="col-lg-3 col-md-6 col-sm-3 col-xs-12">
                             <div className="proces_step">
                                 <div className="icon text-center">
-                                    <img data-src="chat.svg" className="" src="chat.svg" />
+                                    <img data-src="chat.svg" className="" src="chat.svg" width="100%" />
                                 </div>
                                 <div className="content1233 text-center">
                                     <h3>Talk to Our experts</h3>
@@ -158,7 +158,7 @@ export default function Our_Cosulting() {
                         <div className="col-lg-3 col-md-6 col-sm-3 col-xs-12">
                             <div className="proces_step">
                                 <div className="icon text-center">
-                                    <img data-src="cost.svg" className="" src="cost.svg" />
+                                    <img data-src="cost.svg" className="" src="cost.svg" width="100%" />
                                 </div>
                                 <div className="content1233 text-center">
                                     <h3>Determine Your Budget</h3>
@@ -169,7 +169,7 @@ export default function Our_Cosulting() {
                         <div className="col-lg-3 col-md-6 col-sm-3 col-xs-12 kik-last-col">
                             <div className="proces_step">
                                 <div className="icon text-center">
-                                    <img data-src="process.svg" className="" src="process.svg" />
+                                    <img data-src="process.svg" className="" src="process.svg" width="100%" />
                                 </div>
                                 <div className="content1233 text-center">
                                     <h3>Project Execution</h3>
@@ -179,15 +179,15 @@ export default function Our_Cosulting() {
                         </div>
                     </div>
                 </div>
-            </div>
+    </div>*/}
 
 
             <div id="sto-marketing-research" className="section-block">
         <div className="container">
             <div className="section-heading center-holder">
-                <h2>Why Choose Infinite Block Tech As Your ICO Consulting Company? </h2>
+                <h2>Why ChooseArbiTech Soultions As Your ICO Consulting Company? </h2>
                 <div className="section-heading-line"></div>
-                <p>Infinite Block Tech is a primary ICO consultation services company in the current market. Our success stories speak for our commitment and expertise. We have unmatched successful ICO project numbers and experience, and we believe, when the customer value is met, success follows automatically. We diligently work towards bringing our clients’ vision to reality in the best possible way and help them create a unique identity for themselves and their business in the market.  </p>
+                <p>ArbiTech Soultions is a primary ICO consultation services company in the current market. Our success stories speak for our commitment and expertise. We have unmatched successful ICO project numbers and experience, and we believe, when the customer value is met, success follows automatically. We diligently work towards bringing our clients’ vision to reality in the best possible way and help them create a unique identity for themselves and their business in the market.  </p>
             </div>
             <div className="row mt-50 sto-mark-gen mobile-image">
                <div className="col-md-6 mob-left">

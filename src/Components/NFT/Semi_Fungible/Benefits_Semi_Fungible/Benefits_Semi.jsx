@@ -108,7 +108,7 @@ export default function Benefits_Semi() {
                     </div>
                     <div className="row mt-30">
                         <div className="col-md-12 col-xs-12 col-sm-12">
-                            <p className="mb-10 text-center text_semi_second">Infinite Block Tech is widely regarded as one of the best in the crypto market. Our development services are destined to elevate your SFT development project to astronomical heights. Time consumption is always a challenge for every development process. Here, at IBT, it is not the case as we push ourselves to the highest standard possible to deliver your crypto project on time and with great accuracy. Therefore, hiring our semi fungible token development company is the right choice for uplifting your business to phenomenal heights.</p>
+                            <p className="mb-10 text-center text_semi_second">ArbiTech Soultions is widely regarded as one of the best in the crypto market. Our development services are destined to elevate your SFT development project to astronomical heights. Time consumption is always a challenge for every development process. Here, at IBT, it is not the case as we push ourselves to the highest standard possible to deliver your crypto project on time and with great accuracy. Therefore, hiring our semi fungible token development company is the right choice for uplifting your business to phenomenal heights.</p>
                             <div className="animated fadeInUp mt-30 text-center"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> </div>
                         </div>
                     </div>

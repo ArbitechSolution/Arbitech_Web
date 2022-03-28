@@ -48,7 +48,7 @@ export default function Home_Blockchain_consultin() {
                             <div className="full-width mt-15-xs video-video-box">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="Infinite Block Tech" />
+                                    <meta itemprop="name" content="ArbiTech Soultions" />
                                     <img data-src="wat-img.jpg" className="mb-10 rounded-border img-responsive" alt="Blockchain Consulting" itemprop="contentUrl" src="wat-img.jpg" />
                                     <meta itemprop="description" content="Blockchain Consulting is the technology of the future and this has become evident now than ever before. Get it now." />
                                 </div>

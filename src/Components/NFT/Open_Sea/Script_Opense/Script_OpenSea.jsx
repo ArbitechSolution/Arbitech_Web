@@ -111,7 +111,7 @@ export default function Script_OpenSea() {
                             <div className="section-heading-line"></div>
                         </div>
                         <div className="mt-20 intro_cnt">
-                            <p className="text-center"> At Infinite Block Tech, we provide top-notch NFT marketplace development services to our customers. An NFT marketplace like OpenSea can be developed using two primary methods, such as providing end-to-end marketplace services and developing the marketplace by creating an OpenSea Clone. </p>
+                            <p className="text-center"> AtArbiTech Soultions, we provide top-notch NFT marketplace development services to our customers. An NFT marketplace like OpenSea can be developed using two primary methods, such as providing end-to-end marketplace services and developing the marketplace by creating an OpenSea Clone. </p>
                         </div>
                     </div>
                     <div className="col-md-12 mt-35">

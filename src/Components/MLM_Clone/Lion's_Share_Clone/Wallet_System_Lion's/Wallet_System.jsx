@@ -303,9 +303,9 @@ export default function Wallet_System() {
             <div className="section-block whychoose-sec">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Why choose Infinite Block Tech’s  Lion's Share Clone Script solution for your smart contract MLM business?</h2>
+                        <h2>Why chooseArbiTech Soultions’s  Lion's Share Clone Script solution for your smart contract MLM business?</h2>
                         <div className="section-heading-line"></div>
-                        <p>As a premier company in the sector with a team of some of the most skilled set of experts, Infinite Block Tech strives to create the most appealing, efficient and enhanced business experience for both you and your platform users, and drive maximum results for your business. We are fully focused on making things work for your target users as well your business.We commence our development process only after gaining a complete understanding of what you want, and how you want it to attain utmost customer satisfaction. We help you communicate the right message to your audience and boost your brand identity and credibility among them.
+                        <p>As a premier company in the sector with a team of some of the most skilled set of experts,ArbiTech Soultions strives to create the most appealing, efficient and enhanced business experience for both you and your platform users, and drive maximum results for your business. We are fully focused on making things work for your target users as well your business.We commence our development process only after gaining a complete understanding of what you want, and how you want it to attain utmost customer satisfaction. We help you communicate the right message to your audience and boost your brand identity and credibility among them.
                             We include our clients in every step of the way and embrace their feedback at each stage to deliver the perfect end result. We tend to offer you the solution as quickly as possible in the most competitive price without compromising quality. We believe we are great at what we do. Bring your ideas to us, and we will help you transform your MLM business into a whole new level.</p>
                     </div>
 

@@ -41,7 +41,7 @@ export default function Home_Crypto_Creation() {
                             </div>
                             <div className="mt-40 intro_cnt text-left">
                                 <p className='text-left'>Cryptocurrencies have created a paradigm shift in the way we look at, buy, and sell money. Ever since their advent, they have always managed to be in the news headlines. With the modern world becoming more interconnected every day, these digital currencies provide the opportunity for people to do business from one country to another with the help of the internet. This is why they are becoming more popular by the day. Cryptocurrencies have already illustrated their ability to fundamentally disrupt the global financial system. And cryptocurrencies becoming the future currencies is just around the corner. </p>
-                                <p className='text-left'>To become a part of this revolutionary sector, and get a head start over the wide-spread competition, our extensively experienced cryptocoin creators from Infinite Block Tech helps you create your own cryptocurrency in the most reliable way possible. Our cutting-edge blockchain technology solutions will enable the opportunity of trading them in a secure and seamless manner for your users, and our integrated multi-signature wallet will help you store them safely.</p>
+                                <p className='text-left'>To become a part of this revolutionary sector, and get a head start over the wide-spread competition, our extensively experienced cryptocoin creators fromArbiTech Soultions helps you create your own cryptocurrency in the most reliable way possible. Our cutting-edge blockchain technology solutions will enable the opportunity of trading them in a secure and seamless manner for your users, and our integrated multi-signature wallet will help you store them safely.</p>
 
                             </div>
                             <div className="mt-25 mt-5">
@@ -55,9 +55,9 @@ export default function Home_Crypto_Creation() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="create-own-crypto.jpg" className="mt-30 img-responsive" alt="Cryptocurrency MLM Software" itemprop="contentUrl" src="create-own-crypto.jpg" />
-                                <meta itemprop="description1726" content="At Infinite Block Tech cryptocurrency creators are tailored to your specifications at the best price in the industry. Contact us now." />
+                                <meta itemprop="description1726" content="AtArbiTech Soultions cryptocurrency creators are tailored to your specifications at the best price in the industry. Contact us now." />
                             </div>
 
                         </div>
@@ -155,7 +155,7 @@ export default function Home_Crypto_Creation() {
                         <div className="section-heading-line"></div>
                         <div className="row align-items-center md-flex">
                             <div className="col-md-12 text-center">
-                                <p>If you’re intrigued by the success of the top cryptocurrencies like Bitcoin, and looking to create your own cryptocurrency, you have landed in the right place. As one of the first comers in the domain of cryptocurrency creation services, Infinite Block has employed the industry-best cryptocurrency creators to offer you advanced solutions that will set you apart from the competition and set you up for success right away. Not just crypto creation, but we ensure to be with you through every step of the way from consultation and ideation to marketing and deployment, to help you achieve the best results possible, maximum traction and attention from potential investors all around the world. We integrate cutting-edge features and functionalities to enable smooth performance for your coin, and our expertise will ensure maximum security, scalability, flexibility and customizability to help you establish your coin as per your desired preferences. </p>
+                                <p>If you’re intrigued by the success of the top cryptocurrencies like Bitcoin, and looking to create your own cryptocurrency, you have landed in the right place. As one of the first comers in the domain of cryptocurrency creation services, Arbitech Block has employed the industry-best cryptocurrency creators to offer you advanced solutions that will set you apart from the competition and set you up for success right away. Not just crypto creation, but we ensure to be with you through every step of the way from consultation and ideation to marketing and deployment, to help you achieve the best results possible, maximum traction and attention from potential investors all around the world. We integrate cutting-edge features and functionalities to enable smooth performance for your coin, and our expertise will ensure maximum security, scalability, flexibility and customizability to help you establish your coin as per your desired preferences. </p>
                             </div></div></div></div>
             </div>
 

@@ -32,7 +32,7 @@ export default function Home_ATM_Soft() {
                     <div className="section-heading center-holder">
                         <h2>Virtual Currency ATM Software</h2>
                         <div className="section-heading-line"></div>
-                        <p>The Virtual Currency ATM software is a physical machine that gives access to people to buy virtual currency in exchange for hard cash. These machines are integrated with a scanner, a cash dispensary, and a running front-end system to manage the transactions. We, at Infinite BlockTech, can help you to create a flawless virtual currency ATM software that will help your customers to transact hard cash for virtual currency without any hassles.</p>
+                        <p>The Virtual Currency ATM software is a physical machine that gives access to people to buy virtual currency in exchange for hard cash. These machines are integrated with a scanner, a cash dispensary, and a running front-end system to manage the transactions. We, at Arbitech BlockTech, can help you to create a flawless virtual currency ATM software that will help your customers to transact hard cash for virtual currency without any hassles.</p>
                     </div>
                 </div>
             </div>

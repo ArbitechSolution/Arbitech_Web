@@ -1,5 +1,7 @@
 import React from 'react';
 import './Homestyle.css'
+import ReactWhatsapp from 'react-whatsapp';
+
 
 export const Homepage = () => {
     return <div>
@@ -28,7 +30,11 @@ export const Homepage = () => {
                     <p>Our clientele is highly diverse and boasts of everything from small startups to some of the largest conglomerates in the market space. Enabled by a team of in-house specialists including expert developers, marketing professionals, business analysts, SEO analysts, and more, we have the capability to take on any project and deliver a successful result.</p>
                 </div>
                 <div className="mt-25 text-center">
-                    <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+
+                <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+
+            </ReactWhatsapp>
                 </div>
             </div>
         </div>

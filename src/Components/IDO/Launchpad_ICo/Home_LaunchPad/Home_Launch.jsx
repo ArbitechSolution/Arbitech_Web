@@ -47,7 +47,7 @@ export default function Home_Launch() {
                         <div className="col-md-6 col-lg-6 col-sm-6">
                             <div className="">
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="Infinite Block Tech" />
+                                    <meta itemprop="name" content="ArbiTech Soultions" />
                                     <img src="ido-launchpad-development-1.png" className="img-responsive" alt="IDO Launchpad Development" itemprop="contentUrl" />
                                     <meta itemprop="description" content="Get your IDO launchpad from our crypto development company with exceptional features." />
                                 </div>

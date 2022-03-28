@@ -18,13 +18,10 @@ export default function Life_Easier_NFT_Music() {
 
 
                     </div>
-                    <div className="col-xs-12 col-sm-12 col-md-6 mt-20">
-                        {/* <!-- <img alt="" data-src="img/music/img_1.png" className="lazy rounded-border shadow-primary"> --> */}
-                        <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="Infinite Block Tech" />
-                            <img data-src="#" className="rounded-border shadow-primary img-responsive" alt="NFT for Music" itemprop="contentUrl" src="https://www.infiniteblocktech.com/img/music/img_1.png" />
-                            <meta itemprop="description" content="NFT music platform provides the Music workers with royalties, credits, and ownership authenticity. Contact us now." />
-                        </div>
+                    <div className="col-xs-12 col-sm-12 col-md-6 mt_check_here ">
+                    <img data-src="#" className="rounded-border shadow-primary img-responsive  " width="80%" alt="NFT for Music" itemprop="contentUrl" src="https://www.infiniteblocktech.com/img/music/img_1.png" />
+                        
+                    
                     </div>
 
                     <div className="col-xs-12 col-sm-12 col-md-6">

@@ -17,7 +17,7 @@ export default function Home_SafeMoon_Clone() {
                                 <p className="animated fadeInDown">Launch your crypto token like SafeMoon by availing our SafeMoon Clone </p>
                                 <div className="animated fadeInUp mt-30 btnRow">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger mt-4">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger mt-4">Get Quote</a>
+                                    
                                 </div>
                             </div>
 
@@ -39,7 +39,7 @@ export default function Home_SafeMoon_Clone() {
                             <div className="mt-40 intro_cnt">
                                 <p>The rise of new introductions of cryptocurrencies has increased tremendously in the past several years. New opportunities have been arisen for investors and for business entities to invest and gain profit.</p>
                                 <p>Many crypto companies have decided to create their cryptocurrencies and deploy them in the digital market. SafeMoon is the latest inductee in the cryptocurrency world, it was first introduced to the market in March 2021. From that period of time, till now, it has been a huge fundraiser. It has cemented itself as the fastest growing cryptocurrencies of the present time with desired forecasts and an extremely beneficial window of opportunity. Along with profits produced by the Bitcoin crypto, SafeMoon is raising more profits and empowering interests among the public audiences. </p>
-                                <p>  SafeMoon is a decentralized finance (DeFi) token. It is a combination of auto-liquidity generating protocol and RFI tokenomics. Due to its immense popularity and its success rate, the majority of the business entities are switching towards SafeMoon as an alternative. We at Infinite Block Tech have the expertise to create a token like SafeMoon for our customers and push their business forward.</p>
+                                <p>  SafeMoon is a decentralized finance (DeFi) token. It is a combination of auto-liquidity generating protocol and RFI tokenomics. Due to its immense popularity and its success rate, the majority of the business entities are switching towards SafeMoon as an alternative. We atArbiTech Soultions have the expertise to create a token like SafeMoon for our customers and push their business forward.</p>
 
                             </div>
 
@@ -72,7 +72,7 @@ export default function Home_SafeMoon_Clone() {
 
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center">
                             <div itemscope="" itemtype="https://schema.org/ImageObject"/>
-                                <meta itemprop="name" content="Infinite Block Tech"/>
+                                <meta itemprop="name" content="ArbiTech Soultions"/>
                                     <img data-src="token2.png" className="img-responsive rounded-border shadow-primary Safe_img_mood" alt="SafeMoon Clone Script" itemprop="contentUrl" src="token2.png"/>
                                         <meta itemprop="description" content="SafeMoon Clone Script is the ready-made solution that helps to launch your own Crowdfunding Protocol. Get it now." />
                                         </div>

@@ -95,7 +95,7 @@ export default function Home_MLM_Forsage() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center ">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="Forsage-Clone-Script.jpg" className="rounded-border shadow-primary img-responsive imgSeconddivhere" alt="Forsage Clone Script" itemprop="contentUrl" src="Forsage-Clone-Script.jpg" />
                                 <meta itemprop="description" content="Forsage Clone Script is a whitelable MLM product. with which you can launch and manage a decentralized MLM company. Get it now." />
                             </div>

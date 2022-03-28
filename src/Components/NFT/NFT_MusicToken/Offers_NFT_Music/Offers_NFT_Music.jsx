@@ -27,45 +27,45 @@ export default function Offers_NFT_Music() {
                     <div className="col-md-12">
                         <div className="main-timeline1">
                             <div className="timeline1">
-                                <a href="#" className="timeline1-content">
+                                <div className="timeline1-content21">
                                     <div className="timeline1-icon"><i className="fa">
                                         <img src="wallet.png" /> </i></div>
-                                    <h3 className="title">Wallet integration</h3>
-                                    <p className="description">
+                                    <h3 className="title ">Wallet integration</h3>
+                                    <p className="text_color">
                                         Our NFT music marketplace has built web 3.0 based wallets to aid the user to instantly begin the process of making music NFT trade. These wallets are secure and decentralized to protect user privacy.
                                     </p>
-                                </a>
+                                </div>
                             </div>
                             <div className="timeline1">
-                                <a href="#" className="timeline1-content">
+                                <div className="timeline1-content21">
                                     <div className="timeline1-icon"><i className="fa">
                                         <img src="customer-service.png" /></i>
                                     </div>
                                     <h3 className="title leftfloat">Multi-platform support</h3>
-                                    <p className="description leftfloat">
+                                    <p className="text_color leftfloat">
                                         Our NFT marketplace supports all types of operating systems and works on all devices, which include Android, laptops and tablets, and operating systems like Windows, macOS, and Linux, etc.
                                     </p>
-                                </a>
+                                </div>
                             </div>
                             <div className="timeline1">
-                                <a href="#" className="timeline1-content">
+                                <div className="timeline1-content21">
                                     <div className="timeline1-icon"><i className="fa">
                                         <img src="blockchain.png" /></i></div>
                                     <h3 className="title">Cross chain compliance</h3>
-                                    <p className="description">
+                                    <p className="text_color">
                                         Our NFT music marketplace supports all types of music NFTs built with different blockchain networks. This cross-chain support extends the market, and it will be a very huge advantage to the owner of the NFT music marketplace.
                                     </p>
-                                </a>
+                                </div>
                             </div>
                             <div className="timeline1">
-                                <a href="#" className="timeline1-content">
+                                <div className="timeline1-content21">
                                     <div className="timeline1-icon"><i className="fa">
                                         <img src="customize.png" /></i></div>
                                     <h3 className="title">Customization</h3>
-                                    <p className="description">
+                                    <p className="text_color">
                                         Our NFT music marketplace is completely customizable based on the requirements of the clients. The customization includes every line of code and all types of integrations.
                                     </p>
-                                </a>
+                                </div>
                             </div>
 
                         </div>
@@ -83,7 +83,7 @@ export default function Offers_NFT_Music() {
                     <div className="col-xs-12 col-sm-12 col-md-12">
                         <div className="pr-30-md">
                             <div className="section-heading center-holder">
-                                <h4>Why Infinite Block Tech, for NFT Music tokenization platform development?</h4>
+                                <h4>WhyArbiTech Soultions, for NFT Music tokenization platform development?</h4>
                             </div>
                             <div className="section-heading-line"></div>
 

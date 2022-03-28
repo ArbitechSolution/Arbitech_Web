@@ -93,7 +93,7 @@ export default function Home_P2p_Exchange() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img src="intro_p2p.png" className="img-responsive" alt="P2P Crypto Exchange" itemprop="contentUrl" />
                                 <meta itemprop="description" content="P2P Crypto Exchange Development Solutions Packed with many new aspects for better user experience. Check it out now." />
                             </div>

@@ -1,9 +1,29 @@
 import React from 'react';
 import './Bloclchainstyle.css'
+import ReactWhatsapp from 'react-whatsapp';
+import { Link } from 'react-router-dom';
+
+import {Navbar,Nav,Container} from 'react-bootstrap'
 
 export default function Blockchain() {
     return <div>
         <div className="section-block blockchainmarket">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <div className="container">
                 <div className="section-heading center-holder">
                     <h3>What makes us the Best Blockchain Development Company?</h3>
@@ -83,7 +103,11 @@ export default function Blockchain() {
                     </div>
                 </div>
                 <div className="mt-25 text-center">
-                    <a target="_blank" href="https://api.whatsapp.com/send?l=en&amp;text=Hi!%20I%27m%20interested%20in%20one%20of%20your%20products%20at%20INFINITE%20BLOCK%20TECH&amp;phone=916382665366" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+
+                <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+
+            </ReactWhatsapp>
                 </div>
             </div>
         </div>

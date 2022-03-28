@@ -54,11 +54,15 @@ import Palkadot_Deve from './Components/Main_BlockChain/Palkadot_Deve';
 import Blockchain_consultin from './Components/Main_BlockChain/Blockchain_consultin';
 import Blockchain_IOT from './Components/Main_BlockChain/Blockchain_IOT';
 import Crowdfunding_Platform from './Components/Main_BlockChain/Crowdfunding_Platform';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
     <div className="App">
     <Router>
+    <ToastContainer />
+
     <Navbarhere></Navbarhere>
   
   <Route exact path="/" component={Home}></Route>

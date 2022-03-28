@@ -1,5 +1,7 @@
 import React from 'react';
 import './Homestyle_nft.css'
+import ReactWhatsapp from 'react-whatsapp';
+
 
 export default function Home_NFT() {
     return <div>
@@ -17,7 +19,7 @@ export default function Home_NFT() {
                             <p className="animated fadeInDown">The Non Fungible Token evolutes the digital world by attracting many industries. NFT platform benefits various industries towards the growth of their business in the blockchain market. </p>
                             <div className="animated fadeInUp mt-30">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+
                             </div>
                         </div>
                     </div>
@@ -46,8 +48,11 @@ export default function Home_NFT() {
                             <p>Non-Fungible Tokens hold their data/value in smart contracts and contribute greatly to make them unique (non-interchangeable) in nature. One of the greatest potentials of NFTs is that they have the ability to represent both tangible and intangible assets. ArbiTech Solutions’s all-round NFT token development services will ensure reliable, secured, and transparent platforms to create first-class NFTs.</p>
                         </div>
                         <div className="mt-25 mt-5 btnnfthere">
-                            <a target="_blank" href="https://api.whatsapp.com/send?l=en&amp;text=Hi!%20I%27m%20interested%20in%20one%20of%20your%20products%20at%20INFINITE%20BLOCK%20TECH&amp;phone=916382665366" className="button-md dark-button two-btn">Connect With Whatsapp</a>
-                            <a href="#contact" className="btnnftbuttonheree button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+
+                        <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
+
+                    </ReactWhatsapp>
                         </div>
                     </div>
                     <div className=" col-lg-5 col-xs-12 col-sm-12 col-md-6 text-center innovation">

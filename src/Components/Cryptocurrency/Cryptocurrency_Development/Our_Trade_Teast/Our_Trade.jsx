@@ -130,7 +130,7 @@ export default function Our_Trade() {
             <div className="section-block-grey">
         <div className="container">
             <div className="section-heading center-holder">
-                <h4>Why Choose Infinite Block Tech as your cryptocurrency developer</h4>
+                <h4>Why ChooseArbiTech Soultions as your cryptocurrency developer</h4>
                 <div className="section-heading-line"></div>
                 <p>Here are a few reasons why you should choose us as your crypto developer.</p>
                

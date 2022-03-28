@@ -64,9 +64,9 @@ export default function Home_Polkadot() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center mt-5">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="22img.jpg" className="img-responsive" alt="Polkadot Development" itemprop="contentUrl" src="22img.jpg" />
-                                <meta itemprop="description" content="Investors can build their Polkadot development platform cost-effectively by connecting with Infinite Block Tech. Contact us now." />
+                                <meta itemprop="description" content="Investors can build their Polkadot development platform cost-effectively by connecting withArbiTech Soultions. Contact us now." />
                             </div>
 
                         </div>
@@ -363,7 +363,7 @@ export default function Home_Polkadot() {
                                     <h4>Our Polkadot Development Services Are One Of The Best In The Digital Market World </h4></div>
                                 <div className="section-heading-line"></div>
                                 <div className="mt-20">
-                                    <p className="sec-txt">Infinite Block Tech serves as a ladder for the development of multiple businesses in the blockchain platform. Our experienced and enthusiastic team helps you to unlock remarkable opportunities in the Polkadot development services. Our technical team consists of innovative minds that ensure to create a stable and solid platform for your business needs. We always assist the clients in terms of customization and creating their desired platform according to their specifications and most importantly our product development team ensures that you are the frontrunner in your business field by integrating our Polkadot development services.
+                                    <p className="sec-txt">ArbiTech Soultions serves as a ladder for the development of multiple businesses in the blockchain platform. Our experienced and enthusiastic team helps you to unlock remarkable opportunities in the Polkadot development services. Our technical team consists of innovative minds that ensure to create a stable and solid platform for your business needs. We always assist the clients in terms of customization and creating their desired platform according to their specifications and most importantly our product development team ensures that you are the frontrunner in your business field by integrating our Polkadot development services.
                                     </p>
 
                                 </div>

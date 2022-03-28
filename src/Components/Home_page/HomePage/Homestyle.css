@@ -6,6 +6,8 @@
     padding-top: 170px !important;
     height:87vh !important ;
     z-index: -1 !important;
+    position: relative;
+
 }
 .banner-block {
     position: relative;
@@ -100,6 +102,8 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 50px;
     transition-duration: .3s;
     text-decoration: none;
+    position: relative;
+
     
 }
 

@@ -90,7 +90,7 @@ export default function Home_Non_Fungible() {
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="Infinite Block Tech" />
+                            <meta itemprop="name" content="ArbiTech Soultions" />
                             <img data-src="non/pic3.jpg" className="img-responsive rounded-border shadow-primary mt-20 imgNone_Fungible" alt="Non-Fungible Token" itemprop="contentUrl" src="pic3.jpg" />
                             <meta itemprop="description" content="We are industry-leading NFT development company that provide NFT services in all blockchain networks. Contact us now." />
                         </div>

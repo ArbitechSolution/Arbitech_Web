@@ -86,7 +86,7 @@ export default function Home_Crypto_Exchange() {
                         <div className="col-md-12 col-xs-12 col-sm-12">
                             <p className="mb-10 text-justify p_Safe_Mood">Cryptocurrencies have been game-changers in this digitally transforming business sphere. Ever since the advent of the first cryptocurrency, Bitcoin, in 2009, cryptocurrencies have widely evolved, and the demand is ever-growing. To exchange your cryptos all around the world, in the most efficient and secure manner, all you need to focus on is a robust cryptocurrency exchange development. </p><p>
 
-                            </p><p className="mb-10  text-justify p_Safe_Mood">Infinite Block Tech is a cryptocurrency exchange software development company, with adequate experience of helping several clients across the globe, launch their crypto exchange software successfully, and achieve their business goals. We have a team of seasoned, skilled developers who will offer a white label crypto exchange software that is 100% reliable and feature-rich. Our exchange software is pre-tested before delivering to the customers and assures high performance. Our white label exchange software supports major cryptocurrencies such as Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Ripple, etc. </p>
+                            </p><p className="mb-10  text-justify p_Safe_Mood">ArbiTech Soultions is a cryptocurrency exchange software development company, with adequate experience of helping several clients across the globe, launch their crypto exchange software successfully, and achieve their business goals. We have a team of seasoned, skilled developers who will offer a white label crypto exchange software that is 100% reliable and feature-rich. Our exchange software is pre-tested before delivering to the customers and assures high performance. Our white label exchange software supports major cryptocurrencies such as Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Ripple, etc. </p>
                             <p className="mb-10 text-justify p_Safe_Mood">The white label exchange software we offer comes with advanced, quality technical support, security integrations, and authentication. We help customers launch their exchange at a gallop, within just two weeks and gain a competitive advantage in the market. With our white label software, instant, highly-secure, efficient, and seamless transactions, a profitable business is guaranteed. </p>
                         </div>
                     </div>
@@ -324,7 +324,7 @@ export default function Home_Crypto_Exchange() {
                         <div className="col-md-6 col-xs-12 col-sm-12 text-center">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="exmarket.jpg" className="img-responsive mb-10 rounded-border" alt="Cryptocurrency Exchange Software Development Company" itemprop="contentUrl" src="exmarket.jpg" />
                                 <meta itemprop="description" content="As a Cryptocurrency Exchange Software Development Company. We also provide White Label Cryptocurrency Exchange Software Services." />
                             </div>
@@ -764,7 +764,7 @@ export default function Home_Crypto_Exchange() {
                         <div className="col-xs-12 col-sm-12 col-md-6 pull-right">
                             <div className="type_box">
                                 <span className="mb-20 tit1 text-white pb-5">NFT Exchange Development</span>
-                                <p className="mb-10  text-justify p_Safe_Mood text-left pt-3">Non-fungible tokens are digital assets that verify the ownership of the asset, and these digital assets are traded on a platform called the NFT exchange platform, or commonly known as the NFT marketplace platform. The influence of NFTs has been on the rise, and business models are devising a plan to create their NFT exchange development platform. At Infinite Block Tech, we have all the necessary resources to develop your own NFT exchange development platform with our salient NFT exchange development services.
+                                <p className="mb-10  text-justify p_Safe_Mood text-left pt-3">Non-fungible tokens are digital assets that verify the ownership of the asset, and these digital assets are traded on a platform called the NFT exchange platform, or commonly known as the NFT marketplace platform. The influence of NFTs has been on the rise, and business models are devising a plan to create their NFT exchange development platform. AtArbiTech Soultions, we have all the necessary resources to develop your own NFT exchange development platform with our salient NFT exchange development services.
 
                                 </p>
 

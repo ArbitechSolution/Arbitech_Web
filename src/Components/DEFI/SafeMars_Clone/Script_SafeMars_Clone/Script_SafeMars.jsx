@@ -25,7 +25,7 @@ export default function Script_SafeMars() {
                                             <img className="" data-src="padlock.png" src="padlock.png" />
                                         </span>
                                         <h3>Automated Liquidity Lock</h3>
-                                        <p>This feature prevents the token from being rugged and it also maintains the stability and utility of the crypto token in the platform.
+                                        <p className='text_color'>This feature prevents the token from being rugged and it also maintains the stability and utility of the crypto token in the platform.
 
 
                                         </p>
@@ -37,7 +37,7 @@ export default function Script_SafeMars() {
                                             <img className="" data-src="medal.png" src="medal.png" />
                                         </span>
                                         <h3>Distribution Of Rewards</h3>
-                                        <p>The functionality of our SafeMars clone script platform is based on the reflection attribute, where the holders receive a high distribution of rewards for high volume transactions.
+                                        <p className='text_color'>The functionality of our SafeMars clone script platform is based on the reflection attribute, where the holders receive a high distribution of rewards for high volume transactions.
 
                                         </p>
                                     </div>
@@ -48,33 +48,34 @@ export default function Script_SafeMars() {
                                             <img className="" data-src="purity.png" src="purity.png" />
                                         </span>
                                         <h3>Liquidity Pools</h3>
-                                        <p>Our platform has a very efficient liquid pool where it creates liquid providers for the users who are investing funds in the pool.
+                                        <p className='text_color'>Our platform has a very efficient liquid pool where it creates liquid providers for the users who are investing funds in the pool.
 
 
                                         </p>
                                     </div>
                                 </div>
 
-                                <div className="col-lg-2 "></div>
-                                <div className="col-md-4 col-sm-6 col-xs-12">
-                                    <div className="column centered blurb card_Widthhere">
-                                        <span className="icon-container icon-big">
-                                            <img className="" data-src="swap.png" src="swap.png" />
-                                        </span>
-                                        <h3>Swapping</h3>
-                                        <p> Our clone script platform is integrated with the swapping mechanism, where it allows the swapping of cryptocurrencies based on the requirements of the customers.
-
-
-                                        </p>
-                                    </div>
-                                </div>
+                              
+                                
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="column centered blurb card_Widthhere">
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="mechanism.png" src="mechanism.png" />
                                         </span>
                                         <h3>Burn Mechanism</h3>
-                                        <p> This feature increases the value and usability of the token by burning them, it means transferring the tokens to an unavailable account.
+                                        <p className='text_color'> This feature increases the value and usability of the token by burning them, it means transferring the tokens to an unavailable account.
+
+
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 col-sm-6 col-xs-12">
+                                    <div className="column centered blurb card_Widthhere">
+                                        <span className="icon-container icon-big">
+                                            <img className="" data-src="swap.png" src="swap.png" />
+                                        </span>
+                                        <h3>Swapping</h3>
+                                        <p className='text_color'> Our clone script platform is integrated with the swapping mechanism, where it allows the swapping of cryptocurrencies based on the requirements of the customers.
 
 
                                         </p>
@@ -219,7 +220,7 @@ export default function Script_SafeMars() {
 
 
                         <div className="section-heading-line"></div>
-                        <p>Infinite Block Tech is a widely recognized clone script development company that develops many crypto clone platforms like SafeMars clone script for customers. Our efficient development and marketing services are listed below.</p>
+                        <p>ArbiTech Soultions is a widely recognized clone script development company that develops many crypto clone platforms like SafeMars clone script for customers. Our efficient development and marketing services are listed below.</p>
                     </div>
                     <div className="row">
                         <div className="col-md-12">

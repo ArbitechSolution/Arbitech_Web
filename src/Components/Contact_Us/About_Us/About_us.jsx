@@ -19,7 +19,7 @@ export default function About_us() {
                                     <h5>Why Choose Us</h5></div>
                                 <div className="section-heading-line-left"></div>
                                 <div className="mt-20">
-                                    <p className="sec-txt text-left">At Infinite Block Tech, we talk, discuss, brainstorm and come up with innovative ideas of creating avant-garde Blockchain concepts and converting them into Real-world Business solutions that will allow us to prove our skill set and potential to make an impact in the Blockchain world.</p>
+                                    <p className="sec-txt text-left">AtArbiTech Soultions, we talk, discuss, brainstorm and come up with innovative ideas of creating avant-garde Blockchain concepts and converting them into Real-world Business solutions that will allow us to prove our skill set and potential to make an impact in the Blockchain world.</p>
                                     <p className="sec-txt text-left">Our blockchain developers and experienced analysts can help entrepreneurs and individuals alike to create completely new Blockchain and design new bitcoin-related concepts such as cryptocurrency protocols to fix security vulnerabilities in Blockchain.</p>
                                 </div>
                             </div>
@@ -37,9 +37,9 @@ export default function About_us() {
                 <div className="container">
 
                     <div className="section-heading center-holder">
-                        <h2>Wallets Supported for PancakeSwap Clone</h2>
+                        <h2>Various Branches Of BlockChain</h2>
                         <div className="section-heading-line"></div>
-                        <p>A digital wallet is a very essential tool in the crypto world. It allows the users to trade and store cryptocurrencies. Our PancakeSwap clone platform has the potential to support multiple digital wallets.</p>
+                     
 
                     </div>
 

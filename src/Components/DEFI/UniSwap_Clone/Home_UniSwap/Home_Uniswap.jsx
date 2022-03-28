@@ -69,7 +69,7 @@ export default function Home_Uniswap() {
                         </div>
                         <div className="col-md-6 col-sm-6 col-xs-12 mt-10 mt-2">
                             <div itemscope="" itemtype="https://schema.org/ImageObject ">
-                                <meta itemprop="name" content="Infinite Block Tech"/>
+                                <meta itemprop="name" content="ArbiTech Soultions"/>
                                     <img src="characteristic.png" className="img-responsive" alt="NBA Top Shot" itemprop="contentUrl" title="Characteristics of Uniswap Platform"/>
                                         <meta itemprop="description" content="Create an Uniswap clone by availing of our innovative development solutions"/>
                                         </div>

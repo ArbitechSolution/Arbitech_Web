@@ -78,7 +78,7 @@ export default function Exchange_Pancake() {
                         <div className="col-md-6">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="clone.png" className="mb-10 rounded-border shadow-primary img-responsive workhere " alt="PancakeSwap Clone Script" itemprop="contentUrl" src="clone.png" width="100%" />
                                 <meta itemprop="description" content="PancakeSwap Clone is a DeFi based Decentralized Exchange Platform built using Binance smart chain. Contact us now." />
                             </div>

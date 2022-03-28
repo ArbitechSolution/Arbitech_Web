@@ -90,7 +90,7 @@ export default function Trust_crypto_wallet() {
                     <div className="section-heading center-holder">
                         <h3>Our Solid Expertise In Blockchain Technology</h3>
                         <div className="section-heading-line"></div>
-                        <p>The listed below are the common NFT development services we provide in Infinite Block Tech.</p>
+                        <p>The listed below are the common NFT development services we provide inArbiTech Soultions.</p>
 
                     </div>
 
@@ -264,7 +264,7 @@ export default function Trust_crypto_wallet() {
             <div className="section-block">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h3 className="para">Why Infinite Block Tech Is A Perfect Fit To Create A Crypto Wallet Like Trust Wallet?</h3>
+                        <h3 className="para">WhyArbiTech Soultions Is A Perfect Fit To Create A Crypto Wallet Like Trust Wallet?</h3>
                         <div className="section-heading-line"></div>
 
 

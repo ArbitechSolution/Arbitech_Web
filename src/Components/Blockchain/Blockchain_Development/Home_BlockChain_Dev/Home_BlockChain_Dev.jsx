@@ -259,7 +259,7 @@ export default function Home_BlockChain_Dev() {
                                 </div>
                                 <div className="number-box-line"></div>
                                 <h4>Secure</h4>
-                                <p>Infinite Blocktech’s solutions offer a defence-grade protection against malware and inside attacks. The security will not have any effects on the performance of the blockchain solution with data and the mainframe of the system.</p>
+                                <p>Arbitech Blocktech’s solutions offer a defence-grade protection against malware and inside attacks. The security will not have any effects on the performance of the blockchain solution with data and the mainframe of the system.</p>
                             </div>
                         </div>
                     </div>

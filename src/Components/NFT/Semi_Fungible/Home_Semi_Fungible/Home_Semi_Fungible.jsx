@@ -37,7 +37,7 @@ export default function Home_Semi_Fungible() {
                         <p className="mb-10 text-center">semi fungible tokens are the latest entrant to the digital space. These unique tokens are derived from their origin, the non-fungible token, also known as NFT. The concept of non-fungible tokens has triggered the creation of semi fungible tokens. Before we could get into the concept of semi fungible tokens, it is necessary to have an insight into non-fungible tokens.Non-fungible tokens are digital assets that are asserted by the virtue of uniqueness and rarity. And their integration with the blockchain network makes them an impeccable digital platform.
                         </p>
                         <p className="mb-10  text-center">The majority of the business sectors are adopting this concept because of their soaring market value, it has been estimated to be around $338 million in transaction volume till the year 2020 and the present year is still going forward in a fierce way. Therefore, it is the right time to indulge yourself in NFTs with the help of a top-tier NFT development company that provides all types of services. </p>
-                        <p className="mb-10 text-center">At Infinite Block Tech, we monitor the digital market for the latest development changes and arrivals. Therefore, we have suited ourselves with effective semi fungible token development solutions for the creation of your own SFT. Our reputation exceeds boundaries in terms of developing crypto projects which also include non-fungible tokens. Ergo, hire our SFT development company for unlocking immense benefits and features.</p>
+                        <p className="mb-10 text-center">AtArbiTech Soultions, we monitor the digital market for the latest development changes and arrivals. Therefore, we have suited ourselves with effective semi fungible token development solutions for the creation of your own SFT. Our reputation exceeds boundaries in terms of developing crypto projects which also include non-fungible tokens. Ergo, hire our SFT development company for unlocking immense benefits and features.</p>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@ export default function Home_Semi_Fungible() {
 
                     <div className="col-md-6">
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="Infinite Block Tech"/>
+                            <meta itemprop="name" content="ArbiTech Soultions"/>
                                 <img src="what-is-sft.png" className="img-responsive img_semi" alt="Semi Fungible Token Development" itemprop="contentUrl"  width="100%"  />
                                     <meta itemprop="description" content="Leverage our SFT token development services to accelerate your SFT development journey now."/>
                                     </div>

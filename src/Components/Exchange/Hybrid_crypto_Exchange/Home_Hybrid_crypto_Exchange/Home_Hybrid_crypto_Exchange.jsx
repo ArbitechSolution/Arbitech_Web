@@ -70,7 +70,7 @@ export default function Home_Hybrid_crypto_Exchange() {
 
                                 <div className="mt-20 text-content text-left">
                                     <p>The most commonly known types of cryptocurrency exchanges are centralized and decentralized exchanges. Each of them has their own set of advantages such as, a centralized exchange is known for its stability, high frequency, high volume liquidity, etc., while a decentralized exchange is known for its security and privacy. Each of them has their own set of teeny bit flaws as well. But then comes the hybrid exchange(HEX)  platform that unites the advantages of both CEX and DEX platforms and offers enhanced functionality, liquidity, frequency, security, privacy, and more to the users. These exchanges are gaining more and more traction in the market by the day, and are becoming preferable to the users as they help boost the cooperation with a large investor base with the attributes of a centralized exchange, and makes storage of funds reliable with the attribute of a decentralized exchange, where there is no presence from a central authority.  </p>
-                                    <p> Being a foremost cryptocurrency and blockchain development company that embarked upon this journey ahead of time, Infinite Block Tech has gained considerable expertise and is well-versed in the field. This makes us the most trusted and your ideal <strong style={{ color: "#fff" }}>hybrid exchange platform development company.</strong> We ensure to offer extensive hybrid  </p>
+                                    <p> Being a foremost cryptocurrency and blockchain development company that embarked upon this journey ahead of time,ArbiTech Soultions has gained considerable expertise and is well-versed in the field. This makes us the most trusted and your ideal <strong style={{ color: "#fff" }}>hybrid exchange platform development company.</strong> We ensure to offer extensive hybrid  </p>
                                     <p>exchange development solutions in the most effective and cost-effective manner, and we give utmost importance to quality and security. We also make sure to cater to the specific needs of each client and achieve utmost customer satisfaction. Clients from all over the world bring their unique ideas to us, and we bring them to life with the most innovative solutions that transform their business into a whole new level. </p>
                                 </div>
                             </div>
@@ -79,9 +79,9 @@ export default function Home_Hybrid_crypto_Exchange() {
                             <div className="full-width mt-15-xs video-video-box">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="Infinite Block Tech" />
+                                    <meta itemprop="name" content="ArbiTech Soultions" />
                                     <img data-src="exchange-platform.png" className="mb-10 rounded-border img-responsive" alt="Hybrid Crypto Exchange Development" itemprop="contentUrl" src="exchange-platform.png" />
-                                    <meta itemprop="description" content="The most commonly known types of cryptocurrency exchanges are centralized and decentralized exchanges. Contact Infinite block tech for Hybrid Crypto Exchange Platform Development." />
+                                    <meta itemprop="description" content="The most commonly known types of cryptocurrency exchanges are centralized and decentralized exchanges. Contact Arbitech block tech for Hybrid Crypto Exchange Platform Development." />
                                 </div>
 
                             </div>

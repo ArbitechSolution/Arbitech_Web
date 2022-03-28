@@ -17,7 +17,7 @@ export default function Home_IDO() {
                                 <p className="animated fadeInDown">An Initial Dex Offering is the latest type of fundraising mechanism in which the IDO coin is issued through a decentralized liquidity exchange.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+
                                 </div>
                             </div>
                         </div>
@@ -88,9 +88,9 @@ export default function Home_IDO() {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-5 text-center mt-5">
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="Infinite Block Tech" />
+                                <meta itemprop="name" content="ArbiTech Soultions" />
                                 <img data-src="1.jpg" className="mt-10 img-responsive" alt="Initial Dex Offering" itemprop="contentUrl" src="1.jpg" />
-                                <meta itemprop="description" content="IDO is a digital token for launching a project via a decentralized liquidity exchange. get your own IDO development services from Infinite Block Tech." />
+                                <meta itemprop="description" content="IDO is a digital token for launching a project via a decentralized liquidity exchange. get your own IDO development services fromArbiTech Soultions." />
                             </div>
 
                         </div>
