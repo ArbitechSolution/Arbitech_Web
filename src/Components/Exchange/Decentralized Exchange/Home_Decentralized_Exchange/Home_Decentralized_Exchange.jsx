@@ -16,7 +16,7 @@ export default function Home_Decentralized_Exchange() {
                 <p className="animated fadeInDown">Unbolt the true potential of blockchain for your business by leveraging robustious decentralized exchange development from seasoned blockchain experts!</p>
                 <div className="animated fadeInUp mt-30">
                   <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                  <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                 
                 </div>
               </div>
             </div>
@@ -39,7 +39,7 @@ export default function Home_Decentralized_Exchange() {
                 <p>As a pioneer decentralized exchange development company, Arbitech Soultions comprises a team of blockchain experts with long-standing experience and a long track record of helping several clients across the globe launch their decentralized exchange platform (DEX) successfully. Our strong expertise, and in-depth knowledge with blockchain technology combined, we assure highly-secure, stable, scalable, and reliable decentralized exchange development services that will help your business move forward in leaps and bounds. We intend to understand your individual needs and cater to them as effectively as possible. </p>
               </div>
               <div className="mt-25">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                   <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -101,7 +101,7 @@ export default function Home_Decentralized_Exchange() {
             <p className="sub_tit">Make headway into the disruptive decentralized market by launching your own white label dex exchange platform with ease, with the help of our industry best expert team. </p>
           </div>
           <div className="mt-25 text-center">
-            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
               <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -414,7 +414,7 @@ export default function Home_Decentralized_Exchange() {
                 </ul>
               </div>
               <div className="mt-25">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                   <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

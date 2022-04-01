@@ -15,7 +15,7 @@ export default function Home_Exchange_Marketing() {
                 <p className="animated fadeInDown">Take your Cryptocurrency exchange to the next level with our tried and tested marketing strategies. We provide highly effective cryptocurrency exchange marketing solutions at an unbeatable price.</p></div>
             </div>
             <div className="animated fadeInUp mt-30"><a href="#contact" className="button-md dark-button js-scroll-trigger">Talk To Our Experts</a>
-              <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+              
             </div>
           </div>
         </div>
@@ -196,7 +196,7 @@ export default function Home_Exchange_Marketing() {
           </div>
           <div className="mt-25 text-center">
             <a target="_blank" href="https://api.whatsapp.com/send?l=en&amp;text=Hi!%20I%27m%20interested%20in%20one%20of%20your%20products%20at%20INFINITE%20BLOCK%20TECH&amp;phone=916382665366" className="button-md dark-button two-btn">Connect With Whatsapp</a>
-            <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+          
           </div>
         </div>
       </div>

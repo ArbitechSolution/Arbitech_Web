@@ -37,12 +37,12 @@ export default function Home_Million_Menoy() {
                     <div className="section-heading center-holder">
                         <h2>Million Money Clone Development</h2>
                         <div className="section-heading-line"></div>
-                        <p>Million Money Smart Contract MLM Clone Script is a software script reinforced with smart contracts built on a decentralized ethereum blockchain network, that enables individuals and businesses to develop a platform like Million Money in the shortest time possible. The clone script uses advanced programming languages for the creation of ethereum smart contracts and is 100% open-source, bug-free, and is inbuilt with custom features and functionalities. </p>
+                        <p>Million Money Smart Contract MLM Clone is a software script reinforced with smart contracts built on a decentralized ethereum blockchain network, that enables individuals and businesses to develop a platform like Million Money in the shortest time possible. The Clone uses advanced programming languages for the creation of ethereum smart contracts and is 100% open-source, bug-free, and is inbuilt with custom features and functionalities. </p>
                         <div className="row align-items-center md-flex mt-10">
                             <div className="col-md-7 text-left">
 
 
-                                <p>Being front-runners in the field of cryptocurrency and blockchain, Arbitech Soultions composes of a broad team of developers possessing a solid background and strong expertise with the ability to offer an array of solutions across various industries. With MLM businesses widely trending in the online market, we help you get in and get ahead of your competitors efficiently by offering various smart contract MLM clone script solutions for various popular existing platforms. </p>
+                                <p>Being front-runners in the field of cryptocurrency and blockchain, Arbitech Soultions composes of a broad team of developers possessing a solid background and strong expertise with the ability to offer an array of solutions across various industries. With MLM businesses widely trending in the online market, we help you get in and get ahead of your competitors efficiently by offering various smart contract MLM Clone solutions for various popular existing platforms. </p>
 
                                 <p>Our Million Money smart contract MLM software assures you the most faithful rendition of the native platform with a transparent development process and pricing. We help you launch a perfect decentralized ethereum smart contract MLM platform like Million Money in next to no time to gain immediate traction among the potential investors over the widespread competition in the market. We include you in every step of the way to ensure your expectations are met and to bring in utmost customer satisfaction. We strive to make sure that our Million Money Clone development solutions bring in maximum visibility, credibility, and profitability for your MLM business and elevate your game in the competitive market. </p>
                             </div>
@@ -74,13 +74,13 @@ export default function Home_Million_Menoy() {
             <div className="section-block  section-block-grey">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Million Money Clone Script</h2>
+                        <h2>Million Money Clone</h2>
                         <div className="section-heading-line"></div>
                         <div className="row align-items-center md-flex">
                             <div className="col-md-12 text-center">
-                                <p>Million Money MLM clone script is a ready-made smart contract clone script that replicates the essential features, plugins, and functionalities of the original platform helping users quickly and efficiently create and launch a credible platform like Million Money. The clone script enables users to include additional features according to their personal preferences and is 100% scalable and customizable.  Our Million Money white label solutions help save an ample amount of time, money, effort, and resources incurred for developing the platform from scratch. All the customers have to do is purchase the script and customize it in terms of the name, brand, logo, UX/UI, color themes, etc to achieve a unique identity in the marketplace. </p>
+                                <p>Million Money MLM Clone is a ready-made smart contract Clone that replicates the essential features, plugins, and functionalities of the original platform helping users quickly and efficiently create and launch a credible platform like Million Money. The Clone enables users to include additional features according to their personal preferences and is 100% scalable and customizable.  Our Million Money white label solutions help save an ample amount of time, money, effort, and resources incurred for developing the platform from scratch. All the customers have to do is purchase the script and customize it in terms of the name, brand, logo, UX/UI, color themes, etc to achieve a unique identity in the marketplace. </p>
 
-                                <p>Our dedicated team of experts thoroughly research, analyze, strategize, and offer you the most reliable and secure Million Money MLM clone script development solutions. We ensure timely delivery and a comprehensive package at a cost-effective price without compromising quality and security. Discuss your ideas with us and we will ensure to take your MLM business to the next phase. </p>
+                                <p>Our dedicated team of experts thoroughly research, analyze, strategize, and offer you the most reliable and secure Million Money MLM Clone development solutions. We ensure timely delivery and a comprehensive package at a cost-effective price without compromising quality and security. Discuss your ideas with us and we will ensure to take your MLM business to the next phase. </p>
                             </div></div></div></div></div>
 
 
@@ -93,7 +93,7 @@ export default function Home_Million_Menoy() {
                 <div className="container">
                     <div className="section-heading center-holder">
                         <h2 className="text-white" style={{ color: "#fff" }}>
-                            Word-class features of Our Million Money MLM Clone Script</h2>
+                            Word-class features of Our Million Money MLM Clone</h2>
                         <div className="section-heading-line"></div>
 
                         <ul className="expert-whitelabel-list">
@@ -106,7 +106,7 @@ export default function Home_Million_Menoy() {
                             <li>
                                 <div className="icon654"><img className="" data-src="changing-money.svg" src="changing-money.svg" /></div>
                                 <h3>Multi-Currency Support</h3>
-                                <p>The Million Money Smart contract MLM Clone Script crafted by our experts is integrated with multi-currency storage and transaction support to bring in enhanced user convenience.</p>
+                                <p>The Million Money Smart contract MLM Clone crafted by our experts is integrated with multi-currency storage and transaction support to bring in enhanced user convenience.</p>
                             </li>
                             <li>
                                 <div className="icon654"><img className="" data-src="peer-to-peer.svg" src="peer-to-peer.svg" /></div>
@@ -131,7 +131,7 @@ export default function Home_Million_Menoy() {
                             <li>
                                 <div className="icon654"><img className="" data-src="padlock.svg" src="padlock.svg" /></div>
                                 <h3>Privacy </h3>
-                                <p>As the Million Money MLM clone script is backed by blockchain technology, it enables anonymous transactions and more privacy to the users to secure their private information. </p>
+                                <p>As the Million Money MLM Clone is backed by blockchain technology, it enables anonymous transactions and more privacy to the users to secure their private information. </p>
                             </li>
                             <li>
                                 <div className="icon654"><img className="" data-src="transparency.svg" src="transparency.svg" /></div>
@@ -172,7 +172,7 @@ export default function Home_Million_Menoy() {
                         <div className="row">
                             <div className="mt-25 text-center">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -285,7 +285,7 @@ export default function Home_Million_Menoy() {
                         </div>
                         <div className="row">
                             <div className="mt-25 text-center">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -303,7 +303,7 @@ export default function Home_Million_Menoy() {
                         <div className="text-center">
                             <h3>Why Choose Arbitech Soultions For Smart Contract Based MLM Development Like Million Money?</h3>
                             <div className="section-heading-line"></div>
-                            <p className="mt-10">Being a renowned blockchain and cryptocurrency development solutions company, Arbitech Soultions possesses a team of certified, seasoned experts with immense knowledge in smart contracts development. We ensure to render the perfect smart contract based MLM like Million Money that will help you make strides in the intensely competitive market. Here are some key attributes that make us the right choice for your Million Money MLM clone script development. </p>
+                            <p className="mt-10">Being a renowned blockchain and cryptocurrency development solutions company, Arbitech Soultions possesses a team of certified, seasoned experts with immense knowledge in smart contracts development. We ensure to render the perfect smart contract based MLM like Million Money that will help you make strides in the intensely competitive market. Here are some key attributes that make us the right choice for your Million Money MLM Clone development. </p>
                         </div>
                         <div className="row mt-40 floatReverse md-flex sto-mark-gen">
                             <div className="col-xs-12 col-md-6 col-sm-6">

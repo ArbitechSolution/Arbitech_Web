@@ -26,7 +26,7 @@ export default function Decentraliztion_Gamming() {
 
                             </div>
                             <div className="mt-30">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
                                     <a target="_blank" className="button-md dark-button two-btn js-scroll-trigger  ">Connect With Whatsapp</a>
                                 </ReactWhatsapp>
                             </div>

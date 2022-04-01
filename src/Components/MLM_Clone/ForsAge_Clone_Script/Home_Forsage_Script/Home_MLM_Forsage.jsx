@@ -12,11 +12,11 @@ export default function Home_MLM_Forsage() {
                     <div className="slider-content text-left">
                         <div className="row">
                             <div className="col-xs-12 col-md-7 col-sm-7 mt-5">
-                                <div className="animated fadeInDown banner_tit"><h1>Forsage Clone Script</h1> </div>
+                                <div className="animated fadeInDown banner_tit"><h1>Forsage Clone</h1> </div>
                                 <p className="animated fadeInDown">IBT is a top blockchain solutions provider that develops cutting-edge Forsage MLM software using Ethereum-based smart contracts. We have an excellent team of developers who can create feature-rich platforms like Forsage, Doubleway, Ethereum Cash, Million Money, XOXO, Lionsshare, Etrix, and more.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                                   
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5 mt-5">
@@ -25,7 +25,7 @@ export default function Home_MLM_Forsage() {
                                         <h4>Talk To Our Experts</h4>
                                         <form id="banner_form" className="contact-form" method="post">
                                             <div className="row">
-                                                <input type="hidden" name="url" value="https://www.infiniteblocktech.com/forsage-clone-script" className="url" />
+                                                <input type="hidden" name="url" value="https://www.Arbitechsolutions.com/forsage-clone-script" className="url" />
                                                 <div className="col-xs-12 col-sm-6 col-md-6">
                                                     <input id="name" name="name" placeholder="Name" required="" />
                                                 </div>
@@ -84,7 +84,7 @@ export default function Home_MLM_Forsage() {
                                 <p>Our unique Forsage MLM clone software is built using the best technology and talent. The combination of the two gives you a competitive advantage and helps you scale in no time. Our products are highly customizable, allowing you to set fees and commissions at your discretion.</p>
                             </div>
                             <div className="mt-25">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -96,8 +96,8 @@ export default function Home_MLM_Forsage() {
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
                                 <meta itemprop="name" content=" Arbitech Soultions" />
-                                <img data-src="Forsage-Clone-Script.jpg" className="rounded-border shadow-primary img-responsive imgSeconddivhere" alt="Forsage Clone Script" itemprop="contentUrl" src="Forsage-Clone-Script.jpg" />
-                                <meta itemprop="description" content="Forsage Clone Script is a whitelable MLM product. with which you can launch and manage a decentralized MLM company. Get it now." />
+                                <img data-src="Forsage-Clone-Script.jpg" className="rounded-border shadow-primary img-responsive imgSeconddivhere" alt="Forsage Clone" itemprop="contentUrl" src="Forsage-Clone-Script.jpg" />
+                                <meta itemprop="description" content="Forsage Clone is a whitelable MLM product. with which you can launch and manage a decentralized MLM company. Get it now." />
                             </div>
 
 
@@ -122,9 +122,9 @@ export default function Home_MLM_Forsage() {
                         <div className="col-xs-12 col-sm-12 col-md-6">
                             <div className="section-heading center-holder">
                                 <img className="mb-10" src="users.svg" width="100px" />
-                                <h3>Forsage MLM Clone Script</h3>
+                                <h3>Forsage MLM Clone</h3>
                                 <div className="section-heading-line"></div>
-                                <p>Our ready-made MLM clone scripts are built with the best technology and arrive with top-notch features. What’s more, they are completely customizable and can be tailored to match your requirements. This will allow you to compete with top MLM brands, including Forsage, Doubleway, Ethereum Cash, Million Money, XOXO, Lionsshare, Etrix, and more.</p>
+                                <p>Our ready-made MLM Clones are built with the best technology and arrive with top-notch features. What’s more, they are completely customizable and can be tailored to match your requirements. This will allow you to compete with top MLM brands, including Forsage, Doubleway, Ethereum Cash, Million Money, XOXO, Lionsshare, Etrix, and more.</p>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6">
@@ -132,7 +132,7 @@ export default function Home_MLM_Forsage() {
                                 <img className="mb-10" src="contract741.svg" width="100px" />
                                 <h3>Forsage Smart Contract</h3>
                                 <div className="section-heading-line"></div>
-                                <p>Forsage Smart Contract clone script is developed using the Ethereum blockchain. At IBT, we use the best technology to develop and launch premium smart contracts such as Forsage. Our MLM clone scripts allow participants to join the network and earn rewards by referring to new users. Our solutions are completely customizable, and you can choose between X3 Matrix or X4 Matrix schemes, along with setting the fees or commissions.</p>
+                                <p>Forsage Smart Contract Clone is developed using the Ethereum blockchain. At IBT, we use the best technology to develop and launch premium smart contracts such as Forsage. Our MLM Clones allow participants to join the network and earn rewards by referring to new users. Our solutions are completely customizable, and you can choose between X3 Matrix or X4 Matrix schemes, along with setting the fees or commissions.</p>
                             </div>
                         </div>
                     </div>
@@ -147,8 +147,8 @@ export default function Home_MLM_Forsage() {
             <div className="section-clients section-block ">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Benefits of Forsage Clone Script Packed With Advantages</h2>
-                        <p>Our scalable Forsage clone scripts arrive with numerous benefits:</p>
+                        <h2>Benefits of Forsage Clone Packed With Advantages</h2>
+                        <p>Our scalable Forsage Clones arrive with numerous benefits:</p>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-50">
@@ -196,9 +196,9 @@ export default function Home_MLM_Forsage() {
                             <div className="pr-30-md">
 
                                 <div className="mt-20 text-content text-left">
-                                    <p>Forsage clone script is an enterprising marketing scheme that allows anybody to join and begin earning. In order to become a part of the network, an initial payment of at least 0.05 ETH is required.</p>
+                                    <p>Forsage Clone is an enterprising marketing scheme that allows anybody to join and begin earning. In order to become a part of the network, an initial payment of at least 0.05 ETH is required.</p>
                                     <p>After joining the network, the participant can refer other users to the platform and earn commissions on every new recruit. As they get more people to join the system, they can increase their earnings by manifold.</p>
-                                    <p>The Forsage smart contract clone script supports the following crypto wallets:</p>
+                                    <p>The Forsage smart contract Clone supports the following crypto wallets:</p>
 
                                     <div className="col-md-6 ms-4">
                                         <ul className="primary-list">
@@ -219,7 +219,7 @@ export default function Home_MLM_Forsage() {
                         <div className="col-xs-12 text-center">
                             <div className="animated fadeInUp mt-40">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                               
                             </div>
                         </div>
 
@@ -242,7 +242,7 @@ export default function Home_MLM_Forsage() {
                 <div className="container">
                     <div className="section-heading center-holder">
                         <h2>Forsage Clone - Launch your Smart Contract based MLM Platform</h2>
-                        <p>Unlock Opportunities Using A Forsage Clone Script</p>
+                        <p>Unlock Opportunities Using A Forsage Clone</p>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-20 mt-5">
@@ -255,8 +255,8 @@ export default function Home_MLM_Forsage() {
                             <div className="pr-30-md">
 
                                 <div className="mt-20 text-content text-left">
-                                    <p>A smart contract MLM script is a scalable business model with numerous benefits. Entrepreneurs can create a mark in the lucrative cryptosphere by using a Forsage clone to deliver passive income opportunities to millions of people around the world.</p>
-                                    <p>Experience the software for yourself. Request a demo of our premium Forsage clone script.</p>
+                                    <p>A smart contract MLM script is a scalable business model with numerous benefits. Entrepreneurs can create a mark in the lucrative cryptosphere by using a Forsage clone to deliver passive income opportunities to milLions of people around the world.</p>
+                                    <p>Experience the software for yourself. Request a demo of our premium Forsage Clone.</p>
 
                                 </div>
                                 <div className="mt-20">

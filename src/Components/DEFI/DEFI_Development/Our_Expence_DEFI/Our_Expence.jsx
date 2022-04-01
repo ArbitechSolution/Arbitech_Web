@@ -135,8 +135,8 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="automated.svg" className="ser-img" src="automated.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Automated Mechanism</h4>
-                                    <p>The entire functionality of the DeFi platform works based on an automated smart contract mechanism and eliminates the need for manual interruption. </p>
+                                    <h4 className='text-dark'>Automated Mechanism</h4>
+                                    <p className='text-dark'>The entire functionality of the DeFi platform works based on an automated smart contract mechanism and eliminates the need for manual interruption. </p>
                                 </div>
                             </div>
                         </div>
@@ -147,7 +147,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="contract.svg" className="ser-img" src="contract.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Smart Contracts</h4>
+                                    <h4 className='text-dark'>Smart Contracts</h4>
                                     <p>The platform is integrated with smart contracts coded with solidity language, that facilitates automated transactions based on pre-set mutual agreements that help avoid disputes and makes the platform easier to operate.</p>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="investment-plans.svg" className="ser-img" src="investment-plans.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Well-devised Investment Plans</h4>
+                                    <h4 className='text-dark'>Well-devised Investment Plans</h4>
                                     <p>Our flexible investment plans will help users efficiently invest, trade and store their assets and earn elevated ROI returns compared to traditional banks. </p>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="wrong.svg" className="ser-img" src="wrong.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Elimination of third party</h4>
+                                    <h4 className='text-dark'>Elimination of third party</h4>
                                     <p>The DeFi platform enables peer to peer transactions with the most nominal fees, as it eliminates the involvement of third parties and also completely secures the users’ funds.</p>
                                 </div>
                             </div>
@@ -190,7 +190,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="anonymity.svg" className="ser-img" src="anonymity.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>User Anonymity </h4>
+                                    <h4 className='text-dark'>User Anonymity </h4>
                                     <p>Even though the DeFi platform works based on a decentralized, distributed ledger system, it secures the anonymity of the user as the identity linked to the profiles are not displayed.</p>
                                 </div>
                             </div>
@@ -203,7 +203,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="global.svg" className="ser-img" src="global.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Improved Global Access </h4>
+                                    <h4 className='text-dark'>Improved Global Access </h4>
                                     <p>Decentralized Finance services are open and made globally available and accessible to everyone irrespective of their wealth, status, or geographical location. </p>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="interoperability.svg" className="ser-img" src="interoperability.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Interoperability</h4>
+                                    <h4 className='text-dark'>Interoperability</h4>
                                     <p>The flexibility to integrate multiple decentralized finance applications into one module makes the platform more efficient to use, user-centric. </p>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="transparency.svg" className="ser-img" src="transparency.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Transparency </h4>
+                                    <h4 className='text-dark'>Transparency </h4>
                                     <p>The absence of a central authority controlling the platform and managing your users’ funds is what makes decentralized finance platforms more transparent and trustworthy. </p>
                                 </div>
                             </div>
@@ -247,8 +247,8 @@ export default function Our_Expence() {
                                 <div className="feature-flex-square-icon1101"><img data-src="security.svg" className="ser-img" src="security.svg" /></div>
                                 <div className="number-box-line"></div>
                                 <div className="feature-flex-square-content box4522">
-                                    <h4>Enhanced security </h4>
-                                    <p>As decentralized finance platforms work based on a peer to peer network system, it eliminates data breach and ensures end-to-end transactions and users’ data protection. </p>
+                                    <h4 className='text-dark'>Enhanced security </h4>
+                                    <p >As decentralized finance platforms work based on a peer to peer network system, it eliminates data breach and ensures end-to-end transactions and users’ data protection. </p>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +257,7 @@ export default function Our_Expence() {
 
                 <div className="mt-25 text-center mt-4">
 
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

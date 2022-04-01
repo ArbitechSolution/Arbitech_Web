@@ -16,7 +16,7 @@ export default function Home_Cryptocurrency_MLM() {
 
                                 <div className="animated banner_btn fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button js-scroll-trigger">Get Quote</a>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -38,12 +38,12 @@ export default function Home_Cryptocurrency_MLM() {
                             <div className="section-heading left-holder">
                                 <h2>Launch your White Label Crypto MLM Software</h2>
                             </div>
-                            <p className="mb-10 text-justify text-left p_Safe_Mood">Low investment requirements and promise of high returns is attracting many people to the cryptosphere. This is a great opportunity to provide individuals an incentive to proactively participate in this ecosystem. By building a cryptocurrency MLM business, you can leverage the benefits of decentralization and immutability to reach millions around the world. </p><p>
+                            <p className="mb-10 text-justify text-left p_Safe_Mood">Low investment requirements and promise of high returns is attracting many people to the cryptosphere. This is a great opportunity to provide individuals an incentive to proactively participate in this ecosystem. By building a cryptocurrency MLM business, you can leverage the benefits of decentralization and immutability to reach milLions around the world. </p><p>
 
                             </p><p className="mb-10  text-justify text-left p_Safe_Mood">We are a top cryptocurrency MLM software provider with proven services and a happy clientele. Our solutions enable you to customize the platform endlessly and kickstart your business in an incredibly short span of time.</p>
                             <div className="animated banner_btn fadeInUp mt-30 mt-5">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button js-scroll-trigger">Get Quote</a>
+                               
                             </div>
                         </div>
                         <div className="col-md-6 col-xs-12 col-sm-6 pull-left text-center">

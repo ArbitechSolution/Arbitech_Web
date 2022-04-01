@@ -14,9 +14,9 @@ export default function Smart_Contract() {
                     </div>
                     <div className="row mt-50">
                         <div className="col-md-6 text-left">
-                            <p className='p_Safe_Mood'>MLM is an exceptional entrepreneurial model to raise profits and engage the community. Here are some advantages linked to the Forsage clone script.</p>
+                            <p className='p_Safe_Mood'>MLM is an exceptional entrepreneurial model to raise profits and engage the community. Here are some advantages linked to the Forsage Clone.</p>
                             <ul className="primary-list">
-                                <li><i className="fa fa-check-square"></i> A perfect business venture to operate and earn millions during the Covid-19 pandemic</li>
+                                <li><i className="fa fa-check-square"></i> A perfect business venture to operate and earn milLions during the Covid-19 pandemic</li>
                                 <li><i className="fa fa-check-square"></i> Completely automated and risk-free due to smart contract integration</li>
                                 <li><i className="fa fa-check-square"></i> Can be legitimized by getting a license from the government, thus improving the trust</li>
                                 <li><i className="fa fa-check-square"></i> Benefits all stakeholders in the ecosystem and a great source to earn passive income</li>
@@ -32,7 +32,7 @@ export default function Smart_Contract() {
                         <div className="col-xs-12 text-center">
                             <div className="animated fadeInUp mt-40">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                               
                             </div>
                         </div>
 
@@ -59,7 +59,7 @@ export default function Smart_Contract() {
                     <div className="row mt-30 work_flw">
 
                         <div className="mb-30 col-md-12 text-center">
-                            <p className='p_Safe_Mood'>Using our stellar Forsage clone scripts, you can launch your dream MLM business in a matter of days. Our solutions are ready-made and can be deployed without any hassles. This helps you save big on time and costs.</p>
+                            <p className='p_Safe_Mood'>Using our stellar Forsage Clones, you can launch your dream MLM business in a matter of days. Our solutions are ready-made and can be deployed without any hassles. This helps you save big on time and costs.</p>
 
                             <b style={{ fontSize: "22px", marginTop: '1rem', color: 'white', paddingBottom: '2rem' }} >Here’s how you can launch your business quickly:</b>
                         </div>
@@ -69,7 +69,7 @@ export default function Smart_Contract() {
                                 <div className="flow_diag">
                                     <div className="flow_diag-icon"><i className="fa fa-shopping-bag" aria-hidden="true"></i></div>
                                     <div className="flow_diag-content">
-                                        <h6 className='p_Safe_Mood text-center'>Purchase our Forsage clone script</h6>
+                                        <h6 className='p_Safe_Mood text-center'>Purchase our Forsage Clone</h6>
                                     </div>
                                     <div className="border"></div>
                                 </div>
@@ -119,7 +119,7 @@ export default function Smart_Contract() {
                         <div className="col-md-7 text-left mt-2">
                             <p className='p_Safe_Mood'>Cryptocurrency is a highly profitable sector promising high returns on investments. Therefore, a lot of people are interested in investing and participating in this ecosystem. Using a Forsage like clone, you can launch your own MLM business that is completely managed by smart contracts.</p>
 
-                            <p className='p_Safe_Mood'>Moreover, the Forsage MLM clone script arrives with zero-risk of hacking as it is backed by blockchain technology. This also ensures that complete transparency persists in the system, thus helping improve trust among the different participants in the platform. Finally, smart contracts are self-executing programs, thus removing the requirement to monitor them while at the same time eliminating the risk of errors.</p>
+                            <p className='p_Safe_Mood'>Moreover, the Forsage MLM Clone arrives with zero-risk of hacking as it is backed by blockchain technology. This also ensures that complete transparency persists in the system, thus helping improve trust among the different participants in the platform. Finally, smart contracts are self-executing programs, thus removing the requirement to monitor them while at the same time eliminating the risk of errors.</p>
 
                             <h4 className='text-left text-white mb-2'>Other benefits associated with Forsage MLM script includes:</h4>
                             <ul className="primary-list ms-4">

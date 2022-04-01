@@ -3,15 +3,17 @@
 
 .banner-block{
     background-image: url('../../../Assets/HomeImg/banner-img.png') !important;
-    padding-top: 170px !important;
-    height:87vh !important ;
-    z-index: -1 !important;
+    background-position: 70% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 240px !important;
+    padding-bottom: 75px;
+    
     position: relative;
+    height: auto;
 
 }
-.banner-block {
-    position: relative;
-}
+
 
 .swiper-slide {
     text-align: center;
@@ -27,14 +29,7 @@
     align-items: center;
 }
 
-.sec-overlay {
-    /* background-color: rgba(255, 255, 255, 0.8) !important; */
-    /* background-color:hsl(223, 54%, 13%)  !important; */
-    background-color: rgb(0 0 0 / 67%);
 
-    opacity: 0.8;
-    z-index: 0 !important;
-}
 
 .sec-overlay {
     position: absolute;
@@ -42,7 +37,11 @@
     bottom: 0;
     left: 0;
     right: 0;
-    /* background-color: rgba(0,0,0,.8); */
+   
+    background-color: rgb(0 0 0 / 67%);
+   
+    opacity: 0.8;
+    z-index: 0 !important;
 }
 .overlay2:before{
 display: table;
@@ -114,12 +113,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 770px){
 .slider-content h2, .slider-content h1 {
     font-size: 27px;
   
     line-height: 1.4;
     font-weight: 600;
+}
+.headinghere{
+    font-size: 50px;
+    padding-top: 1.2rem;
+    /* color: #fff; */
+    line-height: 1.4;
+    font-weight: 600;
+    color: #fff !important;
+    z-index: 1000 !important;
+    position: relative;
 }
 .button-md {
     padding: 13px 20%;

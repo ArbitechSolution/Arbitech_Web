@@ -19,8 +19,7 @@ export default function Home_Wallet_Deve() {
                                 <p className="animated fadeInDown">Secure and safeguard your valuable crypto assets, and manage them most efficiently by procuring potent cryptocurrency wallet development from our industry-best experts! Your safety is our top priority. </p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#app-demo" className="button-md dark-button two-btn js-scroll-trigger">View Demo</a>
-
+                                   
                                 </div>
                             </div>
 
@@ -66,7 +65,7 @@ export default function Home_Wallet_Deve() {
                         </div>
                         <div className="row mt-5">
                             <div className="mt-25 text-center">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -172,62 +171,62 @@ export default function Home_Wallet_Deve() {
                      
                     <li>
                       <div className="icon654"><img className="" data-src="multi-device.svg" src="multi-device.svg"/></div>
-                        <h3>Multi-Device Compatibility</h3>
+                        <h3 className="heading_h3 fs-4">Multi-Device Compatibility</h3>
                          <p>Our cryptocurrency wallet is integrated with multi-OS( operating system) support, and is compatible with iOS, Android, Windows, and Linux. It helps you securely and efficiently access your funds from anywhere, any device.</p>
                     </li>
                     <li>
                         <div className="icon654"><img className="" data-src="wallet54.svg" src="wallet54.svg"/></div>
-                        <h3>Most Used Addresses</h3>
+                        <h3 className="heading_h3 fs-4">Most Used Addresses</h3>
                          <p>Our cryptocurrency wallet displays the most used and readily-available wallet address to users for quick and easy access. </p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="payment.svg" src="payment.svg"/></div>
-                        <h3>Auto Denial of Payments</h3>
+                        <h3 className="heading_h3 fs-4">Auto Denial of Payments</h3>
                          <p>We ensure our multiple currency wallet has the ability to detect and deny duplicate payments to prevent users and the wallet from being prone to any fraudulent activity. </p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="2fa.svg" src="2fa.svg"/></div>
-                        <h3>Two-Factor Authentication</h3>
+                        <h3 className="heading_h3 fs-4">Two-Factor Authentication</h3>
                          <p>The multiple currency wallet crafted by our experts is enabled with two- factor authentication to ensure the user authorization and access to the wallet are protected. </p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="qr-code.svg" src="qr-code.svg"/></div>
-                        <h3>Integrated QR Code Scanner</h3>
+                        <h3 className="heading_h3 fs-4">Integrated QR Code Scanner</h3>
                          <p>To simplify the transfer of your cryptos to another wallet, we have integrated a QR code scanner into our cryptocurrency wallet that automatically scans users’ wallet addresses.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="user-friendly.svg" src="user-friendly.svg"/></div>
-                        <h3>User-Friendly Interface</h3>
+                        <h3 className="heading_h3 fs-4">User-Friendly Interface</h3>
                          <p>Our cryptocurrency wallet is composed of an interactive, user-friendly interface that is congenial for both beginners and experienced crypto users.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="digital-wallet54.svg" src="digital-wallet54.svg"/></div>
-                        <h3>Paper Wallet Development</h3>
+                        <h3 className="heading_h3 fs-4">Paper Wallet Development</h3>
                          <p>We also offer paper wallet development solutions to help users efficiently scan and process paper digital currencies.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="swap.svg" src="swap.svg"/></div>
-                        <h3>Real-time Swapping</h3>
+                        <h3 className="heading_h3 fs-4">Real-time Swapping</h3>
                          <p>With our real-time swapping functionality, users can almost immediately swap one crypto for another, without any fiat currency as an intermediary in a seamless manner.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="shield54.svg" src="shield54.svg"/></div>
-                        <h3>Robust Security</h3>
+                        <h3 className="heading_h3 fs-4">Robust Security</h3>
                          <p>Our cryptocurrency wallet is integrated with multi-layer security protocols to ensure secure, risk-free management and exchange of cryptos for users.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="conversion.svg" src="conversion.svg"/></div>
-                        <h3>Conversion Rates</h3>
+                        <h3 className="heading_h3 fs-4">Conversion Rates</h3>
                          <p>Our cryptocurrency wallet is up-to-date, and displays the updated cryptocurrency values to users in a timely manner.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="notification.svg" src="notification.svg"/></div>
-                        <h3>Push Notifications</h3>
+                        <h3 className="heading_h3 fs-4">Push Notifications</h3>
                          <p>We ensure to constantly notify our cryptocurrency wallet users regarding the transactions that take place and the changes in the values of cryptocurrencies.</p>
                     </li>
                     <li>
                        <div className="icon654"><img className="" data-src="logout.svg" src="logout.svg"/></div>
-                        <h3>Favorable logout session</h3>
+                        <h3 className="heading_h3 fs-4">Favorable logout session</h3>
                          <p>We integrate an automated mechanism into the multiple currency wallet that logs out users automatically from the account after a specified period of time.</p>
                     </li>
                 </ul>

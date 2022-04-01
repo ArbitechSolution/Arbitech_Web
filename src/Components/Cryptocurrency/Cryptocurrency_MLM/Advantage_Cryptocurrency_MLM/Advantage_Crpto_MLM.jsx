@@ -34,7 +34,7 @@ export default function Advantage_Crpto_MLM() {
             </div>
           </div>
           <div className="animated banner_btn fadeInUp mt-30 text-center">
-            <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
+          
             <a href="#contact" className="button-md dark-button js-scroll-trigger">Get Quote</a>
           </div>
         </div>

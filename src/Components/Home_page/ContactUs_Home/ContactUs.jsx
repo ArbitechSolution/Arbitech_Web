@@ -1,27 +1,32 @@
-import React,{useRef} from 'react';
+import React, { useRef } from 'react';
 import './Contactus.css'
 import emailjs from '@emailjs/browser';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import ReactWhatsapp from 'react-whatsapp';
+
 
 
 export default function ContactUs() {
     const form = useRef();
-   
 
-  const sendEmail = (e) => {
-    e.preventDefault();
 
-    emailjs.sendForm('service_6i5sbfi', 'template_5js41cu', form.current, 'K4Y7kXhAD_D5pBOiq')
-      .then((result) => {
-          console.log(result.text);
-          toast.success("Email Sent Successfully!")
-      }, (error) => {
-          console.log(error.text);
-          toast.error("Email Not Sent !")
-      });
-      e.target.clear();
-  };
+    const sendEmail = (e) => {
+        e.preventDefault();
+        emailjs.sendForm('service_bim143b', 'template_zkgxy6b', form.current, '4B2rQuHUI21YNz0yK')
+            .then((result) => {
+                console.log(result.text);
+                toast.success("Email Sent Successfully!")
+            }, (error) => {
+                console.log(error.text);
+                toast.error("Email Not Sent !")
+            });
+        const input = document.querySelectorAll("#name,#email,#subject,#skype,#number,#message");
+        input.forEach((item) => {
+            item.value = ""
+        })
+
+    };
     return <div>
         <div className="section-block section-block-grey" id="contact">
             <div className="container">
@@ -32,48 +37,57 @@ export default function ContactUs() {
                 <div className="row mt-50">
                     <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div className="contact-form-box">
-                            <form className="contact-form"   ref={form} onSubmit={sendEmail}>
-                               
-                                
+                            <form className="contact-form" id='clear_form' ref={form} onSubmit={sendEmail}>
+
+
                                 <div className="row">
-                                <div className="col-xs-12 col-sm-6 col-md-6">
-                                    <input type="text" name="name" placeholder="Name" required />
-                                </div>
-                                <div className="col-xs-12 col-sm-6 col-md-6">
-                                    <input type="email"  name="email" placeholder="E-mail" required />
-                                </div>
+                                    <div className="col-xs-12 col-sm-6 col-md-6 labhhgg">
+                                        <label for="validationTooltip01" class="form-label label_here mb-0" >Name <span className='strick'>*</span> </label>
+                                        <input type="text" name="name" id='name' placeholder="Name" required />
+                                    </div>
+                                    <div className="col-xs-12 col-sm-6 col-md-6 labhhgg">
+                                        <label for="validationTooltip01" class="form-label label_here mb-0" >Email <span className='strick'>*</span> </label>
+                                        <input type="email" name="email" id='email' placeholder="E-mail" required />
+                                    </div>
 
                                 </div>
-                                
+
                                 <div className="col-md-12 col-xs-12 col-sm-12">
-                                    <input type="text" name="subject" placeholder="Subject" />
+                                    <label for="validationTooltip01" class="form-label label_here mb-0" >Subject  </label>
+
+                                    <input type="text" name="subject" id='subject' placeholder="Subject" />
                                 </div>
 
                                 <div className="row">
-                                <div className="col-xs-12 col-sm-6 col-md-6">
-                                    <input type="text" name="skypy" placeholder="Skype ID" />
+                                    <div className="col-xs-12 col-sm-6 col-md-6">
+                                        <label for="validationTooltip01" class="form-label label_here mb-0" >Skype ID </label>
+
+                                        <input type="text" name="skype" id='skype' placeholder="Skype ID" />
+                                    </div>
+                                    <div className="col-xs-12 col-sm-6 col-md-6">
+                                        <label for="validationTooltip01" class="form-label label_here mb-0" >Number <span className='strick'>*</span> </label>
+
+
+                                        <input type="number" name="number" id='number' className="phone_val" placeholder="Number"  min="11"   required />
+                                    </div>
                                 </div>
-                                <div className="col-xs-12 col-sm-6 col-md-6">
-                                    {/* <input type="hidden" name="phone" id="phone_newsletter" value=""/> */}
-                                    {/* <input type="hidden" className="country_code" /> */}
-                                    <input type="number" name="number" className="phone_val" placeholder="Number" required />
-                                </div>
-                                </div>
-                               
-                                <div className="col-md-12 col-xs-12 col-sm-12" style={{width: "100% !important"}}>
-                                    <textarea name="massage" placeholder="Message" required></textarea>
+
+                                <div className="col-md-12 col-xs-12 col-sm-12" style={{ width: "100% !important" }}>
+                                    <label for="validationTooltip01" class="form-label label_here mb-0" >Message <span className='strick'>*</span> </label>
+
+                                    <textarea name="massage" placeholder="Message" id='message' required></textarea>
 
                                 </div>
                                 <div className="col-md-12 col-xs-12 col-sm-12">
                                     <div className="center-holder">
                                         <button type="submit" className="contact-validate-btn submit_send" >Send Message</button>
-                                      
+
                                     </div>
                                 </div>
                             </form>
                         </div>
                     </div>
-                   
+
 
                 </div>
             </div>

@@ -66,7 +66,7 @@ export default function Effective_Monetization_open() {
                 <div className="section-heading center-holder">
                     <h4> Arbitech Soultions Is Your Dedicated Partner In Developing OpenSea Clones</h4>
                     <div className="section-heading-line"></div>
-                    <p> Arbitech Soultions is a top-tier clone script development company. We have immense prior experience in developing various types of NFT marketplace clone scripts for our clients. Our salient benefits are the primary reason for clients to hire us exclusively.</p>
+                    <p> Arbitech Soultions is a top-tier Clone development company. We have immense prior experience in developing various types of NFT marketplace Clones for our clients. Our salient benefits are the primary reason for clients to hire us exclusively.</p>
                 </div>
                 <div className="row mt-30">
                     <div className="col-md-6 col-sm-6 col-xs-12">
@@ -104,13 +104,13 @@ export default function Effective_Monetization_open() {
                     </div>
                     <div className="col-xs-12 col-sm-12 col-md-12 text-center mt-20">
                         <div className=" intro_cnt">
-                            <p className=""> Arbitech Soultions is regarded as one of the best <strong>NFT marketplace development</strong> companies in the cryptocurrency world. We are well updated on the current topics of the crypto market. Developing NFT marketplaces have been huge among business entities. It is said to generate high revenue for the business models. We have an experienced team of developers who have past experience in developing the marketplace by implementing the clone script method. In the past, we have created NFT marketplaces like SuperRare, Rarible, Foundation, OpenSea, etc. Our blockchain team has solid expertise and knowledge in building an NFT marketplace in different blockchain platforms based on the desire of the customer. Our popular blockchains that are used for the creation of NFT marketplaces are Ethereum, TRON, EOS, Binance Smart Chian, etc. After the development of the marketplace, we stay in contact with the customer by providing post-marketing services to expand the reach of their crypto project. Our primary aim is to uplift our customer’s business and keep them ahead of the competition. </p>
+                            <p className=""> Arbitech Soultions is regarded as one of the best <strong>NFT marketplace development</strong> companies in the cryptocurrency world. We are well updated on the current topics of the crypto market. Developing NFT marketplaces have been huge among business entities. It is said to generate high revenue for the business models. We have an experienced team of developers who have past experience in developing the marketplace by implementing the Clone method. In the past, we have created NFT marketplaces like SuperRare, Rarible, Foundation, OpenSea, etc. Our blockchain team has solid expertise and knowledge in building an NFT marketplace in different blockchain platforms based on the desire of the customer. Our popular blockchains that are used for the creation of NFT marketplaces are Ethereum, TRON, EOS, Binance Smart Chian, etc. After the development of the marketplace, we stay in contact with the customer by providing post-marketing services to expand the reach of their crypto project. Our primary aim is to uplift our customer’s business and keep them ahead of the competition. </p>
                         </div>
                     </div>
                 </div>
                 <div className="row extra mt-20">
                     <div className="animated fadeInUp text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

@@ -16,8 +16,8 @@ export default function Home_MetaMask() {
                         <div className="row">
                             <div className="col-xs-12 col-md-12 text-center">
                                 <div className="bnr-box">
-                                    <span className="animated fadeInDown"><h1>MetaMask Clone Script </h1></span>
-                                    <p className="animated fadeInDown">Seclude your precious time and make a grand entry with our MetaMask clone script </p>
+                                    <span className="animated fadeInDown"><h1>MetaMask Clone </h1></span>
+                                    <p className="animated fadeInDown">Seclude your precious time and make a grand entry with our MetaMask Clone </p>
                                     <div className="animated fadeInUp mt-30">
                                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
 
@@ -39,7 +39,7 @@ export default function Home_MetaMask() {
                 <div className="container">
                     <div className="row">
                         <div className="section-heading text-center">
-                            <h2>Introduction to MetaMask Clone Script </h2></div>
+                            <h2>Introduction to MetaMask Clone </h2></div>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row">
@@ -52,7 +52,7 @@ export default function Home_MetaMask() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -91,7 +91,7 @@ export default function Home_MetaMask() {
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
                                     <meta itemprop="name" content=" Arbitech Soultions" />
-                                    <img data-src="what-is-metamask-wallet.png" className="img-responsive" alt="MetaMask Clone Script" itemprop="contentUrl" src="what-is-metamask-wallet.png" />
+                                    <img data-src="what-is-metamask-wallet.png" className="img-responsive" alt="MetaMask Clone" itemprop="contentUrl" src="what-is-metamask-wallet.png" />
                                     <meta itemprop="description" content="MetaMask Clone is one of the most downloaded wallet extensions. The distributed network stores the information in various servers for security purpose. Get it now." />
                                 </div>
 
@@ -131,8 +131,8 @@ export default function Home_MetaMask() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="padlock.png" src="padlock.png" />
                                         </span>
-                                        <h3>User Experience</h3>
-                                        <p>The user interface and the user experience of the MetaMask wallet are very easy for interaction. This is one of the main reasons for the users to recursively use the MetaMask wallet.
+                                        <h3 className='text-white'>User Experience</h3>
+                                        <p className='NewClassTrust'>The user interface and the user experience of the MetaMask wallet are very easy for interaction. This is one of the main reasons for the users to recursively use the MetaMask wallet.
 
 
                                         </p>
@@ -143,8 +143,8 @@ export default function Home_MetaMask() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="medal.png" src="medal.png" />
                                         </span>
-                                        <h3>Linguistic Updates</h3>
-                                        <p>MetaMask is destined to break the language barrier between accessing their wallet, so they are now serving more than 15 languages and working on expanding the numbers.
+                                        <h3 className='text-white'>Linguistic Updates</h3>
+                                        <p className='NewClassTrust'>MetaMask is destined to break the language barrier between accessing their wallet, so they are now serving more than 15 languages and working on expanding the numbers.
 
                                         </p>
                                     </div>
@@ -154,8 +154,8 @@ export default function Home_MetaMask() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="purity.png" src="purity.png" />
                                         </span>
-                                        <h3>HD wallet</h3>
-                                        <p>MetaMask is a hierarchical deterministic wallet, which automatically creates a tree structure for the public and private keys. This will help the lag of users generating those keys every time.
+                                        <h3 className='text-white'>HD wallet</h3>
+                                        <p className='NewClassTrust'>MetaMask is a hierarchical deterministic wallet, which automatically creates a tree structure for the public and private keys. This will help the lag of users generating those keys every time.
 
 
                                         </p>
@@ -168,8 +168,8 @@ export default function Home_MetaMask() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="swap.png" src="swap.png" />
                                         </span>
-                                        <h3>Integration </h3>
-                                        <p> MetaMask is integrated with many crypto wallets and lets the user easily make the exchange without searching for a suitable wallet that supports the exchange every time.
+                                        <h3 className='text-white'>Integration </h3>
+                                        <p className='NewClassTrust'> MetaMask is integrated with many crypto wallets and lets the user easily make the exchange without searching for a suitable wallet that supports the exchange every time.
 
 
                                         </p>
@@ -180,8 +180,8 @@ export default function Home_MetaMask() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="mechanism.png" src="mechanism.png" />
                                         </span>
-                                        <h3>Foss </h3>
-                                        <p>Metamask is a Free and Open source Software (FOSS) , so that is the source code of MetaMask.
+                                        <h3 className='text-white'>Foss </h3>
+                                        <p className='NewClassTrust'>Metamask is a Free and Open source Software (FOSS) , so that is the source code of MetaMask.
 
 
                                         </p>
@@ -364,7 +364,7 @@ export default function Home_MetaMask() {
             <div className="section-block-parallax benifit-hash">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Advantages of our MetaMask clone script</h2>
+                        <h2 className='text-dark fs-3'>Advantages of our MetaMask Clone</h2>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-50">
@@ -374,7 +374,7 @@ export default function Home_MetaMask() {
                                     <span><i><img className="" data-src="activity.svg" src="activity.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Multi-Crypto compatibility </h3>
-                                <p className="description">The market wallets play a vital role in the crypto exchange. In day-to-day life, many new clone scripts are emerging in the crypto market. And every user and every cryptocurrency is important to us. This made us create a MetaMask wallet that supports and integrates various cryptocurrency support in the MetaMask. </p>
+                                <p className="description">The market wallets play a vital role in the crypto exchange. In day-to-day life, many new Clones are emerging in the crypto market. And every user and every cryptocurrency is important to us. This made us create a MetaMask wallet that supports and integrates various cryptocurrency support in the MetaMask. </p>
 
                             </div>
                         </div>
@@ -384,7 +384,7 @@ export default function Home_MetaMask() {
                                     <span><i><img className="" data-src="security.svg" src="security.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Cross-chain compliance </h3>
-                                <p className="description">MetaMask-like clone script is mainly designed to work with many blockchain technologies. To be compatible with all types of crypto services. Though it supports Ethereum directly, with the EVM, MetaMask can efficiently run with the other blockchains flawlessly.</p>
+                                <p className="description">MetaMask-like Clone is mainly designed to work with many blockchain technologies. To be compatible with all types of crypto services. Though it supports Ethereum directly, with the EVM, MetaMask can efficiently run with the other blockchains flawlessly.</p>
 
                             </div>
                         </div>
@@ -404,7 +404,7 @@ export default function Home_MetaMask() {
                                     <span><i><img className="" data-src="performance.svg" src="performance.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Automated action on duplicate transactions </h3>
-                                <p className="description">The MetaMask wallet clone script we built has the ability to detect any duplicate transactions in the wallet. Even MetaMask wallet clone script has security build-ups like 2-factor authentication to eradicate any intrusion.</p>
+                                <p className="description">The MetaMask wallet Clone we built has the ability to detect any duplicate transactions in the wallet. Even MetaMask wallet Clone has security build-ups like 2-factor authentication to eradicate any intrusion.</p>
 
                             </div>
                         </div>
@@ -412,7 +412,7 @@ export default function Home_MetaMask() {
                     </div>
                     <div className="mt-25 text-center">
 
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -445,7 +445,7 @@ export default function Home_MetaMask() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

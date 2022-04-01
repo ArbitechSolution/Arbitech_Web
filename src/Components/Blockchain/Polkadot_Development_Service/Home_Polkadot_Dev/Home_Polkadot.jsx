@@ -16,7 +16,7 @@ export default function Home_Polkadot() {
                                     <p className="animated fadeInDown text-center">Upgrade your project with the revolutionary Polkadot protocol to explore the power of blockchain connectivity.</p>
                                     <div className="animated fadeInUp mt-30">
                                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +124,7 @@ export default function Home_Polkadot() {
                     </div>
                     <div className="animated fadeInUp mt-30 text-center">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                       
                     </div>
                 </div>
             </div>
@@ -231,7 +231,7 @@ export default function Home_Polkadot() {
                     </div>
                     <div className="animated fadeInUp mt-30 text-center">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                       
                     </div>
                 </div>
             </div>
@@ -256,8 +256,8 @@ export default function Home_Polkadot() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="users754.svg" src="users754.svg" />
                                         </span>
-                                        <h3>Heterogeneous sharding</h3>
-                                        <p>Polkadot connects multiple chains in a single network by using the heterogeneous sharding model. This parallel segregation of data reduces the load and provides help to the chains to process the transaction and provides the fast and secured exchange of data between the chains.
+                                        <h3 className='text-white'>Heterogeneous sharding</h3>
+                                        <p className='timeline-txt'>Polkadot connects multiple chains in a single network by using the heterogeneous sharding model. This parallel segregation of data reduces the load and provides help to the chains to process the transaction and provides the fast and secured exchange of data between the chains.
 
                                         </p>
                                     </div>
@@ -267,8 +267,8 @@ export default function Home_Polkadot() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="images145.svg" src="images145.svg" />
                                         </span>
-                                        <h3>Scalability </h3>
-                                        <p>Scalability integrates the nested relay chains to increase the number of shards to the network in the future. An increase in the shards supports the network for parallel processing.
+                                        <h3 className='text-white'>Scalability </h3>
+                                        <p className='timeline-txt'>Scalability integrates the nested relay chains to increase the number of shards to the network in the future. An increase in the shards supports the network for parallel processing.
                                         </p>
                                     </div>
                                 </div>
@@ -277,8 +277,8 @@ export default function Home_Polkadot() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="update7895.svg" src="update7895.svg" />
                                         </span>
-                                        <h3>Upgradeability</h3>
-                                        <p>Polkadot is a transparent on-chain governance system that supports and regulates the blockchain to upgrade themselves without the use of chain forks. This enables the Polkadot project to adapt to the evolution of technology.
+                                        <h3 className='text-white'>Upgradeability</h3>
+                                        <p className='timeline-txt'>Polkadot is a transparent on-chain governance system that supports and regulates the blockchain to upgrade themselves without the use of chain forks. This enables the Polkadot project to adapt to the evolution of technology.
 
                                         </p>
                                     </div>
@@ -288,8 +288,8 @@ export default function Home_Polkadot() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="governmentchar.svg" src="governmentchar.svg" />
                                         </span>
-                                        <h3>Transparent governance</h3>
-                                        <p>The Polkadot network is facilitated by a composed governance structure that manages transparency, accountability and binding processes for upgrading the network.
+                                        <h3 className='text-white'>Transparent governance</h3>
+                                        <p className='timeline-txt'>The Polkadot network is facilitated by a composed governance structure that manages transparency, accountability and binding processes for upgrading the network.
                                         </p>
                                     </div>
                                 </div>

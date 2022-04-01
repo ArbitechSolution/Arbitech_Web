@@ -16,7 +16,7 @@ export default function Home_Tron_smart_Contracr() {
                                 <p className="animated fadeInDown">Wish to see a surge in ROI for your MLM business in the shortest time frame? Seize the opportunity of launching a strapping smart contract MLM on TRON network structured by our seasoned blockchain specialists. </p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                                  
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
@@ -85,7 +85,7 @@ export default function Home_Tron_smart_Contracr() {
                         <p>Having been engaged with the crypto/blockchain industry since almost the beginning, Arbitech Soultions has earned enormous experience and expertise over the years. As a trusted TRON MLM smart contract development company,  we have an exceptional team of experts, developers, programmers, strategists, and more with the ability to offer the most reliable and credible smart contract-based MLM development on TRON solutions. We ensure our solutions bring in added stability, security, scalability, and sustainability for your MLM business and help you strike it rich and succeed over your competitors. Bring your ideas to us, and you will witness your MLM business to take a new shape.</p>
                     </div>
                     <div className="mt-25">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -159,7 +159,7 @@ export default function Home_Tron_smart_Contracr() {
                 <div className="col-xs-12 text-center mt-5">
                     <div className="animated fadeInUp mt-40">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                       
                     </div>
                 </div>
 

@@ -145,7 +145,7 @@ export default function Gamming_Service() {
                     </div>
                     <div className="col-md-4 col-sm-12 col-xs-12">
                         <div className="content1">
-                            <a href="https://www.infiniteblocktech.com/zed-run-clone" target="_blank">
+                            <a href="https://www.Arbitechsolutions.com/zed-run-clone" target="_blank">
                                 <div className="content1-overlay"></div>
                                 <img className="content1-image" src="zed_clone_img_11.png"/>
                                     <div className="content1-details fadeIn-top">

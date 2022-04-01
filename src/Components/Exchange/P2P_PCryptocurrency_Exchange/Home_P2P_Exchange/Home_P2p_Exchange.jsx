@@ -16,7 +16,7 @@ export default function Home_P2p_Exchange() {
                                 <p className="animated fadeInDown">Get in touch with us and launch your own highly customized P2P cryptocurrency exchange platform built with the latest technology in the market.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                                   
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
@@ -83,7 +83,7 @@ export default function Home_P2p_Exchange() {
                                 <p>Infinity Block Tech provides completely customizable P2P development solutions built per the latest industry standards and innovative technology. Get the best P2P crypto exchange software in the market by partnering with us.</p>
                             </div>
                             <div className="mt-25">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -285,7 +285,7 @@ export default function Home_P2p_Exchange() {
                     </div>
                     <div className="animated fadeInUp text-center mt-30">
 
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

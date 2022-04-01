@@ -15,7 +15,7 @@ export default function Home_ATM_Soft() {
                                 <p className="animated fadeInDown">Get any virtual currency for the equivalent hard cash with virtual currency ATM software with easier transactions.</p>
                                 <div className="animated banner_btn fadeInUp mt-30 btn_Home_ATM">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button js-scroll-trigger">Get Quote</a>
+                                 
                                 </div>
                             </div>
                         </div>

@@ -15,7 +15,7 @@ export default function NFT_Service() {
                             <img className="headerimgher" data-src="01.png" src="01.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Art</h4>
-                            <p className="services-txt"><a href="https://www.infiniteblocktech.com/nft-art" target="_blank">NFT for Art</a> has shaken the digital world in recent years. The artists have experienced a lifetime solution to benefit their business with solid income. NFT based Artwork is a new digital asset in the marketplace. The digital arts is evolving with high standards in the blockchain world, generating more revenue for newbies in less time.</p>
+                            <p className="services-txt"><a href="https://www.Arbitechsolutions.com/nft-art" target="_blank">NFT for Art</a> has shaken the digital world in recent years. The artists have experienced a lifetime solution to benefit their business with solid income. NFT based Artwork is a new digital asset in the marketplace. The digital arts is evolving with high standards in the blockchain world, generating more revenue for newbies in less time.</p>
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
@@ -31,7 +31,7 @@ export default function NFT_Service() {
                             <img className="headerimgher" data-src="03.png" src="03.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Marketplace </h4>
-                            <p className="services-txt">The NFT marketplace is solid and firm for business development in the crypto world. NFTs have unique properties and features that benefit various industries to be successful in the market. A wide range of audiences is attracted towards the virtual ecosystem in the <a href="https://www.infiniteblocktech.com/nft-marketplace-development" target="_blank">NFT marketplace</a> since it offers NFT tokens for unique collectibles like games, virtual land, ArtArt and assets. More audiences lured from artists and game fantasy in the individual token generating market. </p>
+                            <p className="services-txt">The NFT marketplace is solid and firm for business development in the crypto world. NFTs have unique properties and features that benefit various industries to be successful in the market. A wide range of audiences is attracted towards the virtual ecosystem in the <a href="https://www.Arbitechsolutions.com/nft-marketplace-development" target="_blank">NFT marketplace</a> since it offers NFT tokens for unique collectibles like games, virtual land, ArtArt and assets. More audiences lured from artists and game fantasy in the individual token generating market. </p>
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
@@ -87,7 +87,7 @@ export default function NFT_Service() {
                             <img className="headerimgher" data-src="10.png" src="010.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Real Estate</h4>
-                            <p className="services-txt">The NFT in real estate is trending and grabbed millions of users to this platform with its attractive feature. The user can virtualize their physical asset in the marketplace to bid and earn NFT tokens. Similarly, interior designs can be digitized with NFT to gain audience attention to make your platform wealthy.</p>
+                            <p className="services-txt">The NFT in real estate is trending and grabbed milLions of users to this platform with its attractive feature. The user can virtualize their physical asset in the marketplace to bid and earn NFT tokens. Similarly, interior designs can be digitized with NFT to gain audience attention to make your platform wealthy.</p>
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">

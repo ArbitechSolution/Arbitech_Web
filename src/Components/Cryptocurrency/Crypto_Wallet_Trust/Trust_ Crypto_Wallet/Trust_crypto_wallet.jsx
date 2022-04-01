@@ -16,11 +16,11 @@ export default function Trust_crypto_wallet() {
                     <div className="row mt-50">
                         <div className="col-md-7 pull-right">
                             <ul className="primary-list">
-                                <li><i className="fa fa-check-square"></i> Our clone script platform is completely secured and safe to use.</li>
+                                <li><i className="fa fa-check-square"></i> Our Clone platform is completely secured and safe to use.</li>
                                 <li><i className="fa fa-check-square"></i> Our platform is user-friendly and customer-centric.</li>
-                                <li><i className="fa fa-check-square"></i> The Trust Wallet clone script is focused on being collaborative and permissionless.</li>
+                                <li><i className="fa fa-check-square"></i> The Trust Wallet Clone is focused on being collaborative and permissionless.</li>
                                 <li><i className="fa fa-check-square"></i> Our clone platform initializes mass adoption.</li>
-                                <li><i className="fa fa-check-square"></i> Our clone script is available on both IOS and Android and also can be developed for the web.</li>
+                                <li><i className="fa fa-check-square"></i> Our Clone is available on both IOS and Android and also can be developed for the web.</li>
                                 <li><i className="fa fa-check-square"></i> Efficient crypto staking and earning returns are executed in our clone platform.</li>
 
 
@@ -60,7 +60,7 @@ export default function Trust_crypto_wallet() {
                                 </div>
                                 <div className="mt-30">
 
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -198,7 +198,7 @@ export default function Trust_crypto_wallet() {
                             </ul>
                             <div className="mt-10">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -363,7 +363,7 @@ export default function Trust_crypto_wallet() {
                             </div>
                         </div>
                     </div>
-                    <p className="text-center NewClassTrust">To avail of our crypto wallet clone script services, contact us soon!</p>
+                    <p className="text-center NewClassTrust">To avail of our crypto wallet Clone services, contact us soon!</p>
                 </div>
 
             </div>

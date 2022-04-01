@@ -18,7 +18,7 @@ export default function Home_Legal_Crypto_Exchange() {
                                 <p className="animated fadeInDown"> Arbitech Soultions is the premier provider of cryptocurrency exchange legal services for clients around the world. Armed with extensive experience and insider knowledge of the industry, we provide comprehensive legal solutions at a very nominal cost.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                                    
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
@@ -87,7 +87,7 @@ export default function Home_Legal_Crypto_Exchange() {
                             </div>
                             <div className="mt-25">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -323,7 +323,7 @@ export default function Home_Legal_Crypto_Exchange() {
                                 </div>
                             </div>
                             <div className="mt-25">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -395,7 +395,7 @@ export default function Home_Legal_Crypto_Exchange() {
 
                         <div className="mt-25">
 
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

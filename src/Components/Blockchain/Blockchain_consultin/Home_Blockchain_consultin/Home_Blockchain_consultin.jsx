@@ -82,7 +82,7 @@ export default function Home_Blockchain_consultin() {
                                 <p className="p_Safe_Mood mt-5">As a pioneer blockchain consulting services company, we set ourselves apart from the crowd with our unique solutions. Our Blockchain experts with their unmatched experience in the field,  provide the most valuable insights, effective strategies, DApps solutions and implement solid blockchain prototypes to a wide array of industries irrespective of the size i.e small- scale, mid-level to large enterprises. Our solutions assure long-term sustainability and a competitive advantage in the marketplace. </p>
                             </div>
                             <div className="mt-30">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -115,8 +115,8 @@ export default function Home_Blockchain_consultin() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="statage12.png" src="statage12.png" />
                                         </span>
-                                        <h4>Strategic Consulting</h4>
-                                        <p>We make sure to go through thorough analysis and offer advice for you to apply strategic implementation of blockchain technology into your business. We help you execute trending techniques for your development, conduct blockchain workshops, and offer data analytics support as well. Our optimized solutions will help enhance your business over your competitors.
+                                        <h4 className='text-white'>Strategic Consulting</h4>
+                                        <p className='timeline-txt'>We make sure to go through thorough analysis and offer advice for you to apply strategic implementation of blockchain technology into your business. We help you execute trending techniques for your development, conduct blockchain workshops, and offer data analytics support as well. Our optimized solutions will help enhance your business over your competitors.
 
                                         </p>
                                     </div>
@@ -126,8 +126,8 @@ export default function Home_Blockchain_consultin() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="development (1).png" src="development (1).png" />
                                         </span>
-                                        <h4>POC development </h4>
-                                        <p>We develop POC( Proof of Concept) to demonstrate the technical viability, market feasibility, and the practical potential of your blockchain project. Our experts will help you gain a complete understanding of your blockchain ecosystem to ensure that your project strikes a chord with your potential customers.
+                                        <h4 className='text-white'>POC development </h4>
+                                        <p className='timeline-txt'>We develop POC( Proof of Concept) to demonstrate the technical viability, market feasibility, and the practical potential of your blockchain project. Our experts will help you gain a complete understanding of your blockchain ecosystem to ensure that your project strikes a chord with your potential customers.
                                         </p>
                                     </div>
                                 </div>
@@ -136,19 +136,19 @@ export default function Home_Blockchain_consultin() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="consultancy (1).png" src="consultancy (1).png" />
                                         </span>
-                                        <h4>Blockchain Consultancy</h4>
-                                        <p>We evaluate your existing model, and determine how blockchain will help refine your business. Accordingly,we identify the most fitting technology and the best use-cases for your blockchain related project.
+                                        <h4 className='text-white'>Blockchain Consultancy</h4>
+                                        <p className='timeline-txt'>We evaluate your existing model, and determine how blockchain will help refine your business. Accordingly,we identify the most fitting technology and the best use-cases for your blockchain related project.
 
                                         </p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
                                     <div className="column centered blurb">
-                                        <span className="icon-container icon-big">
+                                        <span className="icon-container ">
                                             <img className="" data-src="block-development.png" src="block-development.png" />
                                         </span>
-                                        <h3>Blockchain Development</h3>
-                                        <p>Once you have gained knowledge about the feasibility of your project, we get into the development process. Our extensively experienced blockchain specialists will develop and deploy the most secure and scalable solutions setting your business up for success.
+                                        <h3 className='text-white'>Blockchain Development</h3>
+                                        <p className='timeline-txt'>Once you have gained knowledge about the feasibility of your project, we get into the development process. Our extensively experienced blockchain specialists will develop and deploy the most secure and scalable solutions setting your business up for success.
 
 
                                         </p>
@@ -183,7 +183,7 @@ export default function Home_Blockchain_consultin() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -288,7 +288,7 @@ export default function Home_Blockchain_consultin() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

@@ -20,8 +20,8 @@ export default function Benefits_IDo() {
                             <div className="feature-flex-square-icon0101"><img data-src="calculator.svg" className="ser-img" src="calculator.svg"/></div>
                             <div className="number-box-line"></div>
                             <div className="feature-flex-square-content">
-                                <h4>Lower Costs</h4>
-                                <p>When liquidity exchange is used in a project, the gas fee to deploy a new smart contract is less. Smart contracts initiate governance over the asset token and liquidity pool.</p>
+                                <h4 className='text-dark'>Lower Costs</h4>
+                                <p className='text-dark'>When liquidity exchange is used in a project, the gas fee to deploy a new smart contract is less. Smart contracts initiate governance over the asset token and liquidity pool.</p>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ export default function Benefits_IDo() {
                             <div className="feature-flex-square-icon0101"><img data-src="fundraise.svg" className="ser-img" src="fundraise.svg"/></div>
                             <div className="number-box-line"></div>
                             <div className="feature-flex-square-content">
-                                <h4>Fair Fundraising methodology</h4>
+                                <h4 className='text-dark'>Fair Fundraising methodology</h4>
                                 <p>The IDO model initiates instant liquidity and token development. The value of the token increases when the token goes for a public sale.</p>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ export default function Benefits_IDo() {
                             <div className="feature-flex-square-icon0101"><img data-src="trading.svg" className="ser-img" src="trading.svg"/></div>
                             <div className="number-box-line"></div>
                             <div className="feature-flex-square-content">
-                                <h4>Instant Trading</h4>
+                                <h4 className='text-dark'>Instant Trading</h4>
                                 <p>In IDO, the investors start trading from the moment the tokens are launched. Early buyers can sell their tokens to a higher value as the price starts to elevate from the moment the first investor buys a token. </p>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ export default function Benefits_IDo() {
                             <div className="feature-flex-square-icon0101"><img data-src="tokens.svg" className="ser-img" src="tokens.svg"/></div>
                             <div className="number-box-line"></div>
                             <div className="feature-flex-square-content">
-                                <h4>Instant Liquidity </h4>
+                                <h4 className='text-dark'>Instant Liquidity </h4>
                                 <p>The primary factor of this fundraising model is liquidity. The liquid pool offers liquidity with no slippage. Initially, the project requires some value for the tokens to acquire liquidity in order to enable the swapping of tokens in the liquid pool.</p>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ export default function Benefits_IDo() {
 
 
             <div className="mt-25 text-center mt-5" >
-            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -161,7 +161,7 @@ export default function Benefits_IDo() {
                     </div>
                     <div className="mt-25">
 
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
         

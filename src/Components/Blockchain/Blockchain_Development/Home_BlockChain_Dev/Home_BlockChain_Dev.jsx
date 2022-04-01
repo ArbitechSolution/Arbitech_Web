@@ -38,7 +38,7 @@ export default function Home_BlockChain_Dev() {
                     </div>
 
                     <div className="mt-25 text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -88,7 +88,7 @@ export default function Home_BlockChain_Dev() {
                             <div className="number-box">
                                 <h3><img src="agreement.svg" className="services-icon" /></h3>
                                 <div className="number-box-line"></div>
-                                <h4><a href="https://www.infiniteblocktech.com/smart-contract-development">Smart Contract Development</a></h4>
+                                <h4><a href="https://www.Arbitechsolutions.com/smart-contract-development">Smart Contract Development</a></h4>
                                 <p className="services-txt">Design, development, audit, and optimisation of self-executing coded business contracts to automate processes.</p>
 
                             </div>
@@ -133,7 +133,7 @@ export default function Home_BlockChain_Dev() {
                             <div className="number-box">
                                 <h3><img src="transfer451.svg" className="services-icon" /></h3>
                                 <div className="number-box-line"></div>
-                                <h4><a href="https://www.infiniteblocktech.com/cryptocurrency-development-company">Virtual currency Development</a></h4>
+                                <h4><a href="https://www.Arbitechsolutions.com/cryptocurrency-development-company">Virtual currency Development</a></h4>
                                 <p className="services-txt">Elaborate on decentralized tokens and virtual currency development services to successfully launch your customised altcoin.</p>
 
                             </div>

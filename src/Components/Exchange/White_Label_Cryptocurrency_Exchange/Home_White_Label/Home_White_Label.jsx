@@ -17,7 +17,7 @@ export default function Home_White_Label() {
                                 <p className="animated fadeInDown">Enrich your Cryptocurrency enterprise with the robust, highly customizable white label bitcoin exchange software offering from Arbitech Soultions. Designed for the new generation of entrepreneurs.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#feature-sec" className="button-md dark-button js-scroll-trigger">View Features</a>
+                                  
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
@@ -105,7 +105,7 @@ export default function Home_White_Label() {
 
                         <div className="animated fadeInUp text-center mt-30">
 
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -230,7 +230,7 @@ export default function Home_White_Label() {
                             </div>
                             <div className="mt-25">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
+                               
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-5 text-center mt-1">

@@ -10,7 +10,7 @@ export default function Wallet_System() {
             <div className="section-block section-block-grey tokenExchanges">
                 <div className="container sto-exche sto-exche">
                     <div className="center-holder section-heading">
-                        <h3>Eclectic Features of Our Lion's Share Smart Contract MLM Clone Script</h3>
+                        <h3>Eclectic Features of Our Lions Share Smart Contract MLM Clone</h3>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-30 ">
@@ -53,9 +53,9 @@ export default function Wallet_System() {
 
                 <div className="container">
                     <div className="section-heading center-holder mt-50">
-                        <h2>Inbuilt Wallet System With Our Lion's Share Smart Contrat Clone Script</h2>
+                        <h2>Inbuilt Wallet System With Our Lions Share Smart Contrat Clone</h2>
                         <div className="section-heading-line"></div>
-                        <p>The native Lion’s share platform accepts only two types of wallets i.e MetaMask and Trust Wallet, and our Lion’s share clone script also supports the same wallet types. </p>
+                        <p>The native Lions share platform accepts only two types of wallets i.e MetaMask and Trust Wallet, and our Lion’s share Clone also supports the same wallet types. </p>
 
                     </div>
 
@@ -115,7 +115,7 @@ export default function Wallet_System() {
             <div className="section-block section-block-grey tokenExchanges">
                 <div className="container sto-exche sto-exche">
                     <div className="center-holder section-heading">
-                        <h3>Primary Benefits Of Our Lion’s Share MLM Clone Script Development</h3>
+                        <h3>Primary Benefits Of Our Lion’s Share MLM Clone Development</h3>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-30">
@@ -156,7 +156,7 @@ export default function Wallet_System() {
             <div className="section-block-bg" >
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2 className="text-white">Our Lionsshare.Io Clone Development Process</h2>
+                        <h2 className="text-white">Our Lions share.Io Clone Development Process</h2>
                         <div className="section-heading-line"></div>
 
                     </div>
@@ -194,7 +194,7 @@ export default function Wallet_System() {
                                 <div className="content123">
                                     <h4>Deployment</h4>
                                     <hr />
-                                    <p>Once thoroughly tested, we deploy our lion’s share clone script customized to fit your needs in the Ethereum blockchain network to get you up and running, and ahead of your competitors. </p>
+                                    <p>Once thoroughly tested, we deploy our lion’s share Clone customized to fit your needs in the Ethereum blockchain network to get you up and running, and ahead of your competitors. </p>
                                 </div>
                             </div>
                         </div>
@@ -213,7 +213,7 @@ export default function Wallet_System() {
             <div className="section-block">
                 <div className="container">
                     <div className="section-heading">
-                        <h4 className="text-center">How to Start a Smart Contract MLM like Lionsshare.io?</h4>
+                        <h4 className="text-center">How to Start a Smart Contract MLM like Lions share.io?</h4>
                     </div>
                     <div className="section-heading-line"></div>
                     <div className="row mt-40">
@@ -224,8 +224,8 @@ export default function Wallet_System() {
                             <div className="pr-30-md">
 
                                 <div className="mt-20 text-content text-left">
-                                    <p>Getting started with a successful smart contract MLM like Lionsshare.io requires solid technical expertise. The development process involves a lot of time, money and intricacies and requires expert consultation on so many aspects. This is why, acquiring a ready-made Lion’s share clone script is the right choice for you.</p>
-                                    <p>The clone script comes with 100% source code, inbuilt features, security implementation and every other requirement to get the platform up and running in a short turnaround time. All you have to do is, purchase the script and customize it according to your individual preferences in aspects like additional features, UX/UI, color themes, logo etc., to achieve a unique identity in the marketplace over the widespread competition.
+                                    <p>Getting started with a successful smart contract MLM like Lions share.io requires solid technical expertise. The development process involves a lot of time, money and intricacies and requires expert consultation on so many aspects. This is why, acquiring a ready-made Lion’s share Clone is the right choice for you.</p>
+                                    <p>The Clone comes with 100% source code, inbuilt features, security implementation and every other requirement to get the platform up and running in a short turnaround time. All you have to do is, purchase the script and customize it according to your individual preferences in aspects like additional features, UX/UI, color themes, logo etc., to achieve a unique identity in the marketplace over the widespread competition.
                                     </p>
                                 </div>
                                 <div className="mt-20 mt-5">
@@ -258,7 +258,7 @@ export default function Wallet_System() {
                                 <h3><img data-src="tag.svg" className="services-icon" src="tag.svg" /></h3>
                                 <div className="number-box-line"></div>
                                 <h4>Customizable white label solution</h4>
-                                <p className="services-txt">The Lion’s share clone script that we offer is a 100% white label solution. Therefore, it is extremely customizable and users have the flexibility to set the compensation plan, entry fee, profit, and other elements of the platform as per their personal preferences. </p>
+                                <p className="services-txt">The Lion’s share Clone that we offer is a 100% white label solution. Therefore, it is extremely customizable and users have the flexibility to set the compensation plan, entry fee, profit, and other elements of the platform as per their personal preferences. </p>
                             </div>
                         </div>
 
@@ -268,7 +268,7 @@ export default function Wallet_System() {
                                 <h3><img data-src="choices.svg" className="services-icon" src="choices.svg" /></h3>
                                 <div className="number-box-line"></div>
                                 <h4>Swift Deployment</h4>
-                                <p className="services-txt">The Lions’ share clone script is ready-made with every essential feature and functionality to get up and running, therefore it helps users with an instant launch to make headway over the intensely growing competition and gain immediate attention and traction.
+                                <p className="services-txt">The Lions share Clone is ready-made with every essential feature and functionality to get up and running, therefore it helps users with an instant launch to make headway over the intensely growing competition and gain immediate attention and traction.
                                 </p>
                             </div>
                         </div>
@@ -279,7 +279,7 @@ export default function Wallet_System() {
                                 <h3><img data-src="offer.svg" className="services-icon" src="offer.svg" /></h3>
                                 <div className="number-box-line"></div>
                                 <h4>Extremely Affordable</h4>
-                                <p className="services-txt">Purchasing a ready-made clone script and customizing it is way more cost-effective compared to building a platform all the way from the ground up. It helps you save an ample amount of money spent on the resources required for development by acquiring a clone script.</p>
+                                <p className="services-txt">Purchasing a ready-made Clone and customizing it is way more cost-effective compared to building a platform all the way from the ground up. It helps you save an ample amount of money spent on the resources required for development by acquiring a Clone.</p>
                             </div>
                         </div>
 
@@ -287,7 +287,7 @@ export default function Wallet_System() {
 
                     </div>
                     <div className="mt-25 text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -303,7 +303,7 @@ export default function Wallet_System() {
             <div className="section-block whychoose-sec">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Why choose Arbitech Soultions’s  Lion's Share Clone Script solution for your smart contract MLM business?</h2>
+                        <h2>Why choose Arbitech Soultions’s  Lions Share Clone solution for your smart contract MLM business?</h2>
                         <div className="section-heading-line"></div>
                         <p>As a premier company in the sector with a team of some of the most skilled set of experts, Arbitech Soultions strives to create the most appealing, efficient and enhanced business experience for both you and your platform users, and drive maximum results for your business. We are fully focused on making things work for your target users as well your business.We commence our development process only after gaining a complete understanding of what you want, and how you want it to attain utmost customer satisfaction. We help you communicate the right message to your audience and boost your brand identity and credibility among them.
                             We include our clients in every step of the way and embrace their feedback at each stage to deliver the perfect end result. We tend to offer you the solution as quickly as possible in the most competitive price without compromising quality. We believe we are great at what we do. Bring your ideas to us, and we will help you transform your MLM business into a whole new level.</p>
@@ -313,12 +313,12 @@ export default function Wallet_System() {
 
                         <div className="col-xs-12 col-md-6 col-sm-6">
                             <div className="">
-                                <p className='text-white'> Our other smart contract MLM clone script solutions,</p>
+                                <p className='text-white'> Our other smart contract MLM Clone solutions,</p>
                                 <ul>
-                                    <li>Million Money Clone Script </li>
-                                    <li>Forsage Clone Script</li>
-                                    <li>Doubleway Clone Script</li>
-                                    <li>XOXO network clone script </li>
+                                    <li>Million Money Clone </li>
+                                    <li>Forsage Clone</li>
+                                    <li>Doubleway Clone</li>
+                                    <li>XOXO network Clone </li>
 
 
                                 </ul>

@@ -95,11 +95,11 @@
                 </Link>
 
                 <Link to="/DEFI_Safe_Moon" className='TextdecorationNFT'>
-                  <li><a className="dropdown-item" href="#">Safemoon Clone Script</a>
+                  <li><a className="dropdown-item" href="#">Safemoon Clone</a>
                   </li>
                 </Link>
                 <Link to="DEFI_Safe_Mars_Clone" className='TextdecorationNFT'>
-                  <li><a className="dropdown-item" href="#">SafeMars Clone Script</a>
+                  <li><a className="dropdown-item" href="#">SafeMars Clone</a>
                   </li>
                 </Link>
 
@@ -167,13 +167,13 @@
               <ul className="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                 <Link to="/MLM_Forsage_Script" className='TextdecorationNFT' >
                   <li>
-                    <a className="dropdown-item" href="#">Forsage Clone Script</a>
+                    <a className="dropdown-item" href="#">Forsage Clone</a>
                   </li>
                 </Link>
 
                 <Link to="/MLM_Double_Way" className='TextdecorationNFT' >
                   <li>
-                    <a className="dropdown-item" href="#">Doubleway MLM Clone Script</a>
+                    <a className="dropdown-item" href="#">Doubleway MLM Clone</a>
                   </li>
                 </Link>
 
@@ -191,7 +191,7 @@
 
                 <Link to="/MLM_Lions_Share_Clone" className='TextdecorationNFT' >
                   <li>
-                    <a className="dropdown-item" href="#"> Lion's Share Clone Script</a>
+                    <a className="dropdown-item" href="#"> LionsShare Clone</a>
                   </li>
                 </Link>
               </ul>
@@ -237,7 +237,7 @@
                 </Link>
 
                 <Link to="/MetaMask_Clone" className='TextdecorationNFT' >
-                  <li><a className="dropdown-item" href="#"> MetaMask Clone Script </a></li>
+                  <li><a className="dropdown-item" href="#"> MetaMask Clone </a></li>
                 </Link>
 
                 <Link to="/Binance_Smart_Chain_Development" className='TextdecorationNFT' >

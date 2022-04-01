@@ -14,7 +14,7 @@ export default function Home_Uniswap() {
                             <p className="animated fadeInDown">Create an Uniswap clone by availing of our innovative development solutions</p>
                             <div className="animated fadeInUp mt-30">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a> </div>
+                             </div>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,9 @@ export default function Home_Uniswap() {
 
                                     </div>
                                     <div className="text-center">
-                                        <div className="animated fadeInUp mt-30 text-center"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a> </div>
+                                        <div className="animated fadeInUp mt-30 text-center">
+                                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> 
+  </div>
                                     </div>
                             </div>
                         </div>

@@ -55,7 +55,7 @@ export default function Home_Crpto_Wallet() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -96,7 +96,7 @@ export default function Home_Crpto_Wallet() {
                                 <p className="sub_hed21 text-left"><strong>Trust  Wallet App</strong></p>
                                 <p className="sec-txt text-left">Trust wallet app is a mobile decentralized wallet application. This mobile wallet is available on android and iOS platforms and has the capability to store numerous amounts of different types of cryptocurrencies.</p>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -208,7 +208,7 @@ export default function Home_Crpto_Wallet() {
                                         </li>
                                         <li>
                                             <strong className='text-white'><i className="fa fa-caret-right"></i>Easy Send And Receive</strong>
-                                            <p className="port-txt">This type of NFT marketplace can process millions of transactions at high speed at the same time and at a fraction of the cost that takes place in the previous popular marketplaces in the crypto sphere.</p>
+                                            <p className="port-txt">This type of NFT marketplace can process milLions of transactions at high speed at the same time and at a fraction of the cost that takes place in the previous popular marketplaces in the crypto sphere.</p>
                                         </li>
                                         <li>
                                             <strong className='text-white'><i className="fa fa-caret-right"></i>Transparency </strong>
@@ -249,7 +249,7 @@ export default function Home_Crpto_Wallet() {
                     <div className="section-heading center-holder">
                         <h3>Crypto Wallet Development Methods</h3>
                         <div className="section-heading-line"></div>
-                        <p className="para">At Arbitech Soultions, we follow two major crypto wallet development methods, like whitelabel crypto wallet development and crypto wallet clone script development method. </p>
+                        <p className="para">At Arbitech Soultions, we follow two major crypto wallet development methods, like whitelabel crypto wallet development and crypto wallet Clone development method. </p>
 
                     </div>
                     <div className="row ">
@@ -262,7 +262,7 @@ export default function Home_Crpto_Wallet() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="wallet1.png" src="wallet1.png" />
                                         </span>
-                                        <h3>Whitelabel Crypto Wallet Development</h3>
+                                        <h3 className="text-white">Whitelabel Crypto Wallet Development</h3>
                                         <p>We provide a ready-made crypto wallet that contains the features of your preferred crypto wallet. This method is quick and it is very suitable for short-term success.
 
 
@@ -274,7 +274,7 @@ export default function Home_Crpto_Wallet() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="dollar.png" src="dollar.png" />
                                         </span>
-                                        <h3>Crypto Wallet Clone Script Development</h3>
+                                        <h3 className="text-white">Crypto Wallet Clone Development</h3>
                                         <p>We provide a completely customizable wallet that is a replica of an existing wallet. This method is effective and can be furnished with further features to increase its efficiency.
 
                                         </p>
@@ -288,9 +288,9 @@ export default function Home_Crpto_Wallet() {
 
                     <div className="col-md-12 text-center">
                                     <div className='ColTher4545 mt-5'>
-                                        <p className="sub_hed text-white "><strong>Trust Wallet Clone Script</strong></p>
+                                        <p className="sub_hed text-white "><strong>Trust Wallet Clone</strong></p>
 
-                                        <p className="sec-txt">Trust Wallet clone script is a programming structure that is coded with the exact features of the original Trust Wallet application. We have prior experience with developing clone scripts for crypto-wallets. Trust wallet clone is based on the clone script software. This software is completely customizable by customers. Our clone platform functions as an advanced version of its original platform because of our additional customization features. By default, the Trust wallet application is only developed for the mobile version, but with our clone services, we can develop crypto wallets like trust wallets for browser and desktop versions.</p>
+                                        <p className="sec-txt">Trust Wallet Clone is a programming structure that is coded with the exact features of the original Trust Wallet application. We have prior experience with developing Clones for crypto-wallets. Trust wallet clone is based on the Clone software. This software is completely customizable by customers. Our clone platform functions as an advanced version of its original platform because of our additional customization features. By default, the Trust wallet application is only developed for the mobile version, but with our clone services, we can develop crypto wallets like trust wallets for browser and desktop versions.</p>
 
                                     </div>
 

@@ -12,11 +12,11 @@ export default function Home_DoubleWay_MLM() {
                 <div className="slider-content text-left">
                 <div className="row">
                     <div className="col-xs-12 col-md-7 col-sm-7">
-                            <div className="animated fadeInDown banner_tit"><h1>Doubleway MLM clone script </h1></div>
-                            <p className="animated fadeInDown">Double up your profit revenue with a dependable Doubleway MLM clone script developed and designed to perfection by our proficient experts. Encompassing every essential element of the native Doubleway platform, our doubleway MLM clone script is the key to efficiently enter the revolutionary MLM market right away and make your mark.</p>
+                            <div className="animated fadeInDown banner_tit"><h1>Doubleway MLM Clone </h1></div>
+                            <p className="animated fadeInDown">Double up your profit revenue with a dependable Doubleway MLM Clone developed and designed to perfection by our proficient experts. Encompassing every essential element of the native Doubleway platform, our doubleway MLM Clone is the key to efficiently enter the revolutionary MLM market right away and make your mark.</p>
                             <div className="animated fadeInUp mt-30">
                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                             
                             </div>
                     </div>
                     <div className="col-xs-12 col-md-5 col-sm-5">
@@ -77,15 +77,15 @@ export default function Home_DoubleWay_MLM() {
              <div className="row">
                 <div className="col-xs-12 col-sm-12 text-center">
                     <div className="section-heading">
-                        <h2>Gain a greater market share by utilizing our Doubleway MLM clone script</h2>
+                        <h2>Gain a greater market share by utilizing our Doubleway MLM Clone</h2>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="mt-40 intro_cnt">
-                        <p>Doubleway is one of the well established MLM platforms in the current market. It is a binary MLM structure platform based on Ethereum smart contracts. The doubleway platform supports cryptocurrencies and is widely popular because it serves as one of the most efficient ways to make money online. A doubleway MLM clone script is nothing, but a replica of the native Doubleway MLM platform. This clone script helps you quickly get started with your own smart contract MLM like doubleway, attract a broad range of investors, and elevate profits for your business. The doubleway MLM clone script is integrated with advanced features and functionalities similar to the native platform, and is customizable according to the individual preferences of the user. </p>
-                        <p>Having been in the field almost since the onset, Arbitech Soultions is the right place for you to acquire the perfect doubleway MLM clone script. Having a team of developers with considerable experience in providing an array of solutions across the blockchain and crypto industry over the years, our doubleway clone script ensures utmost security, reliability, and credibility for your smart contract-based MLM business. We integrate cutting-edge technologies and features into our doubleway clone script almost resembling the native platform, and our script can be completely customized according to user preferences at the most cost-friendly price in the market. Our script helps you with a quick, efficient launch, immediate traction and attention, a competitive edge, and long-term stability and sustainability.</p>
+                        <p>Doubleway is one of the well established MLM platforms in the current market. It is a binary MLM structure platform based on Ethereum smart contracts. The doubleway platform supports cryptocurrencies and is widely popular because it serves as one of the most efficient ways to make money online. A doubleway MLM Clone is nothing, but a replica of the native Doubleway MLM platform. This Clone helps you quickly get started with your own smart contract MLM like doubleway, attract a broad range of investors, and elevate profits for your business. The doubleway MLM Clone is integrated with advanced features and functionalities similar to the native platform, and is customizable according to the individual preferences of the user. </p>
+                        <p>Having been in the field almost since the onset, Arbitech Soultions is the right place for you to acquire the perfect doubleway MLM Clone. Having a team of developers with considerable experience in providing an array of solutions across the blockchain and crypto industry over the years, our doubleway Clone ensures utmost security, reliability, and credibility for your smart contract-based MLM business. We integrate cutting-edge technologies and features into our doubleway Clone almost resembling the native platform, and our script can be completely customized according to user preferences at the most cost-friendly price in the market. Our script helps you with a quick, efficient launch, immediate traction and attention, a competitive edge, and long-term stability and sustainability.</p>
                     </div>
                     <div className="mt-25">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -107,9 +107,9 @@ export default function Home_DoubleWay_MLM() {
              <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-6">
                     <div className="section-heading left_tti">
-                        <h3>Doubleway Clone Script</h3>
+                        <h3>Doubleway Clone</h3>
                         <div className="section-heading-line"></div>
-                        <p className='text-left'>A Doubleway MLM Clone script is a legalized and technologically advanced Ethereum smart contract based clone script that helps individuals and businesses kickstart their own smart contract based MLM platform just like doubleway in a jiffy. A doubleway MLM clone script comes along with advanced and basic features and functionalities similar to the native Doubleway platform enabling smooth and seamless automated operations for your MLM business. The script comprises 100% source code, and is 100% customizable for users to achieve a unique launch in their own brand. The doubleway clone script enables automated, speedy, transactions, and is completely secure and hack-proof like the native platform, and the elimination of manual intervention assures an unpretentious business experience for both the platform owners and the users.</p>
+                        <p className='text-left'>A Doubleway MLM Clone is a legalized and technologically advanced Ethereum smart contract based Clone that helps individuals and businesses kickstart their own smart contract based MLM platform just like doubleway in a jiffy. A doubleway MLM Clone comes along with advanced and basic features and functionalities similar to the native Doubleway platform enabling smooth and seamless automated operations for your MLM business. The script comprises 100% source code, and is 100% customizable for users to achieve a unique launch in their own brand. The doubleway Clone enables automated, speedy, transactions, and is completely secure and hack-proof like the native platform, and the elimination of manual intervention assures an unpretentious business experience for both the platform owners and the users.</p>
                     </div>
                 </div>
                 
@@ -130,8 +130,8 @@ export default function Home_DoubleWay_MLM() {
     <div className="section-clients section-block">
         <div className="container">
             <div className="section-heading center-holder">
-                <h2>Impeccable Features Of Our Doubleway Clone Script</h2>
-                <p>Here are the most crucial features of the Doubleway MLM platform that is blended with our Doubleway clone script as well,</p>
+                <h2>Impeccable Features Of Our Doubleway Clone</h2>
+                <p>Here are the most crucial features of the Doubleway MLM platform that is blended with our Doubleway Clone as well,</p>
                 <div className="section-heading-line"></div>
             </div>
             <div className="row mt-50">
@@ -196,7 +196,7 @@ export default function Home_DoubleWay_MLM() {
                 <div className="col-xs-12 text-center">
                     <div className="animated fadeInUp mt-40">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                        
                     </div>
                 </div>
 

@@ -71,7 +71,7 @@ export default function NTF_Plateform_Market() {
 
                         <ul className="list">
                             <li>Our NFT Platform is invulnerable to all types of cyber-attacks.</li>
-                            <li>Utilization of a wide range of blockchain technologies, such as Ethereum, <a href="https://www.infiniteblocktech.com/binance-smart-chain" target="_blank">Binance Smart Chain</a>, Polkadot, etc.</li>
+                            <li>Utilization of a wide range of blockchain technologies, such as Ethereum, <a href="https://www.Arbitechsolutions.com/binance-smart-chain" target="_blank">Binance Smart Chain</a>, Polkadot, etc.</li>
                             <li>A stable amount of assurance is provided to the NFT marketplace.</li>
                             <li>Highly customizable and crafted with all the required specifications.</li>
                             <li>An optimized level of guidance and technical support is provided.</li>
@@ -86,7 +86,7 @@ export default function NTF_Plateform_Market() {
 
                 </div>
                 <div className="mt-25 text-center btnwhatsandconntechhere">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
                         <a target="_blank" className="button-md dark-button two-btn">Connect With Whatsapp</a>
                     </ReactWhatsapp>
                     </div>

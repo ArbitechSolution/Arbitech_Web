@@ -84,7 +84,7 @@ export default function Home_DEFI_Market() {
                                 <p>Contact us right away if you wish to join the big leagues. Avail the services of one of the leading DeFi marketing companies that assist your DeFi coins to reach your audience far and wide!</p>
                             </div>
                             <div className="mt-30">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

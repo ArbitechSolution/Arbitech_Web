@@ -14,7 +14,7 @@ export default function Exchange_Pancake() {
                                 <div className="section-heading center-holder">
                                     <h2>How to Create a DEX Exchange like PancakeSwap</h2>
                                     <div className="section-heading-line"></div>
-                                    <p className="">PancakeSwap is a decentralized exchange platform that is built on the <strong><a href="https://www.infiniteblocktech.com/binance-smart-chain" target="_blank">Binance Smart Chain</a></strong> platform. In order to create a DEX like PancakeSwap, our crypto exchange development company has two methods, the first method is to create a PancakeSwap clone script platform, and the second method is to provide end-to-end PancakeSwap development services from scratch, which are purely customized by the customers. These are the general steps implemented by our development company to create a decentralized exchange like PancakeSwap.
+                                    <p className="">PancakeSwap is a decentralized exchange platform that is built on the <strong><a href="https://www.Arbitechsolutions.com/binance-smart-chain" target="_blank">Binance Smart Chain</a></strong> platform. In order to create a DEX like PancakeSwap, our crypto exchange development company has two methods, the first method is to create a PancakeSwap Clone platform, and the second method is to provide end-to-end PancakeSwap development services from scratch, which are purely customized by the customers. These are the general steps implemented by our development company to create a decentralized exchange like PancakeSwap.
 
                                     </p>
                                 </div>
@@ -79,7 +79,7 @@ export default function Exchange_Pancake() {
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
                                 <meta itemprop="name" content=" Arbitech Soultions" />
-                                <img data-src="clone.png" className="mb-10 rounded-border shadow-primary img-responsive workhere " alt="PancakeSwap Clone Script" itemprop="contentUrl" src="clone.png" width="100%" />
+                                <img data-src="clone.png" className="mb-10 rounded-border shadow-primary img-responsive workhere " alt="PancakeSwap Clone" itemprop="contentUrl" src="clone.png" width="100%" />
                                 <meta itemprop="description" content="PancakeSwap Clone is a DeFi based Decentralized Exchange Platform built using Binance smart chain. Contact us now." />
                             </div>
 
@@ -103,7 +103,7 @@ export default function Exchange_Pancake() {
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-12">
                             <div className="section-heading center-holder">
-                                <h2>Benefits of PancakeSwap Clone Script</h2>
+                                <h2>Benefits of PancakeSwap Clone</h2>
                                 <div className="section-heading-line"></div>
                             </div>
 
@@ -122,7 +122,7 @@ export default function Exchange_Pancake() {
                                     <strong className="tit-prop">Effortless Pairing</strong>
 
                                     <p>
-                                        Since our PancakeSwap clone script platform uses Automated Marketing Maker (AMM). The pairing process is smooth and effortless.
+                                        Since our PancakeSwap Clone platform uses Automated Marketing Maker (AMM). The pairing process is smooth and effortless.
 
                                     </p>
                                 </div>
@@ -138,7 +138,7 @@ export default function Exchange_Pancake() {
 
                                     <strong className="tit-prop">Efficient Smart Contracts</strong>
                                     <p>
-                                        Our clone script platform is built on efficient smart contracts that enable the users to trust the process and execute transactions automatically.
+                                        Our Clone platform is built on efficient smart contracts that enable the users to trust the process and execute transactions automatically.
 
                                     </p>
                                 </div>
@@ -154,7 +154,7 @@ export default function Exchange_Pancake() {
 
                                     <strong className="tit-prop">Multiple Wallet Integration</strong>
                                     <p>
-                                        Our clone script platform allows the user to choose their desired digital wallet to be integrated with the clone platform.
+                                        Our Clone platform allows the user to choose their desired digital wallet to be integrated with the clone platform.
 
 
                                     </p>
@@ -187,7 +187,7 @@ export default function Exchange_Pancake() {
 
                                     <strong className="tit-prop">Optimized Trading</strong>
                                     <p>
-                                        Our PancakeSwap clone script platform allows users to trade BEP-20 tokens by using the liquidity pools at ease.
+                                        Our PancakeSwap Clone platform allows users to trade BEP-20 tokens by using the liquidity pools at ease.
 
                                     </p>
                                 </div>
@@ -203,7 +203,7 @@ export default function Exchange_Pancake() {
 
                                     <strong className="tit-prop">Low transaction cost</strong>
                                     <p>
-                                        Since our PancakeSwap clone script is built on the Binance Smart Chain platform, the transaction cost is low.
+                                        Since our PancakeSwap Clone is built on the Binance Smart Chain platform, the transaction cost is low.
 
 
 
@@ -221,7 +221,7 @@ export default function Exchange_Pancake() {
 
                                     <strong className="tit-prop">High Rewards</strong>
                                     <p>
-                                        Our clone script platform is built on many-core functionalities that enable the user to enjoy high rewards in the form of their native token.
+                                        Our Clone platform is built on many-core functionalities that enable the user to enjoy high rewards in the form of their native token.
 
                                     </p>
                                 </div>
@@ -304,7 +304,7 @@ export default function Exchange_Pancake() {
                     <div className="row extra mt-20">
 
                         <div className="animated fadeInUp text-center">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

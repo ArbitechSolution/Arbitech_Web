@@ -59,7 +59,7 @@ export default function Innovative_uniSwap() {
             <div className="section-block-grey">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Our Uniswap Clone Script Features</h2>
+                        <h2>Our Uniswap Clone Features</h2>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-50">
@@ -128,7 +128,7 @@ export default function Innovative_uniSwap() {
             <div className="section-block">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h3>Develop Your Uniswap Clone Script With Us</h3>
+                        <h3>Develop Your Uniswap Clone With Us</h3>
                         <div className="section-heading-line"></div>
                     </div>
 
@@ -137,7 +137,7 @@ export default function Innovative_uniSwap() {
                             <div className="timeline-box123 left123">
                                 <div className="content123">
                                     <h4>Decentralized Finance (DeFi) Expertise</h4>
-                                    <p>Our development team has extensive experience in developing clone script platforms for various clients.</p>
+                                    <p>Our development team has extensive experience in developing Clone platforms for various clients.</p>
                                 </div>
                             </div>
                             <div className="timeline-box123 right123">
@@ -149,25 +149,26 @@ export default function Innovative_uniSwap() {
                             <div className="timeline-box123 left123">
                                 <div className="content123">
                                     <h4>Individual Attention</h4>
-                                    <p>We provide attention to each and every client individually and tailor a perfect solution for their clone script.</p>
+                                    <p>We provide attention to each and every client individually and tailor a perfect solution for their Clone.</p>
                                 </div>
                             </div>
                             <div className="timeline-box123 right123">
                                 <div className="content123">
                                     <h4>Numerous Testing</h4>
-                                    <p>Our Uniswap clone is processed via numerous testing and bug fixes to provide a perfect clone script software.</p>
+                                    <p>Our Uniswap clone is processed via numerous testing and bug fixes to provide a perfect Clone software.</p>
                                 </div>
                             </div>
                             <div className="timeline-box123 left123">
                                 <div className="content123">
                                     <h4>Complete Customization</h4>
-                                    <p>We focus primarily on developing your clone script with complete customization of your wish and integrating the platform with all requirements.</p>
+                                    <p>We focus primarily on developing your Clone with complete customization of your wish and integrating the platform with all requirements.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="text-center mt-5">
-                        <div className="animated fadeInUp mt-30 text-center"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a> </div>
+                        <div className="animated fadeInUp mt-30 text-center">
+ <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a> </div>
                     </div>
                 </div>
             </div>

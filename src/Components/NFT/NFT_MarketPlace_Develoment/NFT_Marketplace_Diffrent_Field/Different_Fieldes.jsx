@@ -140,7 +140,7 @@ export default function Different_Fieldes() {
                             <div className="feature-icon"><img className="" data-src="openplat.png" src="openplat.png" /></div>
                             <div className="feature-inner">
                                 <h4>Open Platform</h4>
-                                <p>Open platform marketplace provides users the freedom of trading, and users can trade any form of digital assets in the marketplace. For example, music files, audio files, video files, domain names, etc. <a href="https://www.infiniteblocktech.com/opensea-clone-script">OpenSea</a> and <a href="https://www.infiniteblocktech.com/rarible-clone-script">Rarible</a> are popular open marketplaces.</p>
+                                <p>Open platform marketplace provides users the freedom of trading, and users can trade any form of digital assets in the marketplace. For example, music files, audio files, video files, domain names, etc. <a href="https://www.Arbitechsolutions.com/opensea-clone-script">OpenSea</a> and <a href="https://www.Arbitechsolutions.com/rarible-clone-script">Rarible</a> are popular open marketplaces.</p>
                             </div>
                         </div>
                     </div>

@@ -67,7 +67,7 @@ export default function Home_OpenSea() {
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-20">
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
                             <meta itemprop="name" content=" Arbitech Soultions" />
-                            <img data-src="nft.jpg" className="img-responsive rounded-border shadow-primary opensea_imghere" alt="Opensea Clone Script" itemprop="contentUrl" src="nft.jpg" />
+                            <img data-src="nft.jpg" className="img-responsive rounded-border shadow-primary opensea_imghere" alt="Opensea Clone" itemprop="contentUrl" src="nft.jpg" />
                             <meta itemprop="description" content="opensea clone NFT are traded in a decentralized exchange platform. that accept special types of NFTs, like only digital art collectibles, only sports assets, etc. Get it now." />
                         </div>
                     </div>
@@ -81,7 +81,7 @@ export default function Home_OpenSea() {
                     </div>
                 </div>
                 <div className="mt-25 mb-20 text-center ">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -146,7 +146,7 @@ export default function Home_OpenSea() {
                                 <h2>OpenSea Clone Development Company</h2> </div>
                             <div className="section-heading-line"></div>
                             <div className="text-center mt-20">
-                                <p>NFT marketplaces are the new crypto trend in the digital space. Developing your business based on these incredible platforms is certified for success. Creating businesses in the NFT domain has various methodologies; the clone method is the most effective one. Develop your OpenSea clone script with our development company.</p>
+                                <p>NFT marketplaces are the new crypto trend in the digital space. Developing your business based on these incredible platforms is certified for success. Creating businesses in the NFT domain has various methodologies; the clone method is the most effective one. Develop your OpenSea Clone with our development company.</p>
                             </div>
                         </div>
                     </div>

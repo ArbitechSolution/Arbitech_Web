@@ -48,7 +48,7 @@ export default function Work_Safe_Mood() {
                     <img className="mb-10" data-src="liquidity (1).svg" width="100px" src="liquidity (1).svg"/>
                     <h3>Automatic Liquidity Pool</h3>
          
-                    <p>Automatic Liquidity Pool executes two primary functions, which include, acquiring funds from buyers and sellers and sums it to the LP forming a solid price floor and the other function is a vital function where the clone script’s contract assists the price floor of the token.</p>
+                    <p>Automatic Liquidity Pool executes two primary functions, which include, acquiring funds from buyers and sellers and sums it to the LP forming a solid price floor and the other function is a vital function where the Clone’s contract assists the price floor of the token.</p>
                     </div>
                 </div>
             </div>
@@ -63,13 +63,13 @@ export default function Work_Safe_Mood() {
                         <h3 className="text-white" style={{color: "#fff"}}>SafeMoon Clone - Features</h3>
                        
                         <div className="section-heading-line"></div>
-                         <p className="salient">  The salient features of a SafeMoon Clone Script are as follows </p>
+                         <p className="salient">  The salient features of a SafeMoon Clone are as follows </p>
                         <ul className="expert-whitelabel-list">
                              
                             <li>
                               <div className="icon654"><img className="" data-src="compatible.svg" src="compatible.svg"/></div>
                                 <p>Compatibility</p>
-                                 <p>Our SafeMoon Clone is very compatible with market fluctuations. Even though it is a new entrant to the digital market, our clone script can overcome fluctuations at ease.</p>
+                                 <p>Our SafeMoon Clone is very compatible with market fluctuations. Even though it is a new entrant to the digital market, our Clone can overcome fluctuations at ease.</p>
                             </li>
                             <li>
                                 <div className="icon654"><img className="" data-src="rewards.svg" src="rewards.svg"/></div>
@@ -109,7 +109,7 @@ export default function Work_Safe_Mood() {
                 <h2> How to Create Defi Token like SafeMoon</h2>
                 
                 <div className="section-heading-line"></div>
-                <p>There are two methods to create a DeFi Token like SafeMoon, the first method is to create a SafeMoon Token Clone Script, the second method is to build the token from scratch and deliver end-to-end SafeMoon token clone services.</p>
+                <p>There are two methods to create a DeFi Token like SafeMoon, the first method is to create a SafeMoon Token Clone, the second method is to build the token from scratch and deliver end-to-end SafeMoon token clone services.</p>
             </div>
              <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-6 deficreate text-left">

@@ -48,7 +48,7 @@ export default function History_Gamming() {
                                     <div className="inner-content">
                                         <h3 className="title">Cross-chain compliance</h3>
                                         <p className="textherehistory">
-                                            The NFT in the gaming industry also offers to sell their game NFT assets in the multiple blockchain-based NFT marketplaces. Our <a href="https://www.infiniteblocktech.com/nft-development-solutions" target="_blank">NFT developments platform</a>almost all the blockchain to let you enjoy a hassle-free environment.
+                                            The NFT in the gaming industry also offers to sell their game NFT assets in the multiple blockchain-based NFT marketplaces. Our <a href="https://www.Arbitechsolutions.com/nft-development-solutions" target="_blank">NFT developments platform</a>almost all the blockchain to let you enjoy a hassle-free environment.
                                         </p>
                                     </div>
                                 </div>

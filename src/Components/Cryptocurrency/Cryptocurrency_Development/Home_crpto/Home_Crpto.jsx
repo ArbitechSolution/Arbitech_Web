@@ -17,7 +17,7 @@ export default function Home_Crpto() {
                         </div>
                         <div className="animated fadeInUp mt-30">
                             <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                            <a href="#pricing" className="button-md dark-button js-scroll-trigger">Our Pricing</a>
+                           
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@ export default function Home_Crpto() {
                     <div className="row extra mt-5">
                         <div className="animated fadeInUp">
                             <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                            <a href="#pricing" className="button-md dark-button js-scroll-trigger">Our Pricing</a>
+                           
                         </div>
                     </div>
                 </div>
@@ -218,7 +218,7 @@ export default function Home_Crpto() {
             <div className="row extra mt-5">
                 <div className="animated fadeInUp">
                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                    <a href="#pricing" className="button-md dark-button js-scroll-trigger">Our Pricing</a>
+ 
                 </div>
             </div>
         </div>

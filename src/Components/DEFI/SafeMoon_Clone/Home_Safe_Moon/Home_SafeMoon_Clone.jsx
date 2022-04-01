@@ -13,7 +13,7 @@ export default function Home_SafeMoon_Clone() {
                     <div className="slider-content text-left">
                         <div className="row">
                             <div className="col-xs-12 col-md-12 text-center">
-                                <div className="animated fadeInDown banner_tit"><h1>SafeMoon Clone Script </h1></div>
+                                <div className="animated fadeInDown banner_tit"><h1>SafeMoon Clone </h1></div>
                                 <p className="animated fadeInDown">Launch your crypto token like SafeMoon by availing our SafeMoon Clone </p>
                                 <div className="animated fadeInUp mt-30 btnRow">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger mt-4">Talk to Our Experts</a>
@@ -60,7 +60,7 @@ export default function Home_SafeMoon_Clone() {
                                 <p className='text-left mt-5'>SafeMoon clone is a complete community-driven decentralized token that is created for exchanges that operate similar to SafeMoon. It is a customizable DeFi token protocol that executes functionalities that are similar to the original token. SafeMoon can also be categorized as a whitelabel solution. The users will receive the freedom to customize their SafeMoon token clone’s tokenomics plans based on their business requirements.</p>
                             </div>
                             <div className="mt-25 mt-5">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -73,8 +73,8 @@ export default function Home_SafeMoon_Clone() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center">
                             <div itemscope="" itemtype="https://schema.org/ImageObject"/>
                                 <meta itemprop="name" content=" Arbitech Soultions"/>
-                                    <img data-src="token2.png" className="img-responsive rounded-border shadow-primary Safe_img_mood" alt="SafeMoon Clone Script" itemprop="contentUrl" src="token2.png"/>
-                                        <meta itemprop="description" content="SafeMoon Clone Script is the ready-made solution that helps to launch your own Crowdfunding Protocol. Get it now." />
+                                    <img data-src="token2.png" className="img-responsive rounded-border shadow-primary Safe_img_mood" alt="SafeMoon Clone" itemprop="contentUrl" src="token2.png"/>
+                                        <meta itemprop="description" content="SafeMoon Clone is the ready-made solution that helps to launch your own Crowdfunding Protocol. Get it now." />
                                         </div>
 
                                     </div>

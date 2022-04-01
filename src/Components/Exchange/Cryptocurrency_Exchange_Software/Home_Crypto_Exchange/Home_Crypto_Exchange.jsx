@@ -25,7 +25,7 @@ export default function Home_Crypto_Exchange() {
                                 <div className="animated banner_btn fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
 
-                                    <a href="#pricing" className="button-md dark-button js-scroll-trigger">View Pricing</a>
+                                   
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
@@ -134,7 +134,7 @@ export default function Home_Crypto_Exchange() {
                         </div>
                     </div>
                     <div className="animated banner_btn text-center fadeInUp mt-30">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -578,8 +578,7 @@ export default function Home_Crypto_Exchange() {
                     </div>
                     <div className="animated banner_btn text-center fadeInUp mt-30">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#demo" className="button-md dark-button js-scroll-trigger mb-15">View Demo</a>
-                        <a href="#pricing" className="button-md dark-button js-scroll-trigger">View Pricing</a>
+                        
                     </div>
                 </div>
             </div>
@@ -623,7 +622,7 @@ export default function Home_Crypto_Exchange() {
                     <div className="row mt-50 sto-mark-gen">
                         <div className="col-xs-12 col-sm-12 col-md-6 pull-right">
                             <div className="type_box">
-                                <a href="https://www.infiniteblocktech.com/decentralized-exchange-development"><span className="mb-20 tit1 text-white pb-5">Decentralized Cryptocurrency Exchange Development</span></a>
+                                <a href="https://www.Arbitechsolutions.com/decentralized-exchange-development"><span className="mb-20 tit1 text-white pb-5">Decentralized Cryptocurrency Exchange Development</span></a>
                                 <p className="mb-10  text-justify p_Safe_Mood text-left pt-3">Decentralized Cryptocurrency Exchanges eliminate the need for a middleman or any third party by directly matching the traders. There is no central authority and the exchange allows for peer-to-peer transactions. They are not as widely used as Centralized Crypto exchanges in the public arena but see a lot of usage in private corporations where they provide a better fit.</p>
                                 <ul>
                                     <li>Highly efficient, fast, and reliable.</li>
@@ -643,7 +642,7 @@ export default function Home_Crypto_Exchange() {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6">
                             <div className="type_box">
-                                <a href="https://www.infiniteblocktech.com/hybrid-crypto-exchange-development"><span className="mb-20 tit1 text-white pb-5">Hybrid Cryptocurrency Exchange Development</span></a>
+                                <a href="https://www.Arbitechsolutions.com/hybrid-crypto-exchange-development"><span className="mb-20 tit1 text-white pb-5">Hybrid Cryptocurrency Exchange Development</span></a>
                                 <p className="mb-10  text-justify p_Safe_Mood text-left pt-3">Get the best of both worlds with this offering that combines traditional practices with the capabilities of the new generation of cryptocurrency exchanges. Hybrid Cryptocurrency exchanges are the perfect mix between centralized and decentralized exchanges.</p>
                                 <ul>
                                     <li>Various benefits of both centralized and decentralized platforms.</li>

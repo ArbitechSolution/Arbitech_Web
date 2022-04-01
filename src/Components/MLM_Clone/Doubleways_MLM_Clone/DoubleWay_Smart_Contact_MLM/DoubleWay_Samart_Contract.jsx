@@ -15,7 +15,7 @@ export default function DoubleWay_Samart_Contract() {
             <div className="row mt-30 work_flw">
 
             <div className="mb-30 col-md-12 text-center">
-            <p className='p_Safe_Mood'>The following steps define the workflow of the Doubleway smart contract MLM platform. And our doubleway MLM clone script works in a similar way.</p>
+            <p className='p_Safe_Mood'>The following steps define the workflow of the Doubleway smart contract MLM platform. And our doubleway MLM Clone works in a similar way.</p>
 
             </div>
 
@@ -115,7 +115,7 @@ export default function DoubleWay_Samart_Contract() {
                 <div className="col-xs-12 text-center mt-5">
                     <div className="animated fadeInUp mt-40">
                         <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                        <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
+                      
                     </div>
                 </div>
 
@@ -181,9 +181,9 @@ export default function DoubleWay_Samart_Contract() {
                 </div>
                 <div className="col-md-7">
 
-                <p className='p_Safe_Mood text-left'> Arbitech Soultions is one of the renowned names in the crypto/blockchain industry. With an extensive team of exceptionally experienced blockchain experts, developers, programmers, strategists, market analysts etc., we are eligible to offer an array of solutions including cryptocurrency exchange development, smart contracts development, smart contract-based MLM platform development etc. With MLM businesses widely prevailing, our doubleway MLM clone script solutions will help you step up your game, get ahead and stay ahead of the intense competition in the market. All of our crypto/ blockchain solutions and clone script solutions are 100% reliable, secure, scalable, and customizable, and are developed and deployed completely by our inhouse skilled set of experts. We give top priority to quality, security and customer satisfaction. </p>
+                <p className='p_Safe_Mood text-left'> Arbitech Soultions is one of the renowned names in the crypto/blockchain industry. With an extensive team of exceptionally experienced blockchain experts, developers, programmers, strategists, market analysts etc., we are eligible to offer an array of solutions including cryptocurrency exchange development, smart contracts development, smart contract-based MLM platform development etc. With MLM businesses widely prevailing, our doubleway MLM Clone solutions will help you step up your game, get ahead and stay ahead of the intense competition in the market. All of our crypto/ blockchain solutions and Clone solutions are 100% reliable, secure, scalable, and customizable, and are developed and deployed completely by our inhouse skilled set of experts. We give top priority to quality, security and customer satisfaction. </p>
                 
-                <p className='p_Safe_Mood text-left'>When it comes to smart contracts MLM solutions, we don’t just stop with Doubleway MLM clone script. We also offer various other clone script solutions such as Forsage clone, Million Money clone and many more. We ensure round the clock customer support. Our motto is to achieve excellence in the most efficient, effective, and cost-effective way. Get in touch with our team of experts, and take your MLM business to a whole new level.</p>
+                <p className='p_Safe_Mood text-left'>When it comes to smart contracts MLM solutions, we don’t just stop with Doubleway MLM Clone. We also offer various other Clone solutions such as Forsage clone, Million Money clone and many more. We ensure round the clock customer support. Our motto is to achieve excellence in the most efficient, effective, and cost-effective way. Get in touch with our team of experts, and take your MLM business to a whole new level.</p>
                 </div>
             </div>
         </div>

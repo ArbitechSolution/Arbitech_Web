@@ -13,7 +13,8 @@ export default function Home_ICO_Develoment() {
                             <div className="col-xs-12 col-md-7 col-sm-7">
                                 <h1 className="animated fadeInDown">ICO Development Company</h1>
                                 <p className="Icon_Home_Text">Unparalleled ICO development services from the seasoned industry experts. Customized solutions to launch your tokens successfully.</p>
-                                <div className="animated fadeInUp mt-30"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> <a href="#pricing" className="button-md dark-button js-scroll-trigger">View Pricing</a> </div>
+                                <div className="animated fadeInUp mt-30">
+                                 <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5">
                                 <div className="bann_fomr mt-4">

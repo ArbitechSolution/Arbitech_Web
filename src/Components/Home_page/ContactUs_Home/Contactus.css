@@ -1,7 +1,38 @@
 
 
 
+.label_here{
+    color: #f4f4f4;
+    font-weight: 700;
+    font-size: 18px;
+}
+.strick{
+    color: red;
+}
+.labhhgg{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start !important;
+}
 
+ input:out-of-range{
+     background-color: rgba(237, 14, 14, 0.25) !important ;
+     border: 2px solid red;
+ }
+ input:in-range{
+     background-color: rgba(0, 255, 0, 0.25);
+ }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
 
 .section-block-grey {
     padding: 90px 0;

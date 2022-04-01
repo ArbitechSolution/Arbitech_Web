@@ -6,24 +6,28 @@ import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap'
 
 
 export default function Navbarhere() {
+
+
+
+
   return <div>
 
-    <Navbar collapseOnSelect expand="lg" className="navbgher12">
+    <Navbar collapseOnSelect expand="xl" className="navbgher12">
 
 
-      <>
+      <Container className='mt-3'>
 
         <Link to="/" className='TextdecorationNFT145'>
           <a class="navbar-brand" href="#">
             <div className='First_Col'>
-              <img src='LOGO.png' width="50px" className='me-3' />
+              <img src='LOGO.png' width="50px" className='me-2' />
               <div className='seond_col'>
-              <span className="name_first">Arbitech</span>  <br />
-              <small className="name_second">s o l u t i o n s </small>
+                <span className="name_first">Arbitech</span>  <br />
+                <small className="name_second me-auto">solutions </small>
 
+              </div>
             </div>
-            </div>
-            
+
           </a>
 
         </Link>
@@ -32,7 +36,7 @@ export default function Navbarhere() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto textNavher_white">
 
-            <NavDropdown className='navtexthere' style={{ color: 'red' }} title={<span className='' >NFT</span>} id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' style={{ color: 'red' }} title={<span className='Nav_text_link' >NFT</span>} id="collasible-nav-dropdown">
               <Link to="/NFT" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1">NFT Development Service</NavDropdown.Item>
               </Link>
@@ -62,7 +66,7 @@ export default function Navbarhere() {
 
             </NavDropdown>
 
-            <NavDropdown className='navtexthere' title="DEFI" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >DEFI</span>} id="collasible-nav-dropdown">
 
               <Link to="/DEFI_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1"> Decentralized Finance (Defi) Development </NavDropdown.Item>
@@ -71,10 +75,10 @@ export default function Navbarhere() {
                 <NavDropdown.Item href="#action/3.1" > DEFI Marketing Service </NavDropdown.Item>
               </Link>
               <Link to="/DEFI_Safe_Moon" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" > Safemoon Clone Script </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" > Safemoon Clone </NavDropdown.Item>
               </Link>
               <Link to="/DEFI_Safe_Mars_Clone" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" > SafeMars Clone Script </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" > SafeMars Clone </NavDropdown.Item>
               </Link>
               <Link to="/DEFI_PanCake_Clone" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" > PancakeSwap Clone </NavDropdown.Item>
@@ -85,7 +89,7 @@ export default function Navbarhere() {
             </NavDropdown>
 
 
-            <NavDropdown className='navtexthere' title=" ICO" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >ICO</span>} id="collasible-nav-dropdown">
               <Link to="/ICO_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >ICO Development </NavDropdown.Item>
               </Link>
@@ -97,7 +101,7 @@ export default function Navbarhere() {
 
 
 
-            <NavDropdown className='navtexthere' title=" IDO" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >IDO</span>} id="collasible-nav-dropdown">
               <Link to="/IDO_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >IDO Development</NavDropdown.Item>
               </Link>
@@ -109,28 +113,28 @@ export default function Navbarhere() {
 
 
 
-            <NavDropdown className='navtexthere' title="MLM CLONE" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >MLM CLONE</span>} id="collasible-nav-dropdown">
               <Link to="/MLM_Forsage_Script" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" >Forsage Clone Script</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" >Forsage Clone</NavDropdown.Item>
               </Link>
               <Link to="/MLM_Double_Way" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" > Doubleway MLM Clone Script</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" > Doubleway MLM Clone</NavDropdown.Item>
               </Link>
               <Link to="/MLM_Tron_Smart_Contract" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" >Smart Contract MLM  on Tron </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" >Smart Contract MLM </NavDropdown.Item>
               </Link>
               <Link to="/MLM_Million_Menoy_Clone" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >Million Money Clone </NavDropdown.Item>
               </Link>
               <Link to="/MLM_Lions_Share_Clone" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" >Lion's Share Clone Script</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" >LionsShare Clone</NavDropdown.Item>
               </Link>
 
             </NavDropdown>
 
 
 
-            <NavDropdown className='navtexthere' title=" CRYPTOCURRENCY" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >CRYPTOCURRENCY</span>} id="collasible-nav-dropdown">
               <Link to="/Crpto_Dev" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >Cryptocurrency Development </NavDropdown.Item>
               </Link>
@@ -152,7 +156,7 @@ export default function Navbarhere() {
                 <NavDropdown.Item href="#action/3.1" >  Cryptocurrency Creation Service</NavDropdown.Item>
               </Link>
               <Link to="/MetaMask_Clone" className='TextdecorationNFT145'>
-                <NavDropdown.Item href="#action/3.1" >MetaMask Clone Script </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1" >MetaMask Clone </NavDropdown.Item>
               </Link>
               <Link to="/Binance_Smart_Chain_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" > Binance Smart Chain Development </NavDropdown.Item>
@@ -162,7 +166,7 @@ export default function Navbarhere() {
             </NavDropdown>
 
 
-            <NavDropdown className='navtexthere' title=" EXCHANGE" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >EXCHANGE</span>} id="collasible-nav-dropdown">
 
 
               <Link to="/Cryptocurrenc_Exchange_Software" className='TextdecorationNFT145'>
@@ -194,7 +198,7 @@ export default function Navbarhere() {
 
 
 
-            <NavDropdown className='navtexthere' title=" BLOCKCHAIN" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >BLOCKCHAIN</span>} id="collasible-nav-dropdown">
               <Link to="/BlockChain_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >Blockchain Development</NavDropdown.Item>
               </Link>
@@ -212,7 +216,7 @@ export default function Navbarhere() {
             </NavDropdown>
 
 
-            <NavDropdown className='navtexthere' title=" CONTACT US" id="collasible-nav-dropdown">
+            <NavDropdown className='navtexthere' title={<span className='Nav_text_link' >CONTACT US</span>} id="collasible-nav-dropdown">
               <Link to="/About_US_MAin" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" >About Us </NavDropdown.Item>
               </Link>
@@ -238,7 +242,7 @@ export default function Navbarhere() {
           </Nav>
 
         </Navbar.Collapse>
-      </>
+      </Container>
     </Navbar>
 
 

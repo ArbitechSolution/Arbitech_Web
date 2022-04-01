@@ -68,7 +68,7 @@ export default function Our_Trade() {
                     <div className="row extra white">
                         <div className="animated fadeInUp">
                             <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                            <a href="#pricing" className="button-md dark-button js-scroll-trigger">Our Pricing</a>
+                            
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@ export default function Our_Trade() {
             <div className="row extra center mt-5">
                 <div className="animated fadeInUp">
                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                    <a href="#pricing" className="button-md dark-button js-scroll-trigger">Our Pricing</a>
+                   
                 </div>
             </div>
         </div>

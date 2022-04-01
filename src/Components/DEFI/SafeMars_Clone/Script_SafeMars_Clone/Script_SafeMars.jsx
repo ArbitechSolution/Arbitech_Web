@@ -9,22 +9,23 @@ export default function Script_SafeMars() {
             <div className="section-block">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h3>SafeMars Clone Script - Features</h3>
+                        <h3>SafeMars Clone - Features</h3>
                         <div className="section-heading-line"></div>
-                        <p>Our SafeMars clone script development platform is built with astonishing features.</p>
+                        <p>Our SafeMars Clone development platform is built with astonishing features.</p>
 
                     </div>
-                    <div className="row ">
+                
 
-                        <div >
+                       
 
                             <div className="features-benifit ">
+                            <div className="row ">
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="column centered blurb card_Widthhere">
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="padlock.png" src="padlock.png" />
                                         </span>
-                                        <h3>Automated Liquidity Lock</h3>
+                                        <h3 className='text-white'>Automated Liquidity Lock</h3>
                                         <p className='text_color'>This feature prevents the token from being rugged and it also maintains the stability and utility of the crypto token in the platform.
 
 
@@ -36,8 +37,8 @@ export default function Script_SafeMars() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="medal.png" src="medal.png" />
                                         </span>
-                                        <h3>Distribution Of Rewards</h3>
-                                        <p className='text_color'>The functionality of our SafeMars clone script platform is based on the reflection attribute, where the holders receive a high distribution of rewards for high volume transactions.
+                                        <h3 className='text-white'>Distribution Of Rewards</h3>
+                                        <p className='text_color'>The functionality of our SafeMars Clone platform is based on the reflection attribute, where the holders receive a high distribution of rewards for high volume transactions.
 
                                         </p>
                                     </div>
@@ -47,13 +48,15 @@ export default function Script_SafeMars() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="purity.png" src="purity.png" />
                                         </span>
-                                        <h3>Liquidity Pools</h3>
+                                        <h3 className='text-white'>Liquidity Pools</h3>
                                         <p className='text_color'>Our platform has a very efficient liquid pool where it creates liquid providers for the users who are investing funds in the pool.
 
 
                                         </p>
                                     </div>
                                 </div>
+
+
 
                               
                                 
@@ -62,7 +65,7 @@ export default function Script_SafeMars() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="mechanism.png" src="mechanism.png" />
                                         </span>
-                                        <h3>Burn Mechanism</h3>
+                                        <h3 className='text-white'>Burn Mechanism</h3>
                                         <p className='text_color'> This feature increases the value and usability of the token by burning them, it means transferring the tokens to an unavailable account.
 
 
@@ -74,8 +77,8 @@ export default function Script_SafeMars() {
                                         <span className="icon-container icon-big">
                                             <img className="" data-src="swap.png" src="swap.png" />
                                         </span>
-                                        <h3>Swapping</h3>
-                                        <p className='text_color'> Our clone script platform is integrated with the swapping mechanism, where it allows the swapping of cryptocurrencies based on the requirements of the customers.
+                                        <h3 className='text-white'>Swapping</h3>
+                                        <p className='text_color'> Our Clone platform is integrated with the swapping mechanism, where it allows the swapping of cryptocurrencies based on the requirements of the customers.
 
 
                                         </p>
@@ -84,7 +87,7 @@ export default function Script_SafeMars() {
 
                             </div>
                         </div>
-                    </div>
+                    
                 </div>
             </div>
 
@@ -95,7 +98,7 @@ export default function Script_SafeMars() {
             <div className="Sade_Mars" >
                 <div className="container">
                     <div className="demo book-demo text-center text-white">
-                        <h2 className='pb-5'>Reach Astonishing Heights With Our SafeMars Clone Script Development Services</h2>
+                        <h2 className='pb-5'>Reach Astonishing Heights With Our SafeMars Clone Development Services</h2>
                         <span className="demo_btn text-center topmarginhere">
                             <a className="button-md dark-button two-btn js-scroll-trigger " href="#contact">Contact Us</a></span>
                     </div>
@@ -107,7 +110,7 @@ export default function Script_SafeMars() {
             <div className="section-block">
                 <div className="container sto-ben">
                     <div className="center-holder section-heading">
-                        <h3>Advantages of SafeMars Clone Script Development  </h3>
+                        <h3>Advantages of SafeMars Clone Development  </h3>
                         <div className="section-heading-line"></div>
 
                     </div>
@@ -137,7 +140,7 @@ export default function Script_SafeMars() {
                                         <div className="number-box-line1222"></div>
                                         <div className="feature-flex-square-content1222">
                                             <h4>Constant Deflation</h4>
-                                            <p className="txt-dark">Our SafeMars clone script development platform experiences constant deflation, as the supply of the tokens is high.</p>
+                                            <p className="txt-dark">Our SafeMars Clone development platform experiences constant deflation, as the supply of the tokens is high.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +165,7 @@ export default function Script_SafeMars() {
                                         <div className="number-box-line1222"></div>
                                         <div className="feature-flex-square-content1222">
                                             <h4>High Market Visibility </h4>
-                                            <p className="txt-dark">Since our SafeMars clone script platform is developed on the BSC blockchain, it is highly transparent, thus, it increases the market visibility.</p>
+                                            <p className="txt-dark">Since our SafeMars Clone platform is developed on the BSC blockchain, it is highly transparent, thus, it increases the market visibility.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -220,7 +223,7 @@ export default function Script_SafeMars() {
 
 
                         <div className="section-heading-line"></div>
-                        <p> Arbitech Soultions is a widely recognized clone script development company that develops many crypto clone platforms like SafeMars clone script for customers. Our efficient development and marketing services are listed below.</p>
+                        <p> Arbitech Soultions is a widely recognized Clone development company that develops many crypto clone platforms like SafeMars Clone for customers. Our efficient development and marketing services are listed below.</p>
                     </div>
                     <div className="row">
                         <div className="col-md-12">

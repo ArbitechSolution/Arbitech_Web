@@ -38,7 +38,7 @@ export default function Home_Hybrid_crypto_Exchange() {
                         <p>Hybrid exchanges are nothing but a mixture of the components of both centralized and decentralized exchanges. To put it simply, CEX+DEX= HEX. Hybrid exchanges first came into existence with the idea of elucidating the stumbling blocks involved with centralized and decentralized exchanges. A <strong>Hybrid digital asset exchange</strong>(HEX) is built based on the functionalities and liquidity of a centralized exchange, while also comprising the confidentiality and security of a decentralized exchange.  </p>
                     </div>
                     <div className="mt-25 text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -131,7 +131,7 @@ export default function Home_Hybrid_crypto_Exchange() {
             <div className="section-block-parallax benifit-hash">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h2>Advantages of our MetaMask clone script</h2>
+                        <h2 className='text-dark '>Advantages of our MetaMask Clone</h2>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row mt-50">
@@ -141,7 +141,7 @@ export default function Home_Hybrid_crypto_Exchange() {
                                     <span><i><img className="" data-src="activity.svg" src="activity.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Multi-Crypto compatibility </h3>
-                                <p className="description">The market wallets play a vital role in the crypto exchange. In day-to-day life, many new clone scripts are emerging in the crypto market. And every user and every cryptocurrency is important to us. This made us create a MetaMask wallet that supports and integrates various cryptocurrency support in the MetaMask. </p>
+                                <p className="description">The market wallets play a vital role in the crypto exchange. In day-to-day life, many new Clones are emerging in the crypto market. And every user and every cryptocurrency is important to us. This made us create a MetaMask wallet that supports and integrates various cryptocurrency support in the MetaMask. </p>
 
                             </div>
                         </div>
@@ -151,7 +151,7 @@ export default function Home_Hybrid_crypto_Exchange() {
                                     <span><i><img className="" data-src="security.svg" src="security.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Cross-chain compliance </h3>
-                                <p className="description">MetaMask-like clone script is mainly designed to work with many blockchain technologies. To be compatible with all types of crypto services. Though it supports Ethereum directly, with the EVM, MetaMask can efficiently run with the other blockchains flawlessly.</p>
+                                <p className="description">MetaMask-like Clone is mainly designed to work with many blockchain technologies. To be compatible with all types of crypto services. Though it supports Ethereum directly, with the EVM, MetaMask can efficiently run with the other blockchains flawlessly.</p>
 
                             </div>
                         </div>
@@ -171,7 +171,7 @@ export default function Home_Hybrid_crypto_Exchange() {
                                     <span><i><img className="" data-src="performance.svg" src="performance.svg" /></i></span>
                                 </div>
                                 <h3 className="title">Automated action on duplicate transactions </h3>
-                                <p className="description">The MetaMask wallet clone script we built has the ability to detect any duplicate transactions in the wallet. Even MetaMask wallet clone script has security build-ups like 2-factor authentication to eradicate any intrusion.</p>
+                                <p className="description">The MetaMask wallet Clone we built has the ability to detect any duplicate transactions in the wallet. Even MetaMask wallet Clone has security build-ups like 2-factor authentication to eradicate any intrusion.</p>
 
                             </div>
                         </div>
@@ -179,7 +179,7 @@ export default function Home_Hybrid_crypto_Exchange() {
                     </div>
                     <div className="mt-25 text-center">
 
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

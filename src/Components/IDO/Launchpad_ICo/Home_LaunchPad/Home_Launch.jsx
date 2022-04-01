@@ -16,7 +16,7 @@ export default function Home_Launch() {
                                 <div className="animated fadeInDown banner_tit">
                                     <h1>IDO Launchpad Development Services</h1></div>
                                 <p className="animated fadeInDown">Get your IDO launchpad from our crypto development company with exceptional features.</p>
-                                <div className="animated fadeInUp mt-30"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a></div>
+                                <div className="animated fadeInUp mt-30"> <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a> </div>
                             </div>
                             <div className="col-xs-12 col-md-5 col-sm-5"> </div>
                         </div>
@@ -70,7 +70,7 @@ export default function Home_Launch() {
 
 
                         <div className="animated fadeInUp text-center mt-30">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

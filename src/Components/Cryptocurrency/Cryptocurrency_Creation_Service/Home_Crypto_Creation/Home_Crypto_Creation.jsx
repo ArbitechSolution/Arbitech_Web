@@ -17,7 +17,7 @@ export default function Home_Crypto_Creation() {
                                 <p className="animated fadeInDown">Fascinated with creating your own cryptocurrency but wondering where/ how to begin?  Relinquish your crypto creation to the finest cryptocurrency creators in the market. Being pioneers in the field, we ensure authenticity, stability and security for your cryptocurrency.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
-                                    <a href="#pricing" className="button-md dark-button js-scroll-trigger">View Pricing</a>
+                                    
                                 </div>
                             </div>
 
@@ -45,7 +45,7 @@ export default function Home_Crypto_Creation() {
 
                             </div>
                             <div className="mt-25 mt-5">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="+971 52 695 1284" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
