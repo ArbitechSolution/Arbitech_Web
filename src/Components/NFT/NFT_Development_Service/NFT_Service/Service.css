@@ -8,6 +8,10 @@
     margin-bottom: 10px;
 }
 
+.new_class_here{
+    height: 400px;
+}
+
 .center-holder {
     text-align: center;
 }
@@ -78,8 +82,11 @@
 }
 
 
-@media (min-width:280px) and (max-width:768px) {
-
+@media (min-width:280px) and (max-width:600px) {
+    .new_class_here{
+        height: auto;
+    }
+    
    
     
 }

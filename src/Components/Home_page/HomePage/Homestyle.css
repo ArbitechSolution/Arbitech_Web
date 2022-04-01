@@ -113,6 +113,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+
+@media screen and (max-width: 600px){
+    .banner-block{
+      
+        padding-top: 100px !important;
+        padding-bottom: 75px;
+        
+        position: relative;
+        height: auto;
+    
+    }
+
+}
+
 @media screen and (max-width: 770px){
 .slider-content h2, .slider-content h1 {
     font-size: 27px;
@@ -138,6 +152,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 90%;
 }
 }
+
 
 
 /* ----------------------Second Section Text Here--------------------------------------------------- */

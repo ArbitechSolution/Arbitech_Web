@@ -11,7 +11,7 @@ export default function NFT_Service() {
                 </div>
                 <div className="row adv_ft mt-30">
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="01.png" src="01.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Art</h4>
@@ -19,7 +19,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="02.png" src="02.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Development Platform</h4>
@@ -27,7 +27,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="03.png" src="03.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Marketplace </h4>
@@ -35,7 +35,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="04.png" src="04.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Games </h4>
@@ -43,7 +43,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="05.png" src="05.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Fashion</h4>
@@ -51,7 +51,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="06.png" src="06.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Lending Platform </h4>
@@ -59,7 +59,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="07.png" src="07.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Exchange</h4>
@@ -67,7 +67,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="08.png" src="08.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Sports</h4>
@@ -75,7 +75,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="09.png" src="09.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Fantasy Sports</h4>
@@ -83,7 +83,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="10.png" src="010.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Real Estate</h4>
@@ -91,7 +91,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="11.png" src="011.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Infrastructure Development </h4>
@@ -99,7 +99,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="12.png" src="012.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For P2P Exchange </h4>
@@ -107,7 +107,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="13.png" src="013.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Music </h4>
@@ -115,7 +115,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="14.png" src="014.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Domains </h4>
@@ -123,7 +123,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="15.png" src="015.png " width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Videos </h4>
@@ -131,7 +131,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="16.png" src="16.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT For Content Subscriptions</h4>
@@ -139,7 +139,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="17.png" src="17.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>Initial Poster Offering (IPO) Development</h4>
@@ -147,7 +147,7 @@ export default function NFT_Service() {
                         </div>
                     </div>
                     <div className="col-xs-12 col-sm-6 col-md-4">
-                        <div className="exchange-box number-box ">
+                        <div className="exchange-box number-box   new_class_here">
                             <img className="headerimgher" data-src="18.png" src="18.png" width="100%" />
                             <div className="number-box-line"></div>
                             <h4>NFT Cross-Chain Development</h4>

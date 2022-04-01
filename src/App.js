@@ -4,10 +4,19 @@ import Navbarhere from './Components/Home_page/Navbarhere/Navbarhere';
 
 
 import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { ToastContainer, toast } from 'react-toastify';
+import ContactUs from './Components/Home_page/ContactUs_Home/ContactUs';
+import 'react-toastify/dist/ReactToastify.css';
+import Footer from './Components/Home_page/Footer_Home/Footerhere'
+import BlockChain_Development from './Components/Main_BlockChain/BlockChain_Development';
+import Palkadot_Deve from './Components/Main_BlockChain/Palkadot_Deve';
+import Blockchain_consultin from './Components/Main_BlockChain/Blockchain_consultin';
+import Blockchain_IOT from './Components/Main_BlockChain/Blockchain_IOT';
+import Crowdfunding_Platform from './Components/Main_BlockChain/Crowdfunding_Platform';
+
+
 import Home from './Components/Home';
 import NFT from './Components/NFT_Main/NFT';
-import Footer from './Components/Home_page/Footer_Home/Footerhere'
-import ContactUs from './Components/Home_page/ContactUs_Home/ContactUs';
 import NFT_Marketplace from './Components/NFT_Main/NFT_Marketplace'
 import NFT_MusicToken from './Components/NFT_Main/NFT_MusicToken';
 import NFT_Gamming from './Components/NFT_Main/NFT_Gamming';
@@ -15,14 +24,22 @@ import NFT_Art_Plateform from './Components/NFT_Main/NFT_Art_Plateform';
 import Non_Fungible_NFT from './Components/NFT_Main/Non_Fungible_NFT';
 import OpenSea from './Components/NFT_Main/OpenSea';
 import Semi_Fungible from './Components/NFT_Main/Semi_Fungible';
+
+
+
+
 import DEFI_Development from './Components/DEFI_Main/DEFI_Development'
-import DEFI_Marketing_Dev from './Components/DEFI_Main/DEFI_Marketing_Dev';
 import DEFI_Safe_Moon_Clone from './Components/DEFI_Main/DEFI_Safe_Moon_Clone'
 import Safe_Mars_Clone from './Components/DEFI_Main/Safe_Mars_Clone';
 import DEFi_Pancake from './Components/DEFI_Main/DEFi_Pancake';
 import UniSwap_Clone from './Components/DEFI_Main/UniSwap_Clone';
+
+
 import ICO_Development from './Components/Main_ICO/ICO_Development';
 import ICO_Consulting_Service from './Components/Main_ICO/ICO_Consulting_Service';
+
+
+
 import IDO_Development from './Components/Main_IDO/IDO_Development';
 import IDO_LaunchPad from './Components/Main_IDO/IDO_LaunchPad';
 import MLM_Forsage_Script from './Components/Main_MLM_Clone/MLM_Forsage_Script';
@@ -30,6 +47,10 @@ import MLM_Double_Way from './Components/Main_MLM_Clone/MLM_Double_Way';
 import MLM_Tron_Smart_Contract from './Components/Main_MLM_Clone/MLM_Tron_Smart_Contract';
 import MLM_Million_Menoy from './Components/Main_MLM_Clone/MLM_Million_Menoy';
 import MLM_Lions_Share from './Components/Main_MLM_Clone/MLM_Lions_Share';
+
+
+
+
 import Cryptocurrency_Development from './Components/Main_Cryptocurrency/Cryptocurrency_Development';
 import Wallet_Develoment from './Components/Main_Cryptocurrency/Wallet_Develoment';
 import Crypto_Wallet_Trust from './Components/Main_Cryptocurrency/Crypto_Wallet_Trust';
@@ -49,13 +70,19 @@ import About_US_MAin from './Components/Main_Contact_Us/About_US_MAin';
 import Main_Privacy_Policy from './Components/Main_Contact_Us/Main_Privacy_Policy';
 import Main_Terms_and_Conditions from './Components/Main_Contact_Us/Main_Terms_and_Conditions';
 import Main_Contact_Us_here from './Components/Main_Contact_Us/Main_Contact_Us_here';
-import BlockChain_Development from './Components/Main_BlockChain/BlockChain_Development';
-import Palkadot_Deve from './Components/Main_BlockChain/Palkadot_Deve';
-import Blockchain_consultin from './Components/Main_BlockChain/Blockchain_consultin';
-import Blockchain_IOT from './Components/Main_BlockChain/Blockchain_IOT';
-import Crowdfunding_Platform from './Components/Main_BlockChain/Crowdfunding_Platform';
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+
+{/*
+import DEFI_Marketing_Dev from './Components/DEFI_Main/DEFI_Marketing_Dev';
+
+
+
+
+
+
+*/}
+
+
+
 
 function App() {
   return (
@@ -64,26 +91,44 @@ function App() {
     <ToastContainer />
 
     <Navbarhere></Navbarhere>
-  
-  <Route exact path="/" component={Home}></Route>
-  <Route exact path="/NFT" component={NFT}></Route>
-  <Route exact path="/NFT_Marketplace" component={NFT_Marketplace}></Route>
-  <Route exact path="/NFT_MusicToken" component={NFT_MusicToken}></Route>
-  <Route exact path="/NFT_Gamming" component={NFT_Gamming}></Route>
-  <Route exact path="/NFT_Art" component={NFT_Art_Plateform}></Route>
-  <Route exact path="/NFT_Non_Fungible" component={Non_Fungible_NFT}></Route>
-  <Route exact path="/NFT_OpenSea" component={OpenSea}></Route>
-  <Route exact path="/NFT_Semi_Fungible" component={Semi_Fungible}></Route>
+
+    <Route exact path="/" component={Home}></Route>
+    <Route exact path="/NFT" component={NFT}></Route>
+    <Route exact path="/NFT_Marketplace" component={NFT_Marketplace}></Route>
+    <Route exact path="/NFT_MusicToken" component={NFT_MusicToken}></Route>
+    <Route exact path="/NFT_Gamming" component={NFT_Gamming}></Route>
+    <Route exact path="/NFT_Art" component={NFT_Art_Plateform}></Route>
+    <Route exact path="/NFT_Non_Fungible" component={Non_Fungible_NFT}></Route>
+    <Route exact path="/NFT_OpenSea" component={OpenSea}></Route>
+    <Route exact path="/NFT_Semi_Fungible" component={Semi_Fungible}></Route>
 
 
-  <Route exact path="/DEFI_Development" component={DEFI_Development}></Route>
-  <Route exact path="/DEFI_Marketing" component={DEFI_Marketing_Dev}></Route>
-  <Route exact path="/DEFI_Safe_Moon" component={DEFI_Safe_Moon_Clone}></Route>
-  <Route exact path="/DEFI_Safe_Mars_Clone" component={Safe_Mars_Clone}></Route>
-  <Route exact path="/DEFI_PanCake_Clone" component={DEFi_Pancake}></Route>
-  <Route exact path="/DEFI_UniSwap_Clone" component={UniSwap_Clone}></Route>
 
 
+
+
+    <Route exact path="/BlockChain_Development" component={BlockChain_Development}></Route>
+    <Route exact path="/Palkadot_Deve" component={Palkadot_Deve}></Route>
+    <Route exact path="/Blockchain_consultin" component={Blockchain_consultin}></Route>
+    <Route exact path="/Blockchain_IOT" component={Blockchain_IOT}></Route>
+    <Route exact path="/Crowdfunding_Platform" component={Crowdfunding_Platform}></Route>
+
+
+
+
+
+
+
+    <Route exact path="/DEFI_Development" component={DEFI_Development}></Route>
+    <Route exact path="/DEFI_Safe_Moon" component={DEFI_Safe_Moon_Clone}></Route>
+    <Route exact path="/DEFI_Safe_Mars_Clone" component={Safe_Mars_Clone}></Route>
+    <Route exact path="/DEFI_PanCake_Clone" component={DEFi_Pancake}></Route>
+    <Route exact path="/DEFI_UniSwap_Clone" component={UniSwap_Clone}></Route>
+
+
+
+
+    
 
   <Route exact path="/ICO_Development" component={ICO_Development}></Route>
   <Route exact path="/ICO_Consulting" component={ICO_Consulting_Service}></Route>
@@ -102,8 +147,6 @@ function App() {
   <Route exact path="/MLM_Tron_Smart_Contract" component={MLM_Tron_Smart_Contract}></Route>
   <Route exact path="/MLM_Million_Menoy_Clone" component={MLM_Million_Menoy}></Route>
   <Route exact path="/MLM_Lions_Share_Clone" component={MLM_Lions_Share}></Route>
-
-
 
 
 
@@ -133,11 +176,7 @@ function App() {
 
 
 
-  <Route exact path="/BlockChain_Development" component={BlockChain_Development}></Route>
-  <Route exact path="/Palkadot_Deve" component={Palkadot_Deve}></Route>
-  <Route exact path="/Blockchain_consultin" component={Blockchain_consultin}></Route>
-  <Route exact path="/Blockchain_IOT" component={Blockchain_IOT}></Route>
-  <Route exact path="/Crowdfunding_Platform" component={Crowdfunding_Platform}></Route>
+
 
 
 
@@ -151,6 +190,28 @@ function App() {
   <Route exact path="/Main_Privacy_Policy" component={Main_Privacy_Policy}></Route>
   <Route exact path="/Main_Terms_and_Conditions" component={Main_Terms_and_Conditions}></Route>
   <Route exact path="/Main_Contact_Us_here" component={Main_Contact_Us_here}></Route>
+
+
+  
+  {/*
+  <Route exact path="/DEFI_Marketing" component={DEFI_Marketing_Dev}></Route>
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+*/}
 
 
 
@@ -193,7 +254,7 @@ function App() {
 
 
   <ContactUs></ContactUs>
-  <Footer></Footer>
+  <Footer></Footer>*
  
 </Router>
 

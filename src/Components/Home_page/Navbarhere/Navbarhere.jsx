@@ -33,7 +33,7 @@ export default function Navbarhere() {
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" className='bnt_nav_color' />
 
-        <Navbar.Collapse id="responsive-navbar-nav">
+        <Navbar.Collapse id="responsive-navbar-nav" className='nav_link_resp'>
           <Nav className="ms-auto textNavher_white">
 
             <NavDropdown className='navtexthere' style={{ color: 'red' }} title={<span className='Nav_text_link' >NFT</span>} id="collasible-nav-dropdown">
@@ -71,9 +71,9 @@ export default function Navbarhere() {
               <Link to="/DEFI_Development" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1"> Decentralized Finance (Defi) Development </NavDropdown.Item>
               </Link>
-              <Link to="/DEFI_Marketing" className='TextdecorationNFT145'>
+              {/*<Link to="/DEFI_Marketing" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" > DEFI Marketing Service </NavDropdown.Item>
-              </Link>
+</Link>*/}
               <Link to="/DEFI_Safe_Moon" className='TextdecorationNFT145'>
                 <NavDropdown.Item href="#action/3.1" > Safemoon Clone </NavDropdown.Item>
               </Link>
