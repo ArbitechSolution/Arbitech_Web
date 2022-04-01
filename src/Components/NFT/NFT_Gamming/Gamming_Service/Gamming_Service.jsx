@@ -170,10 +170,10 @@ export default function Gamming_Service() {
             <div className="col-xs-12 col-sm-12 col-md-12 text-center">
                 <div className="pr-30-md">
                     <div className="section-heading">
-                        <h4>WhyArbiTech Soultions In NFT Gaming Platform Development?</h4></div>
+                        <h4>Why Arbitech Soultions In NFT Gaming Platform Development?</h4></div>
                     <div className="section-heading-line"></div>
                     <div className="mt-20">
-                        <p className="sec-txt">ArbiTech Soultions, one of the most successful and experienced development firms in the market. Our team with high expertise will focus on dispatching a perfect product that is more suitable for all kinds of business seekers.ArbiTech Soultions is destined to provide a very great focus on the build that makes the markets with streams of revenue. Fill the forms and stay calm while we reach you.
+                        <p className="sec-txt"> Arbitech Soultions, one of the most successful and experienced development firms in the market. Our team with high expertise will focus on dispatching a perfect product that is more suitable for all kinds of business seekers. Arbitech Soultions is destined to provide a very great focus on the build that makes the markets with streams of revenue. Fill the forms and stay calm while we reach you.
 
                            </p>
                        

@@ -19,7 +19,7 @@ export default function About_us() {
                                     <h5>Why Choose Us</h5></div>
                                 <div className="section-heading-line-left"></div>
                                 <div className="mt-20">
-                                    <p className="sec-txt text-left">AtArbiTech Soultions, we talk, discuss, brainstorm and come up with innovative ideas of creating avant-garde Blockchain concepts and converting them into Real-world Business solutions that will allow us to prove our skill set and potential to make an impact in the Blockchain world.</p>
+                                    <p className="sec-txt text-left">At Arbitech Soultions, we talk, discuss, brainstorm and come up with innovative ideas of creating avant-garde Blockchain concepts and converting them into Real-world Business solutions that will allow us to prove our skill set and potential to make an impact in the Blockchain world.</p>
                                     <p className="sec-txt text-left">Our blockchain developers and experienced analysts can help entrepreneurs and individuals alike to create completely new Blockchain and design new bitcoin-related concepts such as cryptocurrency protocols to fix security vulnerabilities in Blockchain.</p>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@ export default function About_us() {
                     <div className="row extra mt-20">
 
                         <div className="animated fadeInUp text-center">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

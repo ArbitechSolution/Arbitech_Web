@@ -190,7 +190,7 @@ export default function Service() {
                             <div className="content">
                                 <h3 className="title"><a href="https://www.infiniteblocktech.com/sto-marketing">STO Marketing</a></h3>
                                 <p className="description">
-                                    Spread word about your STO token worldwide with our industry-leading marketing strategies. ArbiTech Solutions is a blockchain-based STO marketing agency that specializes in catering the needs of the crypto users.
+                                    Spread word about your STO token worldwide with our industry-leading marketing strategies.  Arbitech Solutions is a blockchain-based STO marketing agency that specializes in catering the needs of the crypto users.
                                 </p>
                             </div>
                         </div>
@@ -221,7 +221,7 @@ export default function Service() {
                             <div className="section-heading  text-left">
                                 <h2>We Bring Your Ideas To Life </h2>
                                 {/* <div className="section-heading-line"></div> */}
-                                <p>At ArbiTech Solutions, our big goal is to provide you with the tools you need to succeed. Whether that’s guiding you with our expertise or offering end-to-end solutions, we are here to help you overcome the challenges you face in this competitive digital space. We believe in building lasting relationships with our clients. Come be a part of the ArbiTech Solutions family and enjoy everything we have to offer.</p>
+                                <p>At  Arbitech Solutions, our big goal is to provide you with the tools you need to succeed. Whether that’s guiding you with our expertise or offering end-to-end solutions, we are here to help you overcome the challenges you face in this competitive digital space. We believe in building lasting relationships with our clients. Come be a part of the  Arbitech Solutions family and enjoy everything we have to offer.</p>
                             </div>
                         </div>
                     </div>
@@ -229,9 +229,9 @@ export default function Service() {
                         <div className="idea-img">
                             {/* <!-- <img className="lazy" data-src="img/home/idea-segment.png"> --> */}
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="ArbiTech Solutions" />
+                                <meta itemprop="name" content=" Arbitech Solutions" />
                                 <img data-src="https://www.infiniteblocktech.com/img/home/idea-segment.png" className="img-responsive" alt="Blockchain Solutions" itemprop="contentUrl" src="https://www.infiniteblocktech.com/img/home/idea-segment.png" />
-                                <meta itemprop="description" content="At ArbiTech Solutions, we provide you with the blockchain tools and solutions you need to succeed. Get it now." />
+                                <meta itemprop="description" content="At  Arbitech Solutions, we provide you with the blockchain tools and solutions you need to succeed. Get it now." />
                             </div>
 
                         </div>

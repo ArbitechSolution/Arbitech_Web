@@ -83,7 +83,7 @@ export default function Offers_NFT_Music() {
                     <div className="col-xs-12 col-sm-12 col-md-12">
                         <div className="pr-30-md">
                             <div className="section-heading center-holder">
-                                <h4>WhyArbiTech Soultions, for NFT Music tokenization platform development?</h4>
+                                <h4>Why Arbitech Soultions, for NFT Music tokenization platform development?</h4>
                             </div>
                             <div className="section-heading-line"></div>
 
@@ -102,7 +102,7 @@ export default function Offers_NFT_Music() {
                 <div className="row extra mt-20">
 
                     <div className="animated fadeInUp text-center bootnbtnhere">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
                             <a target="_blank" className="button-md dark-button two-btn js-scroll-trigger  ">Connect With Whatsapp</a>
                         </ReactWhatsapp>
                       

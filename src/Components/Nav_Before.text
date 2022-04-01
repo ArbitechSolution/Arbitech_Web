@@ -3,7 +3,7 @@
       <div className="container">
         <Link to="/" className='TextdecorationNFT'>
 
-          <a className="navbar-brand" href="#"> ARBITECH</a>
+          <a className="navbar-brand" href="#"> Arbitech</a>
         </Link>
         <button className="navbar-toggler navbuttonere" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 

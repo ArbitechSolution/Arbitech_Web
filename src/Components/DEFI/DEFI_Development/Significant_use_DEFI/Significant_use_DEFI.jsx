@@ -75,7 +75,7 @@ export default function Significant_use_DEFI() {
                         <div className="mt-40 intro_cnt text-left2">
                             <p className="text-left">Decentralized Finance( DeFi) solutions are nothing, but the process of merging the existing financial services into the decentralized ecosystem.  This combination of the DApps with smart contracts mechanism enables the financial system with enhanced transparency, efficiency, and security. <br /><br />
 
-                                Our highly qualified and skilled experts fromArbiTech Soultions offer a wide-range of Decentralized Finance(DeFi) solutions for your business including,</p>
+                                Our highly qualified and skilled experts from Arbitech Soultions offer a wide-range of Decentralized Finance(DeFi) solutions for your business including,</p>
                         </div>
                         <div className="intro_cnt benifit-exchange-software text-left">
                             <ul>
@@ -86,7 +86,7 @@ export default function Significant_use_DEFI() {
                             </ul>
                         </div>
                         <div className="mt-25">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -110,12 +110,12 @@ export default function Significant_use_DEFI() {
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-6">
                     <div className="section-heading left_tti">
-                        <h3> Why isArbiTech Soultions the right choice for your Decentralized Finance (DeFi) Development? </h3>
+                        <h3> Why is Arbitech Soultions the right choice for your Decentralized Finance (DeFi) Development? </h3>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="ben_w mt-40">
                         <h4><span>1</span> Peerless hands-on experience</h4>
-                        <p>As one of the earliest to arrive in the field,ArbiTech Soultions has earned peerless hands-on experience and a reputation for itself over the years, helping several clients across the globe with successful decentralized finance( DeFi) development solutions.  </p>
+                        <p>As one of the earliest to arrive in the field, Arbitech Soultions has earned peerless hands-on experience and a reputation for itself over the years, helping several clients across the globe with successful decentralized finance( DeFi) development solutions.  </p>
                     </div>
                     <div className="ben_w">
                         <h4><span>2</span> Broad Team with strong technical expertise</h4>

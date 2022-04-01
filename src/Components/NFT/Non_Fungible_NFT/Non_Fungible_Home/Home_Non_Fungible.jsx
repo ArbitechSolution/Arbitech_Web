@@ -49,7 +49,7 @@ export default function Home_Non_Fungible() {
 
                             <div className="mt-25 mb-20 text-center">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -90,7 +90,7 @@ export default function Home_Non_Fungible() {
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="ArbiTech Soultions" />
+                            <meta itemprop="name" content=" Arbitech Soultions" />
                             <img data-src="non/pic3.jpg" className="img-responsive rounded-border shadow-primary mt-20 imgNone_Fungible" alt="Non-Fungible Token" itemprop="contentUrl" src="pic3.jpg" />
                             <meta itemprop="description" content="We are industry-leading NFT development company that provide NFT services in all blockchain networks. Contact us now." />
                         </div>

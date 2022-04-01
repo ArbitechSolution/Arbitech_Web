@@ -38,7 +38,7 @@ export default function Home_BlockChain_Dev() {
                     </div>
 
                     <div className="mt-25 text-center">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -259,7 +259,7 @@ export default function Home_BlockChain_Dev() {
                                 </div>
                                 <div className="number-box-line"></div>
                                 <h4>Secure</h4>
-                                <p>Arbitech Blocktech’s solutions offer a defence-grade protection against malware and inside attacks. The security will not have any effects on the performance of the blockchain solution with data and the mainframe of the system.</p>
+                                <p> Arbitech Blocktech’s solutions offer a defence-grade protection against malware and inside attacks. The security will not have any effects on the performance of the blockchain solution with data and the mainframe of the system.</p>
                             </div>
                         </div>
                     </div>

@@ -51,11 +51,11 @@ export default function Home_Crpto_Wallet() {
 
                                 <div className="mt-20">
                                     <p className="sec-txt">Digital platforms have been facing numerous challenges in the centralized ecosystem in the past. Now, the arrival of cryptocurrencies has changed the entire outlook of digital platforms with their impressive decentralized ecosystem. Cryptocurrencies are digital coins that are sold, bought, and traded online. This innovative creation has unlocked many new development opportunities for thr digital platform. The rise of cryptocurrency is enormous but, cryptocurrencies cannot be sold or traded just like that. They need a medium that can provide smooth transactions for the users and this medium is called Crypto Wallet.</p>
-                                    <p className="sec-txt">A crypto wallet is a digital wallet that can store, sell, buy, and trade cryptocurrencies. The functioning of this medium is very similar to physical wallets, but the only exception being that the crypto wallet operates in the digital form. Crypto wallets exist in different versions such as mobile version, web version, desktop version, etc. They can store numerous cryptocurrencies where the quantity of the storing capacity is based on the characteristics of the crypto wallets, thus, it varies for every crypto wallet. There are numerous crypto wallets with distinctive features that set them apart from each other. AtArbiTech Soultions, we provide assistance in developing your own crypto wallet similar to your desired crypto wallets. </p>
+                                    <p className="sec-txt">A crypto wallet is a digital wallet that can store, sell, buy, and trade cryptocurrencies. The functioning of this medium is very similar to physical wallets, but the only exception being that the crypto wallet operates in the digital form. Crypto wallets exist in different versions such as mobile version, web version, desktop version, etc. They can store numerous cryptocurrencies where the quantity of the storing capacity is based on the characteristics of the crypto wallets, thus, it varies for every crypto wallet. There are numerous crypto wallets with distinctive features that set them apart from each other. At Arbitech Soultions, we provide assistance in developing your own crypto wallet similar to your desired crypto wallets. </p>
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -96,7 +96,7 @@ export default function Home_Crpto_Wallet() {
                                 <p className="sub_hed21 text-left"><strong>Trust  Wallet App</strong></p>
                                 <p className="sec-txt text-left">Trust wallet app is a mobile decentralized wallet application. This mobile wallet is available on android and iOS platforms and has the capability to store numerous amounts of different types of cryptocurrencies.</p>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -227,9 +227,9 @@ export default function Home_Crpto_Wallet() {
                             <div className="full-width mt-15-xs mt-20 video-video-box">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img data-src="img_321.png" className="mb-10 rounded-border shadow-primary img-responsive img_mg_top" alt="Trust Wallet" itemprop="contentUrl" src="img_321.png" />
-                                    <meta itemprop="description" content="Trust wallet is a type of crypto wallet used to store your cryptocurrencies. Get your own crypto wallet like trust wallet from Arbitech block tech." />
+                                    <meta itemprop="description" content="Trust wallet is a type of crypto wallet used to store your cryptocurrencies. Get your own crypto wallet like trust wallet from  Arbitech block tech." />
                                 </div>
 
                             </div>
@@ -249,7 +249,7 @@ export default function Home_Crpto_Wallet() {
                     <div className="section-heading center-holder">
                         <h3>Crypto Wallet Development Methods</h3>
                         <div className="section-heading-line"></div>
-                        <p className="para">AtArbiTech Soultions, we follow two major crypto wallet development methods, like whitelabel crypto wallet development and crypto wallet clone script development method. </p>
+                        <p className="para">At Arbitech Soultions, we follow two major crypto wallet development methods, like whitelabel crypto wallet development and crypto wallet clone script development method. </p>
 
                     </div>
                     <div className="row ">

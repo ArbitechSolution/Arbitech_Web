@@ -26,11 +26,11 @@ export const Homepage = () => {
                 <div className="section-heading center-holder">
                     <h2>Comprehensive Blockchain Development Company</h2>
                     <div className="section-heading-line"></div>
-                    <p>ArbiTech Solutions, as a leader in blockchain technology, has enriched clients around the world with innovative solutions to the challenges they face. Our services are just what the doctor ordered for businesses spanning a large scale of sectors. We provide highly tailored blockchain development solutions across numerous industries. Our decentralized and automated process has saved our clients millions of dollars in operating costs and manual labor. Our strategically designed offerings such as ICO, Smart contract, smart wallets, Hyperledger, and other blockchain-based solutions can help you take the next step in your business growth. Explore a world of possibilities with our services designed to give you the platform you need to succeed. </p>
+                    <p> Arbitech Solutions, as a leader in blockchain technology, has enriched clients around the world with innovative solutions to the challenges they face. Our services are just what the doctor ordered for businesses spanning a large scale of sectors. We provide highly tailored blockchain development solutions across numerous industries. Our decentralized and automated process has saved our clients millions of dollars in operating costs and manual labor. Our strategically designed offerings such as ICO, Smart contract, smart wallets, Hyperledger, and other blockchain-based solutions can help you take the next step in your business growth. Explore a world of possibilities with our services designed to give you the platform you need to succeed. </p>
                     <p>Our clientele is highly diverse and boasts of everything from small startups to some of the largest conglomerates in the market space. Enabled by a team of in-house specialists including expert developers, marketing professionals, business analysts, SEO analysts, and more, we have the capability to take on any project and deliver a successful result.</p>
                 </div>
                 <div className="mt-25 text-center">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

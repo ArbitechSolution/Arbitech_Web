@@ -84,7 +84,7 @@ export default function Home_MLM_Forsage() {
                                 <p>Our unique Forsage MLM clone software is built using the best technology and talent. The combination of the two gives you a competitive advantage and helps you scale in no time. Our products are highly customizable, allowing you to set fees and commissions at your discretion.</p>
                             </div>
                             <div className="mt-25">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -95,7 +95,7 @@ export default function Home_MLM_Forsage() {
                         <div className="col-xs-12 col-sm-12 col-md-6 text-center ">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="ArbiTech Soultions" />
+                                <meta itemprop="name" content=" Arbitech Soultions" />
                                 <img data-src="Forsage-Clone-Script.jpg" className="rounded-border shadow-primary img-responsive imgSeconddivhere" alt="Forsage Clone Script" itemprop="contentUrl" src="Forsage-Clone-Script.jpg" />
                                 <meta itemprop="description" content="Forsage Clone Script is a whitelable MLM product. with which you can launch and manage a decentralized MLM company. Get it now." />
                             </div>

@@ -18,7 +18,7 @@ export default function Navbarhere() {
             <div className='First_Col'>
               <img src='LOGO.png' width="50px" className='me-3' />
               <div className='seond_col'>
-              <span className="name_first">ARBITECH</span>  <br />
+              <span className="name_first">Arbitech</span>  <br />
               <small className="name_second">s o l u t i o n s </small>
 
             </div>

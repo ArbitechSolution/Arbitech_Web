@@ -36,10 +36,10 @@ export default function Home_Decentralized_Exchange() {
                 <p>The most ideal characteristic of the revolutionary blockchain technology is its decentralized nature. Decentralization is the key that paves the way for an open economy and achieving peer-to-peer transactions without involvement from third parties. As decentralized exchanges unlock the full potential of blockchain, and as more and more entrepreneurs and traders realize this, more and more decentralized exchanges are looming into the market and changing the landscape of exchanges. </p>
 
 
-                <p>As a pioneer decentralized exchange development company,ArbiTech Soultions comprises a team of blockchain experts with long-standing experience and a long track record of helping several clients across the globe launch their decentralized exchange platform (DEX) successfully. Our strong expertise, and in-depth knowledge with blockchain technology combined, we assure highly-secure, stable, scalable, and reliable decentralized exchange development services that will help your business move forward in leaps and bounds. We intend to understand your individual needs and cater to them as effectively as possible. </p>
+                <p>As a pioneer decentralized exchange development company, Arbitech Soultions comprises a team of blockchain experts with long-standing experience and a long track record of helping several clients across the globe launch their decentralized exchange platform (DEX) successfully. Our strong expertise, and in-depth knowledge with blockchain technology combined, we assure highly-secure, stable, scalable, and reliable decentralized exchange development services that will help your business move forward in leaps and bounds. We intend to understand your individual needs and cater to them as effectively as possible. </p>
               </div>
               <div className="mt-25">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                   <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -50,7 +50,7 @@ export default function Home_Decentralized_Exchange() {
             <div className="col-xs-12 col-sm-12 col-md-5 text-center">
 
               <div itemscope="" itemtype="https://schema.org/ImageObject">
-                <meta itemprop="name" content="ArbiTech Soultions" />
+                <meta itemprop="name" content=" Arbitech Soultions" />
                 <img data-src="secure-ded.jpg" className="mt-10 img-responsive" alt="Decentralized Exchange Platform Development Company" itemprop="contentUrl" src="secure-ded.jpg" />
                 <meta itemprop="description" content="Decentralized Cryptocurrency Exchange Development Company - We offer this Dex platform you to experience the best trading on P2P Exchange." />
               </div>
@@ -101,7 +101,7 @@ export default function Home_Decentralized_Exchange() {
             <p className="sub_tit">Make headway into the disruptive decentralized market by launching your own white label dex exchange platform with ease, with the help of our industry best expert team. </p>
           </div>
           <div className="mt-25 text-center">
-            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
               <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -397,11 +397,11 @@ export default function Home_Decentralized_Exchange() {
           <div className="row">
             <div className="col-xs-12 col-sm-12 col-md-6">
               <div className="section-heading left_tti">
-                <h3>Why ChooseArbiTech Soultions For Your Decentralized Exchange Development</h3>
+                <h3>Why Choose Arbitech Soultions For Your Decentralized Exchange Development</h3>
                 <div className="section-heading-line"></div>
               </div>
               <div className="mt-40 intro_cnt">
-                <p>ArbiTech Soultions is one of the earliest to arrive in the cryptocurrency and blockchain development sphere, with an experience that is second to none. Our solid expertise assures decentralized exchange software development solutions that are up to par and ticks all the right boxes to take your business to the next level. Our proficient blockchain specialists possess the ability to offer decentralized exchange development catered to any size of businesses. The following attributes make us the ideal choice for your decentralized exchange development,</p>
+                <p> Arbitech Soultions is one of the earliest to arrive in the cryptocurrency and blockchain development sphere, with an experience that is second to none. Our solid expertise assures decentralized exchange software development solutions that are up to par and ticks all the right boxes to take your business to the next level. Our proficient blockchain specialists possess the ability to offer decentralized exchange development catered to any size of businesses. The following attributes make us the ideal choice for your decentralized exchange development,</p>
               </div>
               <div className="intro_cnt benifit-exchange-software text-left">
                 <ul>
@@ -414,7 +414,7 @@ export default function Home_Decentralized_Exchange() {
                 </ul>
               </div>
               <div className="mt-25">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                   <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

@@ -14,7 +14,7 @@ export default function Secure_ICo() {
 
             <div className="col-xs-12 col-sm-12 col-md-6 mt-10 pull-left mt-5">
               <div itemscope="" itemtype="https://schema.org/ImageObject" />
-              <meta itemprop="name" content="ArbiTech Soultions" />
+              <meta itemprop="name" content=" Arbitech Soultions" />
               <img src="secure121.jpg" className="img-responsive" alt="ICO Development" itemprop="contentUrl" />
               <meta itemprop="description" content="We are a leading ICO development company who provide ICO development and ICO marketing services. Get it now" />
             </div>
@@ -200,7 +200,7 @@ export default function Secure_ICo() {
       <div id="sto-marketing" className="section-block">
                 <div className="container">
                     <div className="section-heading text-center">
-                        <h2>Why chooseArbiTech Soultions as your ICO service provider? </h2>
+                        <h2>Why choose Arbitech Soultions as your ICO service provider? </h2>
                         <div className="section-heading-line"></div>
                         <p>We are a fitting choice for your ICO development, as we have some of the most experienced developers working with us. Our expertise will help provide solutions that perfectly blend with the market requirements and drive potential customers towards your project. Here is a list of reasons that makes us the best ICO service provider and prominent over our competitors. </p>
                     </div>

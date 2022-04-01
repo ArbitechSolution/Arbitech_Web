@@ -103,7 +103,7 @@ export default function Blockchain() {
                     </div>
                 </div>
                 <div className="mt-25 text-center">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

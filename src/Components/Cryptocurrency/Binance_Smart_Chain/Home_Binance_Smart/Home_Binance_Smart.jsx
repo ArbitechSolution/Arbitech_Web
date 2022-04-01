@@ -55,7 +55,7 @@ export default function Home_Binance_Smart() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -94,9 +94,9 @@ export default function Home_Binance_Smart() {
                             <div className="col-lg-6 col-md-12 col-xs-12 col-sm-12 text-center mt-5">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img data-src="handshake.jpg" className="img-responsive" alt="Binance Smart Chain Development" itemprop="contentUrl" src="handshake.jpg" />
-                                    <meta itemprop="description" content="Binance Smart Chain improved the speed of transactions and paved the way for investors. Get the best Binance Smart Chain development service at Arbitech block tech." />
+                                    <meta itemprop="description" content="Binance Smart Chain improved the speed of transactions and paved the way for investors. Get the best Binance Smart Chain development service at  Arbitech block tech." />
                                 </div>
 
                             </div>
@@ -152,7 +152,7 @@ export default function Home_Binance_Smart() {
                         </div>
                     </div>
                     <div className="mt-30 text-center mt-5">
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -279,7 +279,7 @@ export default function Home_Binance_Smart() {
                 <div className="container">
                     <div className="row">
                         <div className="section-heading text-center">
-                            <h2>Why chooseArbiTech Soultions for Binance Smart Chain Development? </h2></div>
+                            <h2>Why choose Arbitech Soultions for Binance Smart Chain Development? </h2></div>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row">
@@ -288,12 +288,12 @@ export default function Home_Binance_Smart() {
 
 
                                 <div className="mt-20">
-                                    <p className="sec-txt">ArbiTech Soultions is considered the best Binance Smart Chain development company globally, with professional experience developing BSC platforms and other blockchain projects. Binance Smart Chain is the future for upcoming generations to take their business to the next level by making their investments profitable. Binance Smart Chain, Our Binance Smart Chain Development services, offer the best guidance for investors in developing world-class DApps and DeFi projects using the latest cutting-edge technology at an affordable price.
+                                    <p className="sec-txt"> Arbitech Soultions is considered the best Binance Smart Chain development company globally, with professional experience developing BSC platforms and other blockchain projects. Binance Smart Chain is the future for upcoming generations to take their business to the next level by making their investments profitable. Binance Smart Chain, Our Binance Smart Chain Development services, offer the best guidance for investors in developing world-class DApps and DeFi projects using the latest cutting-edge technology at an affordable price.
                                     </p>
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

@@ -39,7 +39,7 @@ export default function Home_OpenSea() {
                                 <h2> Revolutionize Your Business Entity</h2></div>
                             <div className="section-heading-line"></div>
                             <div className="text-center mt-20">
-                                <p>The concept of cryptocurrency in the business world has paved the way for many financial innovations that provide assistance to the business models to increase their profit. Non-fungible tokens are one of those amazing financial innovations. We atArbiTech Soultions are pioneers in the field of non-fungible tokens. We help business models to get involved in the innovative field of NFT and upgrade their business value. We are always updated with the current trend in the crypto world. </p>
+                                <p>The concept of cryptocurrency in the business world has paved the way for many financial innovations that provide assistance to the business models to increase their profit. Non-fungible tokens are one of those amazing financial innovations. We at Arbitech Soultions are pioneers in the field of non-fungible tokens. We help business models to get involved in the innovative field of NFT and upgrade their business value. We are always updated with the current trend in the crypto world. </p>
                                 <p className="mt-10"> At the present time, developing a marketplace with reference to an existing marketplace is a quick and efficient way of deploying it into the digital marketing world. Our NFT development company helps the business models to develop their NFT marketplace similar to the existing marketplaces. We develop NFT marketplaces like OpenSea, Rarible, SuperRare, etc., for our customers.</p>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ export default function Home_OpenSea() {
                     </div>
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-20">
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="ArbiTech Soultions" />
+                            <meta itemprop="name" content=" Arbitech Soultions" />
                             <img data-src="nft.jpg" className="img-responsive rounded-border shadow-primary opensea_imghere" alt="Opensea Clone Script" itemprop="contentUrl" src="nft.jpg" />
                             <meta itemprop="description" content="opensea clone NFT are traded in a decentralized exchange platform. that accept special types of NFTs, like only digital art collectibles, only sports assets, etc. Get it now." />
                         </div>
@@ -81,7 +81,7 @@ export default function Home_OpenSea() {
                     </div>
                 </div>
                 <div className="mt-25 mb-20 text-center ">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

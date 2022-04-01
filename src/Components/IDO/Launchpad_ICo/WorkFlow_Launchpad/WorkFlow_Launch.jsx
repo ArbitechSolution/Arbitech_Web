@@ -128,7 +128,7 @@ export default function WorkFlow_Launch() {
 <div id="sto-marketing-research" className="section-block-grey">
         <div className="container">
             <div className="section-heading center-holder">
-                <h3>ArbiTech Soultions Is The Perfect Fit For Developing Your IDO Launchpad</h3>
+                <h3> Arbitech Soultions Is The Perfect Fit For Developing Your IDO Launchpad</h3>
                 <div className="section-heading-line"></div>
                 <p>We are a well-reputed cryptocurrency development company where we have a wide range of experience in developing IDO launchpads for our clients in a very sophisticated manner.</p>
                

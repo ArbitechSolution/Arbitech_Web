@@ -39,7 +39,7 @@ export default function Home_Consulting() {
                     <div className="section-heading center-holder">
                         <h2>Accomplished ICO Consultation Services Company </h2>
                         <div className="section-heading-line"></div>
-                        <p>ICO is the hottest fundraising mechanism to date.ArbiTech Soultions, being one of the earliest to arrive in the realm of cryptocurrency and blockchain development, has earned a reputation for itself by helping several clients across the globe launch their ICO projects successfully. We have a team of market experts with solid experience who has the ability to work with any size of business, from startups to large enterprises. We offer comprehensive solutions from ICO consultation, development, marketing and launch helping clients bring their business vision to life by raising enormous funds. We have extended our solutions across various industries such as healthcare, supply chain, payment industry, and many more, and transformed them with our cutting-edge technology solutions. Our large, globally expanded client base and their ICO success stories are what makes us stand out from the crowd. </p>
+                        <p>ICO is the hottest fundraising mechanism to date. Arbitech Soultions, being one of the earliest to arrive in the realm of cryptocurrency and blockchain development, has earned a reputation for itself by helping several clients across the globe launch their ICO projects successfully. We have a team of market experts with solid experience who has the ability to work with any size of business, from startups to large enterprises. We offer comprehensive solutions from ICO consultation, development, marketing and launch helping clients bring their business vision to life by raising enormous funds. We have extended our solutions across various industries such as healthcare, supply chain, payment industry, and many more, and transformed them with our cutting-edge technology solutions. Our large, globally expanded client base and their ICO success stories are what makes us stand out from the crowd. </p>
                     </div>
 
                 </div>
@@ -82,7 +82,7 @@ export default function Home_Consulting() {
                             <div className="full-width mt-15-xs video-video-box">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img src="essential.png" className="img-responsive imgeshere" width="100%" alt="ICO Consulting" itemprop="contentUrl" />
                                     <meta itemprop="description" content="ICO Consultation Services formulate an actionable marketing structure to implement powerful ICO marketing strategies and constantly review them to further improve for better results. Contact us now." />
                                 </div>

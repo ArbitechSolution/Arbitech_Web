@@ -41,7 +41,7 @@ export default function Home_DEFI_Market() {
 
 
                                 <div className="mt-20 text-left">
-                                    <p className="sec-txt">ArbiTech Soultions is a premier DeFi Marketing Agency in town striving to establish a strong foothold for businesses in respective niches. We are an agency packed with experts from various domains whose expertise knows no limits. By employing tried and tested marketing strategies, our team creates a positive outreach for your business and helps it reach its prospective investors.  </p>
+                                    <p className="sec-txt"> Arbitech Soultions is a premier DeFi Marketing Agency in town striving to establish a strong foothold for businesses in respective niches. We are an agency packed with experts from various domains whose expertise knows no limits. By employing tried and tested marketing strategies, our team creates a positive outreach for your business and helps it reach its prospective investors.  </p>
                                     <p>As part of our DeFi Product Marketing, we offer both DeFi Token Listing Services and DeFi Coin Marketing Services by leveraging the right marketing tools. From content marketing to paid advertising, we make the best use of every marketing service out there. </p>
                                     <p>We research each project and assign content strategists, business analysts, SEO experts, PPC campaign managers, community managers, and more as you get on board with us. The notable point here is that our services can be availed at an unbeatable price, coming as an icing on the cake. Reach out to us today to get started on your incredible business journey promptly!</p>
 
@@ -51,7 +51,7 @@ export default function Home_DEFI_Market() {
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-6 mt-5">
                             <div itemscope="" itemtype="https://schema.org/ImageObject" className="full-width mt-15-xs welcome-inro" />
-                            <meta itemprop="name" content="ArbiTech Soultions" />
+                            <meta itemprop="name" content=" Arbitech Soultions" />
                             <img data-src="company-market.jpg" className="img-responsive mb-10 rounded-border" alt="DeFi Marketing" itemprop="contentUrl" src="company-market.jpg" />
                             <meta itemprop="description" content="DeFi marketing services comprise the sharing of press releases, social media promotion, etc. to reach your target audience faster. Get it now" />
                         </div>
@@ -84,7 +84,7 @@ export default function Home_DEFI_Market() {
                                 <p>Contact us right away if you wish to join the big leagues. Avail the services of one of the leading DeFi marketing companies that assist your DeFi coins to reach your audience far and wide!</p>
                             </div>
                             <div className="mt-30">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

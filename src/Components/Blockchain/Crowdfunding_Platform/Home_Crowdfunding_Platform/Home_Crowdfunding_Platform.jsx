@@ -13,7 +13,7 @@ export default function Home_Crowdfunding_Platform() {
                         <div className="row">
                             <div className="col-xs-12 col-md-6 col-sm-6">
                                 <h1 className="animated fadeInDown">Crowdfunding Platform Development</h1>
-                                <p className="animated fadeInDown">Raise funds in the most streamlined and efficient manner possible withArbiTech Soultions’s expert crowdfunding platform development services. We provide comprehensive solutions at a cost-effective price.</p>
+                                <p className="animated fadeInDown">Raise funds in the most streamlined and efficient manner possible with Arbitech Soultions’s expert crowdfunding platform development services. We provide comprehensive solutions at a cost-effective price.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
                                    

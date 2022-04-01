@@ -78,7 +78,7 @@ export default function Exchange_Pancake() {
                         <div className="col-md-6">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="ArbiTech Soultions" />
+                                <meta itemprop="name" content=" Arbitech Soultions" />
                                 <img data-src="clone.png" className="mb-10 rounded-border shadow-primary img-responsive workhere " alt="PancakeSwap Clone Script" itemprop="contentUrl" src="clone.png" width="100%" />
                                 <meta itemprop="description" content="PancakeSwap Clone is a DeFi based Decentralized Exchange Platform built using Binance smart chain. Contact us now." />
                             </div>
@@ -304,7 +304,7 @@ export default function Exchange_Pancake() {
                     <div className="row extra mt-20">
 
                         <div className="animated fadeInUp text-center">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

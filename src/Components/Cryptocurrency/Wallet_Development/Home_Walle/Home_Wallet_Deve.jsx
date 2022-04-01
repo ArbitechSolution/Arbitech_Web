@@ -53,11 +53,11 @@ export default function Home_Wallet_Deve() {
                         <div className="row align-items-center md-flex">
                             <div className="col-md-7 text-left">
                                 <p>In the physical world, most of us use wallets where we store cash to carry them around efficiently and keep them safe from theft. A cryptocurrency wallet serves a similar purpose in the cryptosphere. With the volume and adoption of cryptocurrencies ever-growing and the demand intensifying, a multiple cryptocurrency wallet has become an absolute necessity for users. A cryptocurrency wallet enables seamless and secure transactions and efficient storage of multiple cryptocurrencies. To be precise, it is not just a storage space, but more than that with a key. It monitors the balance of the users and records transactions and compiles many other purposes. Cryptocurrency exchanges that come along with an integrated secure, interactive, and user-friendly wallet have more competitive advantages than the ones that don't.</p>
-                                <p>As a pioneer cryptocurrency and blockchain development company,ArbiTech Soultions comprises a broad team of  highly qualified experts with an experience that is second to none. Our developers possess the ability to offer any type of cryptocurrency wallet development for startups to large enterprises, with utmost importance to stability and security. We are committed to extensive research, optimization and providing you the best solutions possible and we extend support for both web and mobile wallets, to help you with an efficient and effective business experience, and step up your game in the competitive market.</p>
+                                <p>As a pioneer cryptocurrency and blockchain development company, Arbitech Soultions comprises a broad team of  highly qualified experts with an experience that is second to none. Our developers possess the ability to offer any type of cryptocurrency wallet development for startups to large enterprises, with utmost importance to stability and security. We are committed to extensive research, optimization and providing you the best solutions possible and we extend support for both web and mobile wallets, to help you with an efficient and effective business experience, and step up your game in the competitive market.</p>
                             </div>
                             <div className="col-md-5">
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img data-src="wallet-mac.png" className="img-responsive rounded-border" alt="Cryptocurrency Wallet Development" itemprop="contentUrl" src="wallet-mac.png" />
                                     <meta itemprop="description" content="Cryptocurrency wallet development services help secure and safeguard your crypto assets. Get it now" />
                                 </div>
@@ -66,7 +66,7 @@ export default function Home_Wallet_Deve() {
                         </div>
                         <div className="row mt-5">
                             <div className="mt-25 text-center">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

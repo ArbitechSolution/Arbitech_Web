@@ -47,7 +47,7 @@ export default function Home_Launch() {
                         <div className="col-md-6 col-lg-6 col-sm-6">
                             <div className="">
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img src="ido-launchpad-development-1.png" className="img-responsive" alt="IDO Launchpad Development" itemprop="contentUrl" />
                                     <meta itemprop="description" content="Get your IDO launchpad from our crypto development company with exceptional features." />
                                 </div>
@@ -70,7 +70,7 @@ export default function Home_Launch() {
 
 
                         <div className="animated fadeInUp text-center mt-30">
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

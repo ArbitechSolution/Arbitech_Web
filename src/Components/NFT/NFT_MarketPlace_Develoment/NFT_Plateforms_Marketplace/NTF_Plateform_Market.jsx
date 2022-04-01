@@ -65,7 +65,7 @@ export default function NTF_Plateform_Market() {
                     <div className="section-heading text-center">
                         <h3>Our Expertise In NFT Marketplace Development</h3>
                         <div className="section-heading-line"></div>
-                        <p>ArbiTech Soultions offers meticulous services that will give you a clear idea about our NFT marketplace development services.</p>
+                        <p> Arbitech Soultions offers meticulous services that will give you a clear idea about our NFT marketplace development services.</p>
                     </div>
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-justify mt-20">
 
@@ -86,7 +86,7 @@ export default function NTF_Plateform_Market() {
 
                 </div>
                 <div className="mt-25 text-center btnwhatsandconntechhere">
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg mt-4" >
+                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
                         <a target="_blank" className="button-md dark-button two-btn">Connect With Whatsapp</a>
                     </ReactWhatsapp>
                     </div>

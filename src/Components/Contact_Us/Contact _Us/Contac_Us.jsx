@@ -45,7 +45,7 @@ export default function Contac_Us() {
                                             <div className="center-holder col-md-2 col-sm-2 col-xs-4"><i className="fa fa-envelope-open"></i></div>
                                             <div className="col-md-12 col-sm-12 col-xs-12">
                                                 <h4>Message</h4>
-                                                <p><a href="mailto:info@ARBITechSolutions.com">info@ARBITechSolutions.com</a></p>
+                                                <p><a href="mailto:info@ArbitechSolutions.com">info@ArbitechSolutions.com</a></p>
                                             </div>
                                         </div>
                                     </div>

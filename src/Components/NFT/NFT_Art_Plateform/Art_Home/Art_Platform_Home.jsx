@@ -35,11 +35,11 @@ export default function Art_Platform_Home() {
               <div className="mt-20">
                 <p className="sec-txt">The curiosity of NFT for Art is gradually shaping the future of artists to explore the benefits of making profits using their creative paintings. The world is driven by blockchain technology that expanded opportunities for various business firms to generate unimaginable profits. The rise of non-fungible tokens (NFTs) gradually ruled the global market for holding unique characteristics. The NFT art tokenization concept became more popular among global artists to tokenize their innovative artwork into NFTs for sale and earn profits. The investment towards the NFT art platform has benefitted investors with high returns to progress above the competitors. </p>
 
-                <p className="sec-txt">The boom in the art industry has impacted many artists with positive vibes to tokenize their painting works.  This allows potential buyers to purchase them for a fixed price or bid an auction. Many investors have widely accepted the digital transition to make their business success a reality. The NFT for art has become a billion-dollar revenue stream among global users after its launch in the market.ArbiTech Soultions provides world-class services like auditing, due diligence, and legal services for verifying the process of your token and assigning desired value for the token. We also offer a crowdfunding art tokenization platform for investors to tokenize their gallery to achieve liquidation, raise funds for future benefits and purchases.  </p>
+                <p className="sec-txt">The boom in the art industry has impacted many artists with positive vibes to tokenize their painting works.  This allows potential buyers to purchase them for a fixed price or bid an auction. Many investors have widely accepted the digital transition to make their business success a reality. The NFT for art has become a billion-dollar revenue stream among global users after its launch in the market. Arbitech Soultions provides world-class services like auditing, due diligence, and legal services for verifying the process of your token and assigning desired value for the token. We also offer a crowdfunding art tokenization platform for investors to tokenize their gallery to achieve liquidation, raise funds for future benefits and purchases.  </p>
               </div>
               <div className="mt-30">
 
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
                   <a target="_blank" className="button-md dark-button two-btn btnwhatsapp">Connect With Whatsapp</a>
                 </ReactWhatsapp>
               </div>
@@ -58,7 +58,7 @@ export default function Art_Platform_Home() {
             <div className="full-width mt-15-xs video-video-box">
 
               <div itemscope="" itemtype="https://schema.org/ImageObject">
-                <meta itemprop="name" content="ArbiTech Soultions" />
+                <meta itemprop="name" content=" Arbitech Soultions" />
                 <img src="img_1.png" className="img-responsive mb-10 rounded-border shadow-primary2" width="100%" alt="NFT Art" itemprop="contentUrl" />
                 <meta itemprop="description" content="NFT art is a new concept to categorize digital artworks that allow artists to monetize their work. It offers royalties to the artists based on the painting sold in the trade. Get it now." />
               </div>

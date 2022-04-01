@@ -21,7 +21,7 @@ export default function Footerhere() {
                 <div className="col-md-6 text-right foot-right">
                   <ul className="social_links">
                   
-                  <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="bgherefooter" >
+                  <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="bgherefooter" >
                     <li>
                     
 
@@ -37,7 +37,7 @@ export default function Footerhere() {
                 </div>
             </div>
             <div className="footer-bar text-center">
-                <p><span className="primary-color"><a href="#">ARBITECH Solutions</a></span> © 2021. All Rights Reserved.</p>
+                <p><span className="primary-color"><a href="#"> Arbitech Solutions</a></span> © 2021. All Rights Reserved.</p>
                
             </div>
         </div>

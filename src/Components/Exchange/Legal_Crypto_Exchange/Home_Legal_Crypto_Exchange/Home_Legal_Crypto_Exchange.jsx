@@ -15,7 +15,7 @@ export default function Home_Legal_Crypto_Exchange() {
                         <div className="row">
                             <div className="col-xs-12 col-md-7 col-sm-7">
                                 <div className="animated fadeInDown banner_tit"><h1>Cryptocurrency Exchange Legal Solutions</h1></div>
-                                <p className="animated fadeInDown">ArbiTech Soultions is the premier provider of cryptocurrency exchange legal services for clients around the world. Armed with extensive experience and insider knowledge of the industry, we provide comprehensive legal solutions at a very nominal cost.</p>
+                                <p className="animated fadeInDown"> Arbitech Soultions is the premier provider of cryptocurrency exchange legal services for clients around the world. Armed with extensive experience and insider knowledge of the industry, we provide comprehensive legal solutions at a very nominal cost.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Get Quote</a>
@@ -82,12 +82,12 @@ export default function Home_Legal_Crypto_Exchange() {
                                 <div className="section-heading-line"></div>
                             </div>
                             <div className="mt-40 intro_cnt text-left">
-                                <p className='p_Safe_Mood'>AtArbiTech Soultions, we provide tailor-made cryptocurrency exchange legal solutions that will help your exchange thrive and make a mark in the industry. Our solutions can be of immense use to all including small startups and established exchanges looking to expand their businesses. </p>
+                                <p className='p_Safe_Mood'>At Arbitech Soultions, we provide tailor-made cryptocurrency exchange legal solutions that will help your exchange thrive and make a mark in the industry. Our solutions can be of immense use to all including small startups and established exchanges looking to expand their businesses. </p>
                                 <p className='p_Safe_Mood'>As a full-fledged cryptocurrency exchange developer ourselves, we have the added advantage of knowing the industry inside out. From client expectations to the legality of the operation, our experts have the necessary knowledge and experience. We will help you traverse the legal landscape of the cryptocurrency exchange process from ideation to launch and beyond. As a globally centric company, we are well versed in the legal requirements around the world and cater to a growing list of global clients. </p>
                             </div>
                             <div className="mt-25">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -162,7 +162,7 @@ export default function Home_Legal_Crypto_Exchange() {
                                     <div className="timeline-icon"><img src="volatility.svg" className="block-img" /></div>
                                     <div className="timeline-content">
                                         <h4 className="timeline-tit">Legal Cryptocurrency Exchange</h4>
-                                        <p className="timeline-txt">If you’re looking to establish your very own cryptocurrency exchange,ArbiTech Soultions is the place to go. We can help you through the process of creating your very own exchange complete with all the necessary legal requirements to ensure its legality and success.</p>
+                                        <p className="timeline-txt">If you’re looking to establish your very own cryptocurrency exchange, Arbitech Soultions is the place to go. We can help you through the process of creating your very own exchange complete with all the necessary legal requirements to ensure its legality and success.</p>
                                     </div>
                                 </div>
                             </div>
@@ -197,7 +197,7 @@ export default function Home_Legal_Crypto_Exchange() {
                                     <div className="timeline-icon"><img src="integration.svg" className="block-img" /></div>
                                     <div className="timeline-content">
                                         <h4 className="timeline-tit">Legal STO Development</h4>
-                                        <p className="timeline-txt">Looking to get your Security Token Offering (STO) underway? By partnering withArbiTech Soultions, you can ensure a successful journey that is completely compliant with the strictest regulatory requirements set by the world’s foremost authorities. There is no better way to market your STO than with security and reliability. </p>
+                                        <p className="timeline-txt">Looking to get your Security Token Offering (STO) underway? By partnering with Arbitech Soultions, you can ensure a successful journey that is completely compliant with the strictest regulatory requirements set by the world’s foremost authorities. There is no better way to market your STO than with security and reliability. </p>
                                     </div>
                                 </div>
                             </div>
@@ -227,13 +227,13 @@ export default function Home_Legal_Crypto_Exchange() {
                                 <p className='p_Safe_Mood'>As a relatively new form of commodity exchange in the business world of today, cryptocurrencies are in a unique position in comparison with assets such as stocks, gold, and real estate.</p>
                                 <p className='p_Safe_Mood'>Most of the world is still trying to find the best possible way to regulate cryptocurrencies. As the market continues to grow at a rapid pace, different governments around the world are following different approaches to regulation. While some countries are keen on establishing clear cut legal frameworks that will enable them to control the cryptocurrency market more effectively, other countries are trying to forbid the digital asset and related activities completely. </p>
                                 <p className='p_Safe_Mood'>With no universal guidelines on legality, the regulations differ from country to country and region to region. This puts pressure on newcomers, such as yourself, in a precarious situation without expert legal guidance.</p>
-                                <p className='p_Safe_Mood'>AtArbiTech Soultions, we can help guide you through this uncertain landscape and help you launch a cryptocurrency exchange that is completely legal under all circumstances and scrutiny. We know the “dos and don'ts” of the industry and help you avoid legal trouble with our expertise.</p>
+                                <p className='p_Safe_Mood'>At Arbitech Soultions, we can help guide you through this uncertain landscape and help you launch a cryptocurrency exchange that is completely legal under all circumstances and scrutiny. We know the “dos and don'ts” of the industry and help you avoid legal trouble with our expertise.</p>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-5 col-md-5">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="ArbiTech Soultions" />
+                                <meta itemprop="name" content=" Arbitech Soultions" />
                                 <img data-src="legal-status.png" className="mt-10 img-responsiveImg_Height_here" alt="Legal Cryptocurrency Exchange" itemprop="contentUrl" src="legal-status.png" />
                                 <meta itemprop="description" content="As a Cryptocurrency Exchange Software Development Company. We provide you with the best crypto exchange software services." />
                             </div>
@@ -292,7 +292,7 @@ export default function Home_Legal_Crypto_Exchange() {
 
                                 <h4 className='text-white'>Cryptocurrency Consulting Can Help</h4>
                                 <p className='p_Safe_Mood'>As one can see, the legal guidelines for Cryptocurrency exchanges are far from cut and dried in the global market. As an investor looking to make a mark with your cryptocurrency exchange, the process can be quite daunting and the wrong step could mean failure and even worse, legal repercussions.</p>
-                                <p className='p_Safe_Mood'>We help clients around the world with our cryptocurrency exchange legal services every day to overcome the hurdles they face. By partnering withArbiTech Soultions, you get the backing of an industry expert who specializes in providing highly compliant legal advice and helps guide you from start to finish. We will be always there to help you with your best interests in mind.</p>
+                                <p className='p_Safe_Mood'>We help clients around the world with our cryptocurrency exchange legal services every day to overcome the hurdles they face. By partnering with Arbitech Soultions, you get the backing of an industry expert who specializes in providing highly compliant legal advice and helps guide you from start to finish. We will be always there to help you with your best interests in mind.</p>
 
                             </div>
                         </div>
@@ -323,7 +323,7 @@ export default function Home_Legal_Crypto_Exchange() {
                                 </div>
                             </div>
                             <div className="mt-25">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -391,11 +391,11 @@ export default function Home_Legal_Crypto_Exchange() {
                         <h2>CRYPTOCURRENCY EXCHANGE LICENSE</h2>
                         <div className="section-heading-line"></div>
                         <p>Getting a cryptocurrency exchange license for your venture is a lot harder than it sounds. The process involves an intimate knowledge of the field along with a team of experienced professionals who can help guide you through, one step at a time.  </p>
-                        <p>In this ever-changing business environment with varying degrees of regulatory requirements,ArbiTech Soultions is here to help guide you through the process of obtaining your own cryptocurrency exchange license in the most efficient and streamlined way possible. We will take care of everything, so you can focus on running your business.</p>
+                        <p>In this ever-changing business environment with varying degrees of regulatory requirements, Arbitech Soultions is here to help guide you through the process of obtaining your own cryptocurrency exchange license in the most efficient and streamlined way possible. We will take care of everything, so you can focus on running your business.</p>
 
                         <div className="mt-25">
 
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

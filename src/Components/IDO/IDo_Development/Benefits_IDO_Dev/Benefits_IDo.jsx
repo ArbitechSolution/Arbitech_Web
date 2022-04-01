@@ -69,7 +69,7 @@ export default function Benefits_IDo() {
 
 
             <div className="mt-25 text-center mt-5" >
-            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -156,12 +156,12 @@ export default function Benefits_IDo() {
                     </div>
                     <div className="mt-40 intro_cnt">
                         <p>Marketing is the most crucial service in order to bring market visibility to your business entity. Raising funds for companies is easy but to raise funds for a startup is a rough process. It is a very time-consuming process to convince an investor and build trust around him with your idea. </p>
-                        <p>AtArbiTech Soultions, we play a significant role in developing and marketing your project with a strategic approach in order to build trust among the investors and venture capitals to invest in your project. We have succeeded in helping several clients across the globe to initiate IDO launch services successfully. Our product development team has extensive experience in assisting our client in all possible ways. Our primary specialization is to customize the tokens to your own specifications. Our optimized team will assist you in becoming one of the best business entities in the digital market.</p>
+                        <p>At Arbitech Soultions, we play a significant role in developing and marketing your project with a strategic approach in order to build trust among the investors and venture capitals to invest in your project. We have succeeded in helping several clients across the globe to initiate IDO launch services successfully. Our product development team has extensive experience in assisting our client in all possible ways. Our primary specialization is to customize the tokens to your own specifications. Our optimized team will assist you in becoming one of the best business entities in the digital market.</p>
  
                     </div>
                     <div className="mt-25">
 
-                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
         

@@ -48,7 +48,7 @@ export default function Home_Blockchain_consultin() {
                             <div className="full-width mt-15-xs video-video-box">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img data-src="wat-img.jpg" className="mb-10 rounded-border img-responsive" alt="Blockchain Consulting" itemprop="contentUrl" src="wat-img.jpg" />
                                     <meta itemprop="description" content="Blockchain Consulting is the technology of the future and this has become evident now than ever before. Get it now." />
                                 </div>
@@ -82,7 +82,7 @@ export default function Home_Blockchain_consultin() {
                                 <p className="p_Safe_Mood mt-5">As a pioneer blockchain consulting services company, we set ourselves apart from the crowd with our unique solutions. Our Blockchain experts with their unmatched experience in the field,  provide the most valuable insights, effective strategies, DApps solutions and implement solid blockchain prototypes to a wide array of industries irrespective of the size i.e small- scale, mid-level to large enterprises. Our solutions assure long-term sustainability and a competitive advantage in the marketplace. </p>
                             </div>
                             <div className="mt-30">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -183,7 +183,7 @@ export default function Home_Blockchain_consultin() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -288,7 +288,7 @@ export default function Home_Blockchain_consultin() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

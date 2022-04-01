@@ -52,7 +52,7 @@ export default function Home_MetaMask() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -90,7 +90,7 @@ export default function Home_MetaMask() {
                             <div className="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center mt-5">
 
                                 <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="name" content="ArbiTech Soultions" />
+                                    <meta itemprop="name" content=" Arbitech Soultions" />
                                     <img data-src="what-is-metamask-wallet.png" className="img-responsive" alt="MetaMask Clone Script" itemprop="contentUrl" src="what-is-metamask-wallet.png" />
                                     <meta itemprop="description" content="MetaMask Clone is one of the most downloaded wallet extensions. The distributed network stores the information in various servers for security purpose. Get it now." />
                                 </div>
@@ -412,7 +412,7 @@ export default function Home_MetaMask() {
                     </div>
                     <div className="mt-25 text-center">
 
-                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                        <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                             <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -431,7 +431,7 @@ export default function Home_MetaMask() {
                 <div className="container">
                     <div className="row">
                         <div className="section-heading text-center">
-                            <h2>WhyArbiTech Soultions for MetaMask Wallet Clone App Development? </h2></div>
+                            <h2>Why Arbitech Soultions for MetaMask Wallet Clone App Development? </h2></div>
                         <div className="section-heading-line"></div>
                     </div>
                     <div className="row">
@@ -440,12 +440,12 @@ export default function Home_MetaMask() {
 
 
                                 <div className="mt-20">
-                                    <p className="sec-txt">ArbiTech Soultions is one of the best crypto and crypto-based development and service providers in the crypto ecosystem. Just like us, Our products have the name for stability and standardization in the ecosystem. We offer a MeteMask wallet with high security, and we can even integrate the requirement you seek additionally. With a team of exceptional talents, we have the liberty of making these promises confidently. If you are into owning a wallet service, then MeteMask is your great choice to make the grand opening in the crypto ecosystem.
+                                    <p className="sec-txt"> Arbitech Soultions is one of the best crypto and crypto-based development and service providers in the crypto ecosystem. Just like us, Our products have the name for stability and standardization in the ecosystem. We offer a MeteMask wallet with high security, and we can even integrate the requirement you seek additionally. With a team of exceptional talents, we have the liberty of making these promises confidently. If you are into owning a wallet service, then MeteMask is your great choice to make the grand opening in the crypto ecosystem.
                                     </p>
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

@@ -185,9 +185,9 @@ export default function Our_Cosulting() {
             <div id="sto-marketing-research" className="section-block">
         <div className="container">
             <div className="section-heading center-holder">
-                <h2>Why ChooseArbiTech Soultions As Your ICO Consulting Company? </h2>
+                <h2>Why Choose Arbitech Soultions As Your ICO Consulting Company? </h2>
                 <div className="section-heading-line"></div>
-                <p>ArbiTech Soultions is a primary ICO consultation services company in the current market. Our success stories speak for our commitment and expertise. We have unmatched successful ICO project numbers and experience, and we believe, when the customer value is met, success follows automatically. We diligently work towards bringing our clients’ vision to reality in the best possible way and help them create a unique identity for themselves and their business in the market.  </p>
+                <p> Arbitech Soultions is a primary ICO consultation services company in the current market. Our success stories speak for our commitment and expertise. We have unmatched successful ICO project numbers and experience, and we believe, when the customer value is met, success follows automatically. We diligently work towards bringing our clients’ vision to reality in the best possible way and help them create a unique identity for themselves and their business in the market.  </p>
             </div>
             <div className="row mt-50 sto-mark-gen mobile-image">
                <div className="col-md-6 mob-left">

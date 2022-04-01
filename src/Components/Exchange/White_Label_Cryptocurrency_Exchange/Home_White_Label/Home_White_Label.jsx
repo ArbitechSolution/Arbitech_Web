@@ -14,7 +14,7 @@ export default function Home_White_Label() {
                         <div className="row">
                             <div className="col-xs-12 col-md-7 col-sm-7">
                                 <div className="animated fadeInDown banner_tit"><h1>White Label Cryptocurrency Exchange Software </h1></div>
-                                <p className="animated fadeInDown">Enrich your Cryptocurrency enterprise with the robust, highly customizable white label bitcoin exchange software offering fromArbiTech Soultions. Designed for the new generation of entrepreneurs.</p>
+                                <p className="animated fadeInDown">Enrich your Cryptocurrency enterprise with the robust, highly customizable white label bitcoin exchange software offering from Arbitech Soultions. Designed for the new generation of entrepreneurs.</p>
                                 <div className="animated fadeInUp mt-30">
                                     <a href="#contact" className="button-md dark-button two-btn js-scroll-trigger">Talk to Our Experts</a>
                                     <a href="#feature-sec" className="button-md dark-button js-scroll-trigger">View Features</a>
@@ -78,7 +78,7 @@ export default function Home_White_Label() {
                     <div className="section-heading center-holder">
                         <h2>White Label Cryptocurrency Exchange <br />Software Development</h2>
                         <div className="section-heading-line"></div>
-                        <p>Welcome toArbiTech Soultions, the premier white label cryptocurrency exchange provider in the market. Our range of cryptocurrency solutions are field to brim with the latest technology and all the features that one needs. Our cryptocurrency platform is compatible with all the leading cryptocurrencies, including Bitcoin, Litecoin, Ethereum, HCK, Bitcoin SV, and more. At the same time, we provide full fiat and traditional digital currency integration to give our customers all the capabilities they need for a comprehensive white label cryptocurrency exchange.</p>
+                        <p>Welcome to  Arbitech Soultions, the premier white label cryptocurrency exchange provider in the market. Our range of cryptocurrency solutions are field to brim with the latest technology and all the features that one needs. Our cryptocurrency platform is compatible with all the leading cryptocurrencies, including Bitcoin, Litecoin, Ethereum, HCK, Bitcoin SV, and more. At the same time, we provide full fiat and traditional digital currency integration to give our customers all the capabilities they need for a comprehensive white label cryptocurrency exchange.</p>
                         <p>With an all-inclusive approach, we provide both iOS and Android versions of the exchange software along with a highly useful web application. All of this at a very affordable price and a quick turnaround time.</p>
 
                         <br /><br /><br />
@@ -105,7 +105,7 @@ export default function Home_White_Label() {
 
                         <div className="animated fadeInUp text-center mt-30">
 
-                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                            <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -166,7 +166,7 @@ export default function Home_White_Label() {
                     <div className="section-heading center-holder">
                         <h3>Features Of Our White Label Crypto Exchange Platform</h3>
                         <div className="section-heading-line"></div>
-                        <p>Our exchange software is built with cutting edge features to give you a definitive edge over the competition. Enjoy a plethora of features with this forward thinking offering fromArbiTech Soultions.</p>
+                        <p>Our exchange software is built with cutting edge features to give you a definitive edge over the competition. Enjoy a plethora of features with this forward thinking offering from Arbitech Soultions.</p>
                     </div>
                     <div className="row">
                         <div className="col-lg-2"></div>
@@ -236,7 +236,7 @@ export default function Home_White_Label() {
                         <div className="col-xs-12 col-sm-12 col-md-5 text-center mt-1">
 
                             <div itemscope="" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="name" content="ArbiTech Soultions" />
+                                <meta itemprop="name" content=" Arbitech Soultions" />
                                 <img src="whitelabel-cryptoexchange.png" />
                                 <meta itemprop="description" content="We are Expertise in the development of White-Label Cryptocurrency Exchange Development Services with the top developers to provide Best Crypto Exchange Software" />
                             </div>
@@ -251,9 +251,9 @@ export default function Home_White_Label() {
             <div className="section-block-grey ce_offeres section-block">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h3>Why ChooseArbiTech Soultions For your<br />White Label Exchange Software Solutions?</h3>
+                        <h3>Why Choose Arbitech Soultions For your<br />White Label Exchange Software Solutions?</h3>
                         <div className="section-heading-line"></div>
-                        <p>ArbiTech Soultions is the industry leader in providing world quality solutions at a cost-effective price. </p>
+                        <p> Arbitech Soultions is the industry leader in providing world quality solutions at a cost-effective price. </p>
                         <p><strong>By choosing our white label exchange solutions you get</strong></p>
                     </div>
                     <div className="row mt-30">

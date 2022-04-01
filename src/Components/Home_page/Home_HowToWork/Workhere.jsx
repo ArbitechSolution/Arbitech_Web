@@ -11,7 +11,7 @@ export default function Workhere() {
                 <div className="section-heading center-holder">
                     <h2>How it Works </h2>
                     <div className="section-heading-line"></div>
-                    <p>Once you have connected to ArbiTech Solutions this how we follow the process to make you best</p>
+                    <p>Once you have connected to  Arbitech Solutions this how we follow the process to make you best</p>
                     <h4>Our Process To Successful Blockchain Solutions</h4>
                     <div className="row">
                         <div className="col-md-4 col-sm-4">
@@ -117,7 +117,7 @@ export default function Workhere() {
                     </div>
                 </div>
                 <div className="mt-25 text-center">
-                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                 <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 

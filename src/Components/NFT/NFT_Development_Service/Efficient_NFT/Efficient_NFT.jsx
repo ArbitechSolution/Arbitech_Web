@@ -40,7 +40,7 @@ export default function Efficient_NFT() {
                                 <div className="section-heading-line"></div>
                             </div>
                             <div className="mt-40 intro_cnt">
-                                <p>We are the world's leading blockchain industry in developing NFT platforms and other services. Our ArbiTech Solutions has professional experts in developing a world-className platform that's trending in recent times with attractive features. We provide assistance based on customers' business needs and offer an NFT platform that enables high traffic and efficiently manages failures. 
+                                <p>We are the world's leading blockchain industry in developing NFT platforms and other services. Our  Arbitech Solutions has professional experts in developing a world-className platform that's trending in recent times with attractive features. We provide assistance based on customers' business needs and offer an NFT platform that enables high traffic and efficiently manages failures. 
                                 The NFT platform for token development service comes with high security 
                                 and an attractive UI for a better user experience. Our project comes with
                                  a customization service based on users requirements, and the development 

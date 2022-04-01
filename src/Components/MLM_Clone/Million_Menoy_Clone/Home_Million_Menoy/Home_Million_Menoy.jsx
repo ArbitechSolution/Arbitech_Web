@@ -42,7 +42,7 @@ export default function Home_Million_Menoy() {
                             <div className="col-md-7 text-left">
 
 
-                                <p>Being front-runners in the field of cryptocurrency and blockchain,ArbiTech Soultions composes of a broad team of developers possessing a solid background and strong expertise with the ability to offer an array of solutions across various industries. With MLM businesses widely trending in the online market, we help you get in and get ahead of your competitors efficiently by offering various smart contract MLM clone script solutions for various popular existing platforms. </p>
+                                <p>Being front-runners in the field of cryptocurrency and blockchain, Arbitech Soultions composes of a broad team of developers possessing a solid background and strong expertise with the ability to offer an array of solutions across various industries. With MLM businesses widely trending in the online market, we help you get in and get ahead of your competitors efficiently by offering various smart contract MLM clone script solutions for various popular existing platforms. </p>
 
                                 <p>Our Million Money smart contract MLM software assures you the most faithful rendition of the native platform with a transparent development process and pricing. We help you launch a perfect decentralized ethereum smart contract MLM platform like Million Money in next to no time to gain immediate traction among the potential investors over the widespread competition in the market. We include you in every step of the way to ensure your expectations are met and to bring in utmost customer satisfaction. We strive to make sure that our Million Money Clone development solutions bring in maximum visibility, credibility, and profitability for your MLM business and elevate your game in the competitive market. </p>
                             </div>
@@ -172,7 +172,7 @@ export default function Home_Million_Menoy() {
                         <div className="row">
                             <div className="mt-25 text-center">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -285,7 +285,7 @@ export default function Home_Million_Menoy() {
                         </div>
                         <div className="row">
                             <div className="mt-25 text-center">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -301,9 +301,9 @@ export default function Home_Million_Menoy() {
                 <div className="container">
                     <div className="section-heading">
                         <div className="text-center">
-                            <h3>Why ChooseArbiTech Soultions For Smart Contract Based MLM Development Like Million Money?</h3>
+                            <h3>Why Choose Arbitech Soultions For Smart Contract Based MLM Development Like Million Money?</h3>
                             <div className="section-heading-line"></div>
-                            <p className="mt-10">Being a renowned blockchain and cryptocurrency development solutions company,ArbiTech Soultions possesses a team of certified, seasoned experts with immense knowledge in smart contracts development. We ensure to render the perfect smart contract based MLM like Million Money that will help you make strides in the intensely competitive market. Here are some key attributes that make us the right choice for your Million Money MLM clone script development. </p>
+                            <p className="mt-10">Being a renowned blockchain and cryptocurrency development solutions company, Arbitech Soultions possesses a team of certified, seasoned experts with immense knowledge in smart contracts development. We ensure to render the perfect smart contract based MLM like Million Money that will help you make strides in the intensely competitive market. Here are some key attributes that make us the right choice for your Million Money MLM clone script development. </p>
                         </div>
                         <div className="row mt-40 floatReverse md-flex sto-mark-gen">
                             <div className="col-xs-12 col-md-6 col-sm-6">

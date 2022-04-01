@@ -21,7 +21,7 @@ export default function Makes_Tron_Smart() {
 
                                 </div>
                                 <div className="mt-30">
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -249,7 +249,7 @@ export default function Makes_Tron_Smart() {
     <div className="section-block">
         <div className="container">
             <div className="section-heading center-holder">
-                <h2>Why ChooseArbiTech Soultions ?</h2>
+                <h2>Why Choose Arbitech Soultions ?</h2>
                 <div className="section-heading-line"></div>
             </div>
             <div className="row mt-50">

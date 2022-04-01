@@ -60,7 +60,7 @@ export default function Trust_crypto_wallet() {
                                 </div>
                                 <div className="mt-30">
 
-                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                    <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                         <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -90,7 +90,7 @@ export default function Trust_crypto_wallet() {
                     <div className="section-heading center-holder">
                         <h3>Our Solid Expertise In Blockchain Technology</h3>
                         <div className="section-heading-line"></div>
-                        <p>The listed below are the common NFT development services we provide inArbiTech Soultions.</p>
+                        <p>The listed below are the common NFT development services we provide in Arbitech Soultions.</p>
 
                     </div>
 
@@ -198,7 +198,7 @@ export default function Trust_crypto_wallet() {
                             </ul>
                             <div className="mt-10">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
 
                                     <a target="_blank" href="#" className="button-md dark-button two-btn">Connect With Whatsapp</a>
 
@@ -264,7 +264,7 @@ export default function Trust_crypto_wallet() {
             <div className="section-block">
                 <div className="container">
                     <div className="section-heading center-holder">
-                        <h3 className="para">WhyArbiTech Soultions Is A Perfect Fit To Create A Crypto Wallet Like Trust Wallet?</h3>
+                        <h3 className="para">Why Arbitech Soultions Is A Perfect Fit To Create A Crypto Wallet Like Trust Wallet?</h3>
                         <div className="section-heading-line"></div>
 
 

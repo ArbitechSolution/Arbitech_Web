@@ -10,7 +10,7 @@ export default function FeatureNFT_MarketPlace() {
                 <div className="section-heading center-holder">
                     <h3>Features Of Our NFT Marketplace Development Platform</h3>
                     <div className="section-heading-line"></div>
-                    <p>The NFT Marketplace features we provide in Arbitech Block tech are listed below. </p>
+                    <p>The NFT Marketplace features we provide in  Arbitech Block tech are listed below. </p>
                 </div>
                 <div className="row ">
                     <div className="feature-blurb-grid row-container ">
@@ -158,7 +158,7 @@ export default function FeatureNFT_MarketPlace() {
                     <div className="section-heading center-holder">
                         <h3>Our Solid Expertise In Blockchain Technology</h3>
                         <div className="section-heading-line"></div>
-                        <p>The listed below are the common NFT development services we provide inArbiTech Soultions.</p>
+                        <p>The listed below are the common NFT development services we provide in Arbitech Soultions.</p>
                     </div>
                  
                     <div className="row">

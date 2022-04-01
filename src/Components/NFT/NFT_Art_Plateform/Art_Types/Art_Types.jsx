@@ -153,18 +153,18 @@ export default function Art_Types() {
             <div className="container">
                 <div className="row">
                     <div className="section-heading text-center">
-                        <h4>Why build an NFT art platform withArbiTech Soultions?</h4> </div>
+                        <h4>Why build an NFT art platform with Arbitech Soultions?</h4> </div>
                     <div className="section-heading-line"></div>
                 </div>
                 <div className="row">
                     <div className="col-xs-12 col-sm-12 col-md-12 text-center">
                         <div className="pr-30-md">
                             <div className="mt-20">
-                                <p className="sec-txt"> The NFT for art is the new trendsetter in the blockchain space that holds the potential to transform the entire art industry into a revenue-generating platform for upcoming generations to kick-start their business. The NFT art development benefitted many artists in showcasing their creative artworks and making a profit for their economic growth. We atArbiTech Soultions have professional experts to provide proper assistance for our valuable customers in developing an NFT art platform using the latest blockchain technology at an affordable price. Our company is globally recognized and offers various NFT development services for investors to make their investments profitable.    </p>
+                                <p className="sec-txt"> The NFT for art is the new trendsetter in the blockchain space that holds the potential to transform the entire art industry into a revenue-generating platform for upcoming generations to kick-start their business. The NFT art development benefitted many artists in showcasing their creative artworks and making a profit for their economic growth. We at Arbitech Soultions have professional experts to provide proper assistance for our valuable customers in developing an NFT art platform using the latest blockchain technology at an affordable price. Our company is globally recognized and offers various NFT development services for investors to make their investments profitable.    </p>
                             </div>
                             <div className="mt-30">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
                                     <a target="_blank" className="button-md dark-button two-btn btnwhatsapp">Connect With Whatsapp</a>
                                 </ReactWhatsapp>
 

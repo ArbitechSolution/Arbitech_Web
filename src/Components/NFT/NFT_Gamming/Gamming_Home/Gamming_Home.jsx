@@ -54,7 +54,7 @@ export default function Gamming_Home() {
                             </div>
                             <div className="mt-30">
 
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg   mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg   mt-4" >
                                     <a target="_blank" className="button-md dark-button two-btn js-scroll-trigger  ">Connect With Whatsapp</a>
                                 </ReactWhatsapp>
                             </div>
@@ -76,9 +76,9 @@ export default function Gamming_Home() {
                     </div>
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-20">
                         <div itemscope="" itemtype="https://schema.org/ImageObject">
-                            <meta itemprop="name" content="ArbiTech Soultions"/>
+                            <meta itemprop="name" content=" Arbitech Soultions"/>
                                 <img data-src="img_0.jpg" className="img-responsive rounded-border shadow-primary mt-5" alt="NFT Gaming" itemprop="contentUrl" src="img_0.jpg"/>
-                                    <meta itemprop="description" content="NFT gaming marketplace services offer a world-class solution with blockchain technologies. Contact Arbitech block tech for best NFT gaming services."/>
+                                    <meta itemprop="description" content="NFT gaming marketplace services offer a world-class solution with blockchain technologies. Contact  Arbitech block tech for best NFT gaming services."/>
                                     </div>
 
                                 </div>

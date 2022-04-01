@@ -220,7 +220,7 @@ export default function Script_SafeMars() {
 
 
                         <div className="section-heading-line"></div>
-                        <p>ArbiTech Soultions is a widely recognized clone script development company that develops many crypto clone platforms like SafeMars clone script for customers. Our efficient development and marketing services are listed below.</p>
+                        <p> Arbitech Soultions is a widely recognized clone script development company that develops many crypto clone platforms like SafeMars clone script for customers. Our efficient development and marketing services are listed below.</p>
                     </div>
                     <div className="row">
                         <div className="col-md-12">

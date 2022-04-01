@@ -35,7 +35,7 @@ export default function Life_Easier_NFT_Music() {
 
                             </div>
                             <div className="mt-25 mb-20 text-left">
-                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at ARBITECH SOLUTIONS" className="whatsaapherebg mt-4" >
+                                <ReactWhatsapp number="03036954689" message="Hi! I'm interested in one of your products at  Arbitech SOLUTIONS" className="whatsaapherebg mt-4" >
                                     <a target="_blank" className="button-md dark-button two-btn btnwhatsapp">Connect With Whatsapp</a>
                                 </ReactWhatsapp>
                             </div>
