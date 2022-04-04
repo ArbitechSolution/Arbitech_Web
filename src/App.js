@@ -254,7 +254,7 @@ function App() {
 
 
   <ContactUs></ContactUs>
-  <Footer></Footer>*
+  <Footer></Footer>
  
 </Router>
 
