@@ -71,15 +71,8 @@ import Main_Privacy_Policy from './Components/Main_Contact_Us/Main_Privacy_Polic
 import Main_Terms_and_Conditions from './Components/Main_Contact_Us/Main_Terms_and_Conditions';
 import Main_Contact_Us_here from './Components/Main_Contact_Us/Main_Contact_Us_here';
 
-{/*
-import DEFI_Marketing_Dev from './Components/DEFI_Main/DEFI_Marketing_Dev';
 
 
-
-
-
-
-*/}
 
 
 
@@ -89,6 +82,8 @@ function App() {
     <div className="App">
     <Router>
     <ToastContainer />
+
+ 
 
     <Navbarhere></Navbarhere>
 
@@ -102,22 +97,11 @@ function App() {
     <Route exact path="/NFT_OpenSea" component={OpenSea}></Route>
     <Route exact path="/NFT_Semi_Fungible" component={Semi_Fungible}></Route>
 
-
-
-
-
-
     <Route exact path="/BlockChain_Development" component={BlockChain_Development}></Route>
     <Route exact path="/Palkadot_Deve" component={Palkadot_Deve}></Route>
     <Route exact path="/Blockchain_consultin" component={Blockchain_consultin}></Route>
     <Route exact path="/Blockchain_IOT" component={Blockchain_IOT}></Route>
     <Route exact path="/Crowdfunding_Platform" component={Crowdfunding_Platform}></Route>
-
-
-
-
-
-
 
     <Route exact path="/DEFI_Development" component={DEFI_Development}></Route>
     <Route exact path="/DEFI_Safe_Moon" component={DEFI_Safe_Moon_Clone}></Route>
@@ -125,30 +109,17 @@ function App() {
     <Route exact path="/DEFI_PanCake_Clone" component={DEFi_Pancake}></Route>
     <Route exact path="/DEFI_UniSwap_Clone" component={UniSwap_Clone}></Route>
 
-
-
-
-    
-
   <Route exact path="/ICO_Development" component={ICO_Development}></Route>
   <Route exact path="/ICO_Consulting" component={ICO_Consulting_Service}></Route>
 
-
-
   <Route exact path="/IDO_Development" component={IDO_Development}></Route>
   <Route exact path="/IDO_LaunchPad" component={IDO_LaunchPad}></Route>
-
-
-
-
 
   <Route exact path="/MLM_Forsage_Script" component={MLM_Forsage_Script}></Route>
   <Route exact path="/MLM_Double_Way" component={MLM_Double_Way}></Route>
   <Route exact path="/MLM_Tron_Smart_Contract" component={MLM_Tron_Smart_Contract}></Route>
   <Route exact path="/MLM_Million_Menoy_Clone" component={MLM_Million_Menoy}></Route>
   <Route exact path="/MLM_Lions_Share_Clone" component={MLM_Lions_Share}></Route>
-
-
 
   <Route exact path="/Crpto_Dev" component={Cryptocurrency_Development}></Route>
   <Route exact path="/Wallet_Deve" component={Wallet_Develoment}></Route>
@@ -160,9 +131,6 @@ function App() {
   <Route exact path="/MetaMask_Clone" component={MetaMask_Clone}></Route>
   <Route exact path="/Binance_Smart_Chain_Development" component={Binance_Smart_Chain_Development}></Route>
 
-
-
-
   <Route exact path="/Cryptocurrenc_Exchange_Software" component={Cryptocurrenc_Exchange_Software}></Route>
   <Route exact path="/P2p_Exchange" component={P2p_Exchange}></Route>
   <Route exact path="/White_Label" component={White_Label}></Route>
@@ -172,89 +140,15 @@ function App() {
   <Route exact path="/Hybrid_crypto_Exchange" component={Hybrid_crypto_Exchange}></Route>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <Route exact path="/About_US_MAin" component={About_US_MAin}></Route>
   <Route exact path="/Main_Privacy_Policy" component={Main_Privacy_Policy}></Route>
   <Route exact path="/Main_Terms_and_Conditions" component={Main_Terms_and_Conditions}></Route>
   <Route exact path="/Main_Contact_Us_here" component={Main_Contact_Us_here}></Route>
 
 
-  
-  {/*
-  <Route exact path="/DEFI_Marketing" component={DEFI_Marketing_Dev}></Route>
-    
-    
-    
-    
-    
-  
-
-
-
-
-
-
-
-
-
-
-*/}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   <ContactUs></ContactUs>
-  <Footer></Footer>*
+  <Footer></Footer>
  
 </Router>
 

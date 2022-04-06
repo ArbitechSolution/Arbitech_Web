@@ -6,6 +6,8 @@ import ReactWhatsapp from 'react-whatsapp';
 export const Homepage = () => {
     return <div>
         <div className="swiper-slide banner-block">
+
+        
             <div className="sec-overlay"></div>
             <div className="container overlay2">
                 <div className="left-holder slider-content ">
